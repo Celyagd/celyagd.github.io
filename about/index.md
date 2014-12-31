@@ -1,25 +1,31 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About 
+tags: [about, open science, research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Papa_Desk.jpg
+  credit: Guillaume Dumas
+  
 ---
+##Who am I ?
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+- I'm a research engineer at the Centre Virchow-Villermé in Paris (in charge of the MOOC) 
+- I'm a PhD student at the Centre de Recherche Interdisciplinaire (CRI) for my doctoral school. My co-supervisors are Yann Moulier Boutang, Pascal Jollivet-Courtois (UTC Costech Lab) and Florence Piron (Université Laval).
+- I'm the co-founder of an Open Science community HackYourPhD
+- I'm a yoga teacher
 
-## Minimal Mistakes is all about:
+##What will you find on this website ? 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+Informations about : 
+
+- My research activities (Publications, Academic Presentation, Open Notebook...)
+- My Open Science activities (Events, Presentations...)
+- My teaching coordination activities with the Centre Virchow-Villermé
+- The way to contact me online
+- And other informations (yoga courses etc.)
+
+
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>

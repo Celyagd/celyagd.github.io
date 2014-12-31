@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            Célya Gruson-Daniel
+locale:           fr_fr
+url:              http://celyagd.github.io/
 
 
 # Jekyll configuration
@@ -26,32 +26,32 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Célya Gruson-Daniel
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Research Engineer, PhD Student : Open science, Open Education, MOOC, HackYourPhD and Yoga."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: @celyagd
+  facebook: c.grusondaniel
   google:
-    plus: #username
+    plus: celyagd
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  github: celyagd
+  stackoverflow: 
+  linkedin: celyagrusondaniel
+  instagram: 
+  lastfm: 
+  tumblr: http://yogeekons.tumblr.com/
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  youtube: 
+  soundcloud: hackyourphd
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
