@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Open Science 
-modified: 
-excerpt: "Open Science activities:"
+title: About 
+tags: [about, open science, research]
+modified:
+comments: true
+image:
   feature: conf-ordi.jpg
-  credit:
-  creditlink:
+  credit: 
   
- ---
+---
+
 
 ## HackYourPhD
 
@@ -22,5 +24,4 @@ excerpt: "Open Science activities:"
 ---
 
 ## Other Open Science organisations
- 
----
+
