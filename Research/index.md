@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Research Activities
-modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "My research activities:"
+title: Research
+modified: 
+excerpt: "My research activities"
   feature: sample-image-3.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  
 ---
 <section id="table-of-contents" class="toc">
   <header>
