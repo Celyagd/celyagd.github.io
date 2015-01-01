@@ -4,9 +4,10 @@ title: Open Science
 modified: 
 excerpt: "Open Science activities:"
   feature: sample-image-3.jpg
-  credit: 
+  credit:
+  creditlink:
+ ---
 
----
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Overview</h3>
@@ -25,11 +26,10 @@ excerpt: "Open Science activities:"
 
 ---
 
-
 ## Events
 
 ---
 
 ## Other Open Science organisations
  
- ---
+---
