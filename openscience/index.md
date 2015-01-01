@@ -5,8 +5,9 @@ tags: [about, open science, research]
 modified:
 comments: true
 image:
-  feature: conf-ordi.jpg
-  credit: 
+  feature: tedxpu-celyagd-couv.jpg
+  credit: PhotonQuantique
+  creditlink: https://www.flickr.com/photos/photonquantique/8992552548/in/photolist-eGDbzs-p99if3 
   
 ---
 
