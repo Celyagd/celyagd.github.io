@@ -4,8 +4,7 @@ title: research
 modified: 
 excerpt: "My research activities"
   feature: conf-ordi.jpg
-  
- ---
+---
 
 
 ## Research topic
