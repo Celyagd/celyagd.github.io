@@ -14,6 +14,8 @@ image:
 *Le 15 octobre donnait le coup d’envoi de la diffusion du livre ["Open Models"](http://www.openmodels.fr/) en version papier puis en ebook sous licence CC-BY-SA. Ce projet représente la consécration d’une année de travail pour Without Model et ceux qui se sont lancés dans une aventure intellectuelle, événementielle mais aussi amicale autour des modèles économiques de l’Open. La sortie du livre “Open Models” est l’occasion de faire un bilan des évènements, interviews et articles autour des transformations économiques dans les sphères du logiciel, de l’éducation, de la culture. Pour la partie Science, HackYourPhD a souhaité apporter sa contribution.
 Naissance du projet “Open Experience”*
 
+
+
 Il arrive souvent qu’une question commune taraude plusieurs personnes au même instant. L’art est de pouvoir réunir ces personnes autour d’une même table pour les amener à partager leurs réflexions, explorer un territoire commun, en délimiter ses frontières et trouver des prémices de solutions. C’est le rôle que Without Model a joué avec son projet “Open Expérience” : cycle d’évènements et d’articles autour des modèles économiques de l’Open.
 
 En effet, en septembre 2013 l’économie collaborative semblait être sortie de sa bulle et avoir révélé à un public large de nouvelle façon de produire, de consommer, de partager des savoirs et des connaissances. Nous étions dans la vague déferlante de l’Open, avec ses anciens comme l'Open Source et ses petits nouveaux comme l'Open Data, l'Open Education, l'Open Hardware et l'Open Science. La folie du vent collaboratif avait certes tracé son sillon mais laissait derrière lui plusieurs interrogations. Nombreux voyaient l’importance de ce mouvement pour son efficacité grâce à une organisation et des méthodologies plus collaboratives et agiles mais aussi pour son éthique portée par les notions de transparence et d’ouverture. Toutefois, beaucoup commençaient aussi à se poser la question de la durabilité d’un tel mouvement.
@@ -37,7 +39,6 @@ Le livre ["Open Models"](http://www.openmodels.fr/) vous révèlera les réflexi
 
 <figure>
 	<a href="http://hackyourphd.org/wp-content/uploads/2014/10/openmodels.png"><img src="http://hackyourphd.org/wp-content/uploads/2014/10/openmodels.png"></a>
-	<figcaption><a href="http://hackyourphd.org/wp-content/uploads/2014/10/openmodels.png" title="</a>.</figcaption>
 </figure>
 
 
