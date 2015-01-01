@@ -5,7 +5,7 @@ tags: [about, open science, research]
 modified:
 comments: true
 image:
-  feature: Papa_Desk.jpg
+  feature: Papas_Desk.jpg
   credit: Guillaume Dumas
   
 ---
