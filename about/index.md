@@ -5,7 +5,7 @@ tags: [about, open science, research]
 modified:
 comments: true
 image:
-  feature: seattle-hyphdus-cov.jpg
+  feature: seattle-hyphdus-cov.JPG
   credit: celyagd
   
 ---
