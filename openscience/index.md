@@ -6,9 +6,9 @@ modified:
 comments: true
 image:
   feature: hyphd.jpg
- credit: PhotonQuantique
- 
- ---
+  credit: Photonquantique
+
+---
 
 
 ## HackYourPhD 
