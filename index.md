@@ -5,8 +5,8 @@ tags: [about, open science, research]
 modified:
 comments: true
 image:
-  feature: seattle-hyphdus-cov.jpg
-  credit: Celyagd
+  feature: Papas_Desk.jpg
+  credit: Guillaume Dumas
   
 ---
 ##Who am I ?
