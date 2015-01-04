@@ -83,6 +83,10 @@ first steps on [Github](https://github.com/Celyagd)
 ####Events summary 
 I use [storify](https://storify.com/hackyourphd) to aggregate tweets and take some notes during Open Science conferences, presentations. 
 
+####Blog
+
+Open Science [blog posts](http://celyagd.github.io/blog/)
+
 ---
 
 
