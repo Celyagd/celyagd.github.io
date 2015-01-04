@@ -27,7 +27,7 @@ The MOOC "object" in the higher education system.
 
 ###Conference
 
-####October 2014 - Transformative Learning Conference XI- New York City
+####October 2014 - Transformative Learning Conference XI - New York City
 
 "Cradles for Imagination and Initiative" one of the four contributions produced by ten researchers- The New Commons (in a contributive economy) by Célya Gruson-Daniel & Thanh Nghiem 
 

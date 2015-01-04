@@ -16,6 +16,9 @@ image:
 - I'm the co-founder of an Open Science community [HackYourPhD](hackyourphd.org)
 - I'm a yoga teacher
 
+To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
+
+
 ##What would you find on this website ? 
 
 Informations about : 

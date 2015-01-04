@@ -32,7 +32,7 @@ We are connected with other organizations: Mozilla Science Lab, Software Carpent
 
 ###Open Science explorations
 
-####HackYourPhD aux States and au Quebec
+####HackYourPhD : States and Quebec
 With HackYourPhD, I did a first Open Science [exploration in Québec](http://hackyourphd-quebec.strikingly.com/) then I did an Open Science tour across the USA during the Summer 2013 to meet the key Open Science actors and gather information about the roots of the movement. This project [HackYourPhD aux States](http://hackyourphd-aux-states.strikingly.com/) was successfully funded by crowd funding. All the resources, interviews, travel log are openly available on our website.
 #### Open Science Interviews
 You can find more than 70 interviews of Open Science actors on [HackYourPhD soundcloud](soundcloud.com/hackyourphd). ￼
@@ -58,7 +58,7 @@ ESOF 2014 ["Think Global, Act Local : how to empower your scientific community"]
 ####5 juin- Paris - Forum Changer d'ère
 Table ronde ["Manager la complexité pour sur-vivre"](http://www.forumchangerdere.fr/ledition-2013-2) avec Joel de Rosnay, Geneviève Ferone, Blanche Segrestin
 
-####21 mai - Lanester- Forum Camp'TIC ""Solidarités et numérique"
+####21 mai - Lanester - Forum Camp'TIC ""Solidarités et numérique"
 Le Mouvement de l’Open Science : vers une réappropriation collective des connaissances et une conception plurielle de l’économie des connaissances. [Programme](http://www.camptic.info/2014/solidarites-et-numerique/programme/)
 
 ####14 mars  - Paris - SoData
@@ -71,7 +71,7 @@ Le Mouvement de l’Open Science : vers une réappropriation collective des conn
 
 ####5 juin - Paris - Forum Changer d'ère
 
-Table ronde ["Désolé pour le dérangement, les makers sont entrain de changer le monde"](http://www.forumchangerdere.fr/programme-juin-2014) avec Cyril Lage, Jennifer Leblon, Francis Lorentz
+Table ronde ["Désolé pour le dérangement, les makers sont entrain de changer le monde"](http://www.forumchangerdere.fr/programme-juin-2014) avec Cyril Lage, Jennifer Leblond, Francis Lorentz
 
 
 
@@ -79,23 +79,23 @@ Table ronde ["Désolé pour le dérangement, les makers sont entrain de changer 
 
 ## Events
 
-###Participation 
+###International participation 
 
 ####November 15-17 - Washington DC - OpenCon2014
+- Summary Day 1 ([am](https://storify.com/HackYourPhd/opencon2014-first-day)/[pm](https://storify.com/HackYourPhd/opencon2014-panel))- Day 2 ([am](https://storify.com/HackYourPhd/opencon2014)/[pm](https://storify.com/HackYourPhd/opencon2014-how-to-make-your-research-open)
+- Article [OpenCon 2014 : In the heart of Open Science advocacy](http://hackyourphd.org/en/2014/11/open-con2014-in-the-heart-of-open-science-advocacy/)
 
 ####June 21-26 - Copenhagen - ESOF2014
+Summary Day [1](https://storify.com/HackYourPhd/esof2014-day-1-think-global-act-local-how-to-enga), [2](https://storify.com/HackYourPhd/esof2014-day-2-what-is-a-phd-for-in-2014-and-open), [3](https://storify.com/HackYourPhd/esof2014-day-3-big-data-business-and-science), [4](https://storify.com/HackYourPhd/esof2014-day-4-citizen-science-open-access), [5](https://storify.com/HackYourPhd/esof2014-day-5-should-science-always-be-open)
 
-####OKFN
+####September 16-17 - Geneva - OKCon
+Summary Day [1](https://storify.com/HackYourPhd/okcon-openscience-at-the-open-knwoledge-conferenc), [2](https://storify.com/HackYourPhd/okcon-openscience-at-the-open-knowledge-conferenc), [3](https://storify.com/HackYourPhd/okcon-openscience-at-the-open-knowledge-conferenc-1) and [bonus](https://storify.com/HackYourPhd/okcon-from-open-data-to-open-science-policy-liter)
 
 
 
 ###Organization (main events)
 
-OpenAccessWeek 2014
-Open
+Open Access Week 2014, Open Geek Workshops, Atelier Open Science à la Cité des Sciences and more... ==> [HackYourPhD website](http://hackyourphd.org/evenements/)
 
 
----
-
-## Other Open Science organisations
 
