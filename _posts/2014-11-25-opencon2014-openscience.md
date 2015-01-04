@@ -13,6 +13,8 @@ image:
 
 *Last week, I attended for HackYourPhD the [OpenCon 2014](http://www.opencon2014.org/) (Nov-Dec 15-17th) gathering the early career researchers on Open Access, Open Data and Open Science. As a representative of our Open Science community, I had the chance to be one of the 80 participants selected for a full traveling grant. Being part of 175 open science/education students and researchers from around the world was a great acknowledgement for the work we have done with HackYourPhD.*
 
+
+
 I can tell, without any doubt, that this conference was the most well organized event I have never been. As we say in french, we were treated « aux petits oignons » (kid gloves). This conference was organized not only FOR the early career researchers. It was organized also BY a committee of students and ECR with [Right to Research Coalition](http://www.righttoresearch.org/) and the support of [SPARC](http://www.sparc.arl.org/).
 
 The first two days was held at the University of Washington. It was a good balance between keynotes, panels, and workshops to give us an overview of the current State of Open Science and Education and its impact in the US, but also in other parts of the world (India, Latin America, Africa…)
@@ -54,6 +56,9 @@ For HackYourPhD, my contribution have been to document the events by live-tweeti
  
 
 As one of the first alumni, I am looking forward to meeting again the OpenCon team in the next years. I’m convinced, as Patrick Brown (founder of PLOS) told us at the Opening Keynote: “Be entrepreneurial : if you believe there’s a better way don’t just complain come up with a better alternative and go for it! »
+
+
+
 
 Let’s continue on this path with HackYourPhD…
 

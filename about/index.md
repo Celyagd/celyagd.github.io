@@ -27,5 +27,3 @@ Informations about :
 - My Open Science activities (Events, Presentations...)
 - My teaching coordination activities with the Centre Virchow-Villermé
 
-
-
