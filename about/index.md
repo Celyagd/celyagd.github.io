@@ -13,7 +13,7 @@ image:
 
 - I'm a research engineer at the [Centre Virchow-Villermé](virchowvillerme.eu) in Paris (in charge of the MOOC) 
 - I'm a PhD student at the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) (doctoral school). My co-supervisors are Yann Moulier-Boutang, Pascal Jollivet-Courtois (UTC [Costech Lab](http://www.utc.fr/costech/)) and Florence Piron ([Université Laval](http://www2.ulaval.ca/en/home.html))
-- I'm the co-founder of an Open Science community [HackYourPhD](hackyourphd.org)
+- I'm the co-founder of an Open Science community [HackYourPhD](http://www.hackyourphd.org)
 - I'm a yoga teacher
 
 To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
