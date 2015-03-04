@@ -74,6 +74,8 @@ Présentation ["Science Société et Web2.0"](http://fr.slideshare.net/cgrusonda
 ####Bibliography
 [HackYourPhD Group](https://www.zotero.org/groups/hackyourphd) on Zotero for the bibliography
 
+[Pensées Yogeek](http://yogeekons.tumblr.com/) for inspiring citation from articles
+
 ####Open Science curation
 [HackYourPhD](hackyourphd.org) (website and social networks) and [Delicious](https://delicious.com/celyagd)
 
