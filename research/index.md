@@ -45,12 +45,18 @@ Contribution "[OpenModels : Les business Models de l'économie ouverte](http://w
 
 ####Novembre 2014
 
-Contribution "[Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données](http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/)" Editions FYP : Editeur de la prospective et des questions de société
+Contribution "[Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données](http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/)"
+Chapitre "[OpenScience ou la Science Ouverte](http://www.futura-sciences.com/magazines/high-tech/infos/dossiers/d/internet-big-data-boom-donnees-numeriques-1936/page/5/)"
+Editions FYP : Editeur de la prospective et des questions de société
+
 
 ---
 
 
 ## Presentations
+
+####March 2015 - Paris (Paris 10)
+Webséminaire "[Sources et ressources pour une science ouverte](http://master-recherche-infocom.u-paris10.fr/webinaire/seance-3-sources-et-ressources-open-science/)" dans le cadre du Master Recherche Infocomm *Industries culturelles et environnement numérique* (Paris 10) 
 
 ####Novembre 2014 - Paris (IRI)
 
