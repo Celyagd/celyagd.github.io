@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paysage éducatif numérique actuel et futurs possibles"
-excerpt: "Je souhaite revenir dans cet article sur le paysage éducatif à distance actuel et vous proposer une vision de l'enseignement en santé publique englobant les potentialités offertes par le numérique."
+excerpt: "Reflexion autour des MOOC du Centre Virchow-Villermé"
 modified: 
 tags: [Centre Virchow-Villermé, MOOC, education]
 comments: true
