@@ -34,7 +34,7 @@ Ces parcours éducatifs 100% en ligne sont proposés depuis de nombreuses année
 
 ##Paysage éducatif numérique actuel 
  
-Aujourd'hui, différentes solutions sont proposées pour un enseignement à distance basé sur des ressources éducatives universitaires. En s'intéressant aux fonctionnalités présentées ci-dessus, nous proposons de décrire succinctement trois dispositifs : les MOOC, les *OpenCourseWare* et les environnements numériques de travail (ENT) des universités. 
+Aujourd'hui, différentes solutions sont proposées pour un enseignement à distance basé sur des ressources éducatives universitaires. En s'intéressant aux fonctionnalités présentées ci-dessus, je propose de décrire succinctement trois dispositifs : les MOOC, les *OpenCourseWare* et les environnements numériques de travail (ENT) des universités. 
 
 
 <table style="width:100%;text-align:center;border: 1px solid black;">
@@ -46,21 +46,21 @@ Aujourd'hui, différentes solutions sont proposées pour un enseignement à dist
   </tr>
   <tr>
     <td>1) Accès </td>
-    <td>++ accès gratuit ressources libres (CC-BY/CC-BY-SA) ou ouvertes (+NC/ND)</td>		
-    <td>gratuit avec licences ou copyright</td>
-    <td>accès réservé</td>
+    <td>++ Accès gratuit ressources libres (CC-BY/CC-BY-SA) ou ouvertes (+NC/ND)</td>		
+    <td>Gratuit avec licences ou copyright</td>
+    <td>Accès réservé</td>
   </tr>
   <tr>
     <td>2) Intégration</td>
-    <td>-- pas d'accompagnement</td>		
-    <td>++ forum de discussion, quizz, évaluation</td>
-    <td>variable (rendu de devoir, suivi de la progression)</td>
+    <td>-- Pas d'accompagnement</td>		
+    <td>++ Forum de discussion, quizz, évaluation</td>
+    <td>Variable (rendu de devoir, suivi de la progression)</td>
   </tr>
   <tr>
     <td>3) Reconnaissance de l'intégration</td>
     <td>--</td>		
-    <td>attestation d'assiduité ou certificat payant</td>
-<td>diplôme universitaire</td>
+    <td>Attestation d'assiduité ou certificat payant</td>
+<td>Diplôme universitaire</td>
   </tr>
 </table>
 

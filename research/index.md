@@ -55,23 +55,30 @@ Editions FYP : Editeur de la prospective et des questions de société
 
 ## Presentations
 
+####Mai 2015 - Paris (INRA)
+Open Science/Science ouverte : comprendre la recherche en train de se faire. **Ecole IST de l'INRA** Evolutions de la recherche et impacts pour l'IST.
+
+####Avril 2015 - Québec (Université Laval)
+Conférence-Débat : Libres, ouvertes, open : que signifient les adjectifs qualifiant les pratiques de recherche contemporaines. **Présentation pour le [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/146-conference-debat-libres-ouvertes-open-que-signifient-les-adjectifs-qualifiant-les-nouvelles-pratiques-de-recherche-contemporaines)**- Présentation en ligne sur [Zenodo](https://zenodo.org/record/16980#.VX2bcOdMZcY)
+
+
 ####March 2015 - Paris (Paris 10)
-Webséminaire "[Sources et ressources pour une science ouverte](http://master-recherche-infocom.u-paris10.fr/webinaire/seance-3-sources-et-ressources-open-science/)" dans le cadre du Master Recherche Infocomm *Industries culturelles et environnement numérique* (Paris 10) 
+Webséminaire "[Sources et ressources pour une science ouverte](http://master-recherche-infocom.u-paris10.fr/webinaire/seance-3-sources-et-ressources-open-science/)" dans le cadre du **Master Recherche Infocomm *Industries culturelles et environnement numérique*** (Paris 10) 
 
 ####Novembre 2014 - Paris (IRI)
 
-Séminaire "Ecritures numériques et éditorialisation" Séance "[des blogues scientifiques aux revues savantes](http://www.iri.centrepompidou.fr/wp-content/uploads/2014/11/Programme-Ecritures-numeriques-2014-2015.pdf)" 
+Séminaire "Ecritures numériques et éditorialisation"**(IRI) **Séance "[des blogues scientifiques aux revues savantes](http://www.iri.centrepompidou.fr/wp-content/uploads/2014/11/Programme-Ecritures-numeriques-2014-2015.pdf)" 
 
 ####April 2014 - Geneva (Geneva Health Forum)
-[Mooc : the stake of Open Education Ressources for an high Social Impact](http://ghf.g2hp.net/2014/04/08/ghf2014-moocs-as-tools-providing-wide-access-to-high-quality-education/#.VKlHEKaRRrk) in the session "MOOCs as Tools Providing Wide Access to High Quality Education"
+[Mooc : the stake of Open Education Ressources for an high Social Impact](http://ghf.g2hp.net/2014/04/08/ghf2014-moocs-as-tools-providing-wide-access-to-high-quality-education/#.VKlHEKaRRrk) in the session "MOOCs as Tools Providing Wide Access to High Quality Education" at the **Geneva Health Forum**.
 
 ####Mai 2013 - Québec (Université Laval) 
 
-Colloque ACFAS "[La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
+**Colloque ACFAS** "[La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
 Présentation "Hack your Phd : une communauté forte regroupée autour de la science ouverte"
 
 ####Juin 2012 - Paris (CNAM)
-Présentation ["Science Société et Web2.0"](http://fr.slideshare.net/cgrusondaniel/science-socit-et-web-20-cnam-libres-changes) au CNAM (Libre échange organisé par Rémi Barré)
+Présentation ["Science Société et Web2.0"](http://fr.slideshare.net/cgrusondaniel/science-socit-et-web-20-cnam-libres-changes) au **CNAM** (Libre échange organisé par Rémi Barré)
 
 ---
 
