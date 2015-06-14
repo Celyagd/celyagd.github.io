@@ -42,7 +42,7 @@ Aujourd'hui, différentes solutions sont proposées pour un enseignement à dist
 |2) Intégration| -- pas d'accompagnement                                                   | ++ forum de discussion, quizz, évaluation| variable (rendu de devoir, suivi de la progression)|
 |3) Reconnaissance de l'intégration | -- | attestation d'assiduité ou certificat payant                                                               | diplôme universitaire|
 
-###MOOC
+####MOOC
 
 Le développement des MOOC en 2012 en Amérique du Nord puis à l'international est venu combler le manque d'accès et de visibilité des ressources de l'enseignement supérieur. Ces plateformes mettent ainsi à disposition des ressources éducatives gratuites  *(1/ Accès aux connaissances)* mais tous les MOOC ne proposent pas de licences sur leur contenu ou bien des licences restrictives. Les contenus sont disponibles après inscription et se présentent souvent sous forme de sessions et d'un calendrier à suivre. Cela favorise ainsi la constitution d'un groupe de participants échangeant entre eux et avec l'équipe du MOOC sur un forum de discussion. A cela, se rajoute souvent des quizz d'auto-évaluation mais aussi des exercices corrigés par d'autres participants (évaluation par les pairs), solutions proposées pour s'adapter au grand nombre de participants *(2/ Accompagnement et intégration des connaissances).* Ces exercices permettent ainsi de vérifier l'acquisition de ces connaissances et donnent, si réussite, une reconnaissance (non diplomante) (attestation d'assiduité)*(3/ Reconnaissance)*. 
 
@@ -50,7 +50,7 @@ Les délimitations de cet "objet MOOC" ne sont pas figées et ont évoluées. Ce
 
 Au sein des universités, les MOOC viennent s'ajouter à des plateformes d'enseignements numériques déjà existantes 
 
-###Environnement numérique de travail (ENT) et *OpenCourseWare*
+####Environnement numérique de travail (ENT) et *OpenCourseWare*
 
 
 Les environnements numériques de travail (ENT) ont été mis en place dans les instituts d'enseignements supérieurs avec le développement des TICE (Technologie de l'information et de la communication éducative). Ils proposent la mise à disposition de contenus éducatifs de cours. Ces plateformes de type *moodle* ou *blackboard* ne sont disponibles que pour les étudiants inscrits. Elles proposent aussi un espace de remise de devoirs, compte-rendus pour les étudiants et d'échanges entre les étudiants (forum de discussion). Ces ressources sont donc réservées aux étudiants inscrits; ce qui est critiqué par des mouvements pour des Ressources éducatives libres ou *Open Education Ressources (OER)* . Ces mouvements souhaitent une mise à disposition au plus grand nombre de ces connaissances.  
