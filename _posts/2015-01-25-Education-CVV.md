@@ -69,7 +69,6 @@ C'est un enjeux majeur pour le centre Virchow-Villermé dont un des axes princip
 
 <figure>
     <a href="/images/image-education-cvv.jpg"><img src="/images/image-education-cvv.jpg"></a>
-    <a href="/images/image-education-cvv.jpg"><img src="/images/image-education-cvv.jpg"></a>
     <figcaption>Paysage éducatif supérieur (licence CC-BY-SA)</figcaption>
 </figure>
 
