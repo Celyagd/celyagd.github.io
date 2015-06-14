@@ -1,4 +1,15 @@
-#Paysage éducatif numérique actuel et futurs possibles  
+---
+layout: post
+title: "Paysage éducatif numérique actuel et futurs possibles"
+excerpt: "Je souhaite revenir dans cet article sur le paysage éducatif à distance actuel et vous proposer une vision de l'enseignement en santé publique englobant les potentialités offertes par le numérique."
+modified: 
+tags: [Centre Virchow-Villermé, MOOC, education]
+comments: true
+image:
+  feature:
+  credit: 
+
+---
 
 
 *La plateforme de MOOC France Université Numérique  (FUN) a fêté ses un an en janvier 2015. Son annonce puis son lancement avaient été largement relayés par la presse spécialisée mais aussi générale. Cette vague médiatique s'est accompagnée dans le milieu de l'enseignement supérieur du développement de premier MOOC mais aussi de questionnement sur cet objet aux contours encore flous.
