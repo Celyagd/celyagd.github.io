@@ -41,6 +41,11 @@ We are connected with other organizations: Mozilla Science Lab, Software Carpent
 
 ## Presentations
 
+###2015
+
+####4 Juin 2015 - Paris - Wikistage SoScience
+Comment concilier Open Science et recherche responsable ? [Video](http://www.wikistage.org/comment-concilier-open-science-et-recherche-responsable-celya-gruson-daniel-wikistage-soscience_d27e5bde0.html)
+
 ###2014
 
 ####18 Octobre 2014 - Metz - Assises du Journalisme
