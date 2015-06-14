@@ -36,11 +36,33 @@ Ces parcours éducatifs 100% en ligne sont proposés depuis de nombreuses année
  
 Aujourd'hui, différentes solutions sont proposées pour un enseignement à distance basé sur des ressources éducatives universitaires. En s'intéressant aux fonctionnalités présentées ci-dessus, nous proposons de décrire succinctement trois dispositifs : les MOOC, les *OpenCourseWare* et les environnements numériques de travail (ENT) des universités. 
 
-| Connaissances | OpenCourseWare                                                  | MOOC | Environnement Numérique de Travail         | 
-|:-------------:| :-----------:|:--------:|:-------:|                  
-|1) Accès  |  ++ accès gratuit ressources libres (CC-BY/CC-BY-SA) ou ouvertes (+NC/ND) | gratuit avec licences ou copyright| accès réservé |
-|2) Intégration| -- pas d'accompagnement                                                   | ++ forum de discussion, quizz, évaluation| variable (rendu de devoir, suivi de la progression)|
-|3) Reconnaissance de l'intégration | -- | attestation d'assiduité ou certificat payant                                                               | diplôme universitaire|
+
+<table style="width:100%;text-align:center;border: 1px solid black;">
+  <tr>
+    <th>Connaissances</th>
+    <th>OpenCourseWare</th>		
+    <th>MOOC</th>
+    <th>Environnement Numérique de Travail</th>
+  </tr>
+  <tr>
+    <td>1) Accès </td>
+    <td>++ accès gratuit ressources libres (CC-BY/CC-BY-SA) ou ouvertes (+NC/ND)</td>		
+    <td>gratuit avec licences ou copyright</td>
+    <td>accès réservé</td>
+  </tr>
+  <tr>
+    <td>2) Intégration</td>
+    <td>-- pas d'accompagnement</td>		
+    <td>++ forum de discussion, quizz, évaluation</td>
+    <td>variable (rendu de devoir, suivi de la progression)</td>
+  </tr>
+  <tr>
+    <td>3) Reconnaissance de l'intégration</td>
+    <td>--</td>		
+    <td>attestation d'assiduité ou certificat payant</td>
+<td>diplôme universitaire</td>
+  </tr>
+</table>
 
 ####MOOC
 
