@@ -13,13 +13,14 @@ image:
 ## Main research 
 
 ###2014-now - PhD project (CRI/ UTC/ Laval) 
-Mapping the Open Science Movement: Characteristics and Impact on the Research System (presentation on [Figshare](http://figshare.com/articles/PhD_Project_Mapping_the_Open_Science_Movement_Characteristics_and_Impact_on_the_Research_System_April_2014_/1064413), April 2014)
+Mapping the Discourse and Conception about Openness in Science and research practices 
+
 
 ###2013-now - Research engineer project (Centre Virchow-Villermé)
 The MOOC "object" in the higher education system. 
 
 
-*Field : Information and communication studies, Science and Technology studies, complex systems* 
+*Field : Information and communication studies, Science, Technologies and Society Studies, Digital methods* 
 
 ---
 
@@ -55,6 +56,9 @@ Editions FYP : Editeur de la prospective et des questions de société
 
 ## Presentations
 
+####Juin 2015- Montpellier (CIRAD)
+D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud
+
 ####Mai 2015 - Paris (INRA)
 Open Science/Science ouverte : comprendre la recherche en train de se faire. **Ecole IST de l'INRA** Evolutions de la recherche et impacts pour l'IST.
 
@@ -79,6 +83,15 @@ Présentation "Hack your Phd : une communauté forte regroupée autour de la sci
 
 ####Juin 2012 - Paris (CNAM)
 Présentation ["Science Société et Web2.0"](http://fr.slideshare.net/cgrusondaniel/science-socit-et-web-20-cnam-libres-changes) au **CNAM** (Libre échange organisé par Rémi Barré)
+
+
+---
+
+## Teaching
+
+####MOOCSciNum 
+coordination of the **MOOCSciNum** (October 2015) 
+[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)
 
 ---
 

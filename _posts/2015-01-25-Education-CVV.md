@@ -29,7 +29,7 @@ Mais l'accessibilité et visibilité de ces connaissances ne signifient pas qu'e
 	- une communauté créée autour de ces ressources éducatives permettant aux participants de se motiver mutuellement mais aussi d'obtenir des réponses à leurs questions (approche constructiviste). 
 	- une vérification des connaissances acquises sous la forme d'auto-évaluation ou d'exercices corrigés par d'autres. 
 - Ces deux premières fonctions sont complétées dans un dispositif éducatif par **la reconnaissance de l'acquisition des ces contenus**. Cette reconnaissance peut être source de motivation personnelle ou extrinsèque lorsqu'elle peut s'intégrer dans une formation certifiante. 
-Ces parcours éducatifs 100% en ligne sont proposés depuis de nombreuses années par différents instituts. (Open University, CNAM). Mais pour pouvoir y accéder, cela nécessite une inscription et un coût. Les MOOC sont venus complétés cette offre avec la mise à disposition à tous de ressources éducatives.   
+Ces parcours éducatifs 100% en ligne sont proposés depuis de nombreuses années par différents instituts. (Open University, CNAM). Mais pour pouvoir y accéder, cela nécessite une inscription et un coût. Les MOOC sont venus compléter cette offre avec la mise à disposition à tous de ressources éducatives.   
 
 
 ##Paysage éducatif numérique actuel 
@@ -84,7 +84,7 @@ Les *OpenCourseWare*, traduits en français par didacticiels libres ou matériel
 ##Une proposition d'articulation de ces différents dispositifs 
 
 
-Dans ce paysage éducatif, comment réussir à articuler ces différents dispositifs afin d'offrir un enseignement le plus large possible avec une approche modulaire répondant aux attentes de différentes formations (diplomates, certifiantes, tout au long de la vie) ? 
+Dans ce paysage éducatif, comment réussir à articuler ces différents dispositifs afin d'offrir un enseignement le plus large possible avec une approche modulaire répondant aux attentes de différentes formations (diplomantes, certifiantes, tout au long de la vie) ? 
 
 C'est un enjeux majeur pour le centre Virchow-Villermé dont un des axes principaux est un enseignement ouvert au plus grand monde en santé publique. 
 
