@@ -13,7 +13,7 @@ image:
 ## Main research 
 
 ###2014-now - PhD project (CRI/ UTC/ Laval) 
-Mapping the Discourse and Conception about Openness in Science and research practices 
+Mapping DIScourse and Conceptions about Openness in science and Research practices (DISCOveR)
 
 
 ###2013-now - Research engineer project (Centre Virchow-Villermé)
