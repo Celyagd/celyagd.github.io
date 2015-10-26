@@ -23,4 +23,3 @@ Informations about :
 - My research activities (Publications, Academic Presentation, Open Notebook...)
 - My Open Science activities (Events, Presentations...)
 - My teaching coordination activities with the Centre Virchow-Villermé
-- And other informations (yoga courses etc.)
