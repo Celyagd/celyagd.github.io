@@ -13,12 +13,11 @@ image:
 ## Main research 
 
 ###2014-now - PhD project (CRI/ UTC/ Laval) 
-Mapping DIScourse and Conceptions about Openness in science and Research practices (DISCOveR)
+Discourse and Conceptions about Openness in science and Research practices (DisCOveR)
 
 
 ###2013-now - Research engineer project (Centre Virchow-Villermé)
-The MOOC "object" in the higher education system. 
-
+MOOC as a space for digital methods
 
 *Field : Information and communication studies, Science, Technologies and Society Studies, Digital methods* 
 
@@ -27,6 +26,10 @@ The MOOC "object" in the higher education system.
 ## Publications
 
 ###Conference
+
+####Aout 2015 - HumanNum2015 - Montréal
+
+"Le MOOC comme espace numérique de recherche"
 
 ####October 2014 - Transformative Learning Conference XI - New York City
 

@@ -5,7 +5,7 @@ tags: [about, MOOCSciNum, training]
 modified:
 comments: true
 image:
-  feature: MOOCSciNum_pano_image
+  feature: moocscinum.jpg
   credit: Christelle Fritz/ Bac Chu-Vu
 
 ---
