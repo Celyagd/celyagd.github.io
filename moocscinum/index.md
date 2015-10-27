@@ -1,32 +1,30 @@
 ---
 layout: page
-title: About 
+title: Conception et coordination du MOOCSciNum 
 tags: [about, MOOCSciNum, training]
 modified:
 comments: true
 image:
-  feature: hyphd.jpg
+  feature: MOOCSciNum_pano_image
   credit: Christelle Fritz/ Bac Chu-Vu
 
 ---
 
 
-# Syllabus MOOCSciNum
 
 ##Présentation générale
 
-**MOOC [Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)**
+###MOOC [Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)**
 
 Ce MOOC a pour objectif de donner aux chercheurs, professionnels de la recherche en santé et sciences du vivant et futurs chercheurs français et francophones les éléments nécessaires pour **s'adapter à l’évolution des pratiques de recherche en santé** (de la gestion à la communication et à la diffusion de ressources scientifiques) et leur permettre de prendre en main les outils numériques associés. Il permettra en outre de saisir **certains nouveaux enjeux technologiques, sociaux, juridiques, éthiques** tels que le libre accès à la publication scientifique, le partage de données scientifiques ainsi que les changements de méthodologies que le numérique peut introduire dans les pratiques de recherche (data driven research, recherche participative). 
 Aussi, chaque séance fera appel à une diversité d’experts (chercheurs, ingénieurs de recherche, bibliothécaires, médecins, juristes etc.) pour apporter un éclairage sur les enjeux de ces nouveaux usages. Des screencasts proposeront **des retours d'expérience de chercheurs et permettront de découvrir ainsi un ensemble d’outils numériques** open source utilisés en recherche (logiciel R, Zotero, Github, Python).
 
 Les échanges entre participants et intervenants de ce MOOC et les réflexions générées dans ce cadre constitueront une source importante, une matière vive, qui viendra nourrir la pratique. Il sera aussi question pour chaque participant de se questionner sur ses propres pratiques et de construire au fil du MOOC des objectifs concrets pour les faire évoluer.
 
-Conception et coordination : Célya Gruson-Daniel 
 
 Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir 
 
-Session 1 : 19 octobre 2015- 6 décembre 2016 sur France Université Numérique
+**Session 1 : 19 octobre 2015- 6 décembre 2016 sur France Université Numérique**
 
 
 ## Séance 0 : Recherche à l'ère du numérique : quelles transformations ? (séance d'introduction)
@@ -41,6 +39,7 @@ Session 1 : 19 octobre 2015- 6 décembre 2016 sur France Université Numérique
   - [Import et gestion de références bibliographiques](https://www.youtube.com/watch?v=pbzBhQk9S7w) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4JFWaRzWg)
   - [Insertion et gestion de citations et de bibliographies](https://www.youtube.com/watch?v=6AoackQaw1g) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/Nkbq2Czbg)
   - [Partager des ressources dans un groupe Zotero](https://www.youtube.com/watch?v=HDcO2TAPGdk) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VyGw30M-g) (*Célya Gruson-Daniel*)
+- [Infographie](http://figshare.com/articles/Biblioth_que_et_num_rique_quels_d_fis_et_quels_r_les_jouer_/1585142) d'Hélène Pouille
 
 ## Séance 2 : Collecter/produire des données scientifiques
 - [Interview] Numérique et collecte de données en santé
