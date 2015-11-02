@@ -42,8 +42,9 @@ Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir
 - [Infographie](http://figshare.com/articles/Biblioth_que_et_num_rique_quels_d_fis_et_quels_r_les_jouer_/1585142) d'Hélène Pouille
 
 ## Séance 2 : Collecter/produire des données scientifiques
-- [Interview] Numérique et collecte de données en santé
-- [Screencast] Daydream : un exemple de collecte de données en ligne
+- [Interview] [Numérique et collecte de données en santé](https://www.youtube.com/watch?v=vB0jHQgVkEs&list=PLp_ugSUC6I1oANRlVyd0oou2YPdngIqn_&index=2) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/EJzOAGnZx) (*Vandan Sharma*)
+- [Screencast] [Expérimentation en ligne et collecte de données un exemple avec Daydream](https://www.youtube.com/watch?v=nQWLKt_6Ac4&list=PLp_ugSUC6I1oANRlVyd0oou2YPdngIqn_) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/N1nvkQ2Ze) (*Vincent Adam*)
+- [Infographie](http://figshare.com/articles/Num_rique_et_collecte_des_donn_es_en_sant_/1590970) d'Hélène Pouille
 
 ## Séance 3 : Traiter/analyser des données scientifiques
 - [Interview] Données et numérique : quelles "réelles" transformations ?
