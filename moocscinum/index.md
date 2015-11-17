@@ -51,10 +51,11 @@ Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir
 - [Screencast 1] Recherche en neurogénétique : exemple d'utilisation de Python et de Github
 - [Screencast 2] Analyse de données en épidémiologie avec R
 
-## Séance 4 : Archiver/partager des données scientifiques : données de santé, données sensibles
-- [Interview 1] Des données partagées aux données ouvertes en recherche
-- [Interview 2] Données de santé, données sensibles : quels droits ? Quelles protections ?
-- [Screencast] Partage de données médicales anonymisées
+## Séance 4 : Partager des données scientifiques : données de santé, données sensibles
+- [Interview 1] [Des données partagées aux données ouvertes en recherche](https://www.youtube.com/watch?v=_Y0MiIqBjM0&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4yeeFq0Me)
+- [Interview 2] Quelles protections pour les données de santé en recherche ? [Partie 1](https://www.youtube.com/watch?v=Msf7emTMPjU&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_&index=2) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VkUXK9Azx) et [Partie 2](https://www.youtube.com/watch?v=kP-qDndoxfs&index=3&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/EyZj_qRfx)
+- [Screencast] [Partage de données médicales anonymisées](https://www.youtube.com/watch?v=VxGkiF--3D0&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/41Bzs5CMg)
+- [Infographie](http://figshare.com/articles/Donn_es_de_sant_quelles_protections_/1601882) d'Olivia Zarcate 
 
 ## Séance 5 : Partager ses résultats scientifiques : écrire et publier
 - [Interview 1] Publier sa recherche à l'ère du numérique : Open Access
