@@ -58,9 +58,10 @@ Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir
 - [Infographie](http://figshare.com/articles/Donn_es_de_sant_quelles_protections_/1601882) d'Olivia Zarcate 
 
 ## Séance 5 : Partager ses résultats scientifiques : écrire et publier
-- [Interview 1] Publier sa recherche à l'ère du numérique : Open Access
-- [Interview 2] Droit d’auteur et licences Creative Commons : quelques précisions utiles avant de publier
-- [Screencast 1] Déposer un article dans HAL
+- [Interview 1] [Publier à l'ère du numérique](https://www.youtube.com/watch?v=uKUScf6NrNY&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NkoCWksQe) et [Le libre accès à la publication scientifique](https://www.youtube.com/watch?v=VbGEmOi7PEo&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k&index=3) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4kswXyimx) (*Serge Bauin*)
+- [Interview 2] [Droit d’auteur et licences Creative Commons : quelques précisions utiles avant de publier](https://www.youtube.com/watch?v=MM8oZPsGOj0&index=2&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/N1WJmysXg) (*Danièle Bourcier*)
+- [Screencast 1] Déposer un article dans HAL [Partie 1](https://www.youtube.com/watch?v=XiOw-ilpnjo&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VyEmX1jmg) [Partie 2](https://www.youtube.com/watch?v=0n7yuI788Z4&index=5&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/E1Gn4Jjml) [Partie 3](https://www.youtube.com/watch?v=NRTy8B4WvaI&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k&index=6) + [mp3](https://www.youtube.com/watch?v=NRTy8B4WvaI&index=6&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k) (*Lucie Albaret*)
+- [Screencast 2] [Modifier un dépôt dans HAL](https://www.youtube.com/watch?v=ggE_wqsZHjw&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k&index=7) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/EkaUt1iQl) (*Lucie Albaret*)
 
 ## Séance 6 : Faire partie d'une communauté scientifique
 - [Interview] Evaluer, être évalué : retour sur la "machinerie" de l'évaluation et ses évolutions
