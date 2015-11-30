@@ -47,9 +47,10 @@ Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir
 - [Infographie](http://figshare.com/articles/Num_rique_et_collecte_des_donn_es_en_sant_/1590970) d'Hélène Pouille
 
 ## Séance 3 : Traiter/analyser des données scientifiques
-- [Interview] Données et numérique : quelles "réelles" transformations ?
-- [Screencast 1] Recherche en neurogénétique : exemple d'utilisation de Python et de Github
-- [Screencast 2] Analyse de données en épidémiologie avec R
+- [Interview] [Données et numérique : quelles "réelles" transformations ?](https://www.youtube.com/watch?v=itHhiPkH7yc) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/V1kiN8rMg) (*Antoine Flahault*)
+- [Screencast 1] [Analyse de données en neurogénétique avec Python](https://www.youtube.com/watch?v=nKnNeIy5SqM) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VJm1NIBMx) (*Guillaume Dumas*)
+- [Screencast 2] [Analyse de données en épidémiologie avec R](https://www.youtube.com/watch?v=KE-WZwGaGi4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/N1csX8BGe) (*Kévin Jean*)
+- [Screencast 3] [Une introduction à Git et Github](https://www.youtube.com/watch?v=jrxOCiIo1fs) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VkUX4LrMx) (*Guillaume Dumas*)
 
 ## Séance 4 : Partager des données scientifiques : données de santé, données sensibles
 - [Interview 1] [Des données partagées aux données ouvertes en recherche](https://www.youtube.com/watch?v=_Y0MiIqBjM0&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4yeeFq0Me)
@@ -64,9 +65,10 @@ Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir
 - [Screencast 2] [Modifier un dépôt dans HAL](https://www.youtube.com/watch?v=ggE_wqsZHjw&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k&index=7) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/EkaUt1iQl) (*Lucie Albaret*)
 
 ## Séance 6 : Faire partie d'une communauté scientifique
-- [Interview] Evaluer, être évalué : retour sur la "machinerie" de l'évaluation et ses évolutions
-- [Screencast 1] Faire connaître ses activités de recherche : comparaison de Zenodo et Figshare
-- [Screencast 2] Communiquer sur ses recherches : présence "en ligne".
+- [Interview] [Panorama de l'évaluation scientifique et de ses évolutions : du facteur d'impact au h index](https://www.youtube.com/watch?v=byRK3GusJyY&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=1) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NktwH-B4x) suivi de la partie 2 : [Le développement des altmetrics](https://www.youtube.com/watch?v=5Fpfb-jWPPU&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=2) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NynzIZSNg)(*David Pontille*))
+- [Screencast 1] [Présence en ligne : retour d'expérience d'un chercheur](https://www.amara.org/fr/videos/A0C9eEFAWGX9/info/presence-en-ligne-retour-dexperience-dun-chercheur-moocscinums6/) (*Thomas Crouzier*)
+- [Screencast 2] [Faire connaître ses activités de recherche : comparaison de Zenodo et Figshare](https://www.youtube.com/watch?v=KRq_rLldzME&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=3) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4JEiBWBNl) (*Thomas Crouzier*)
+- [Screencast 3] [Gérer son identité et sa présence en ligne avec HAL](https://www.youtube.com/watch?v=21LlrRz5HaU&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NyRDjbBNe) (*Marie-Laure Paganelli*)
 
 ## Séance 7 : Nouvelles formes d’interaction en recherche et enjeux éthiques
 - [Interview 1] Ouvrir le processus de recherche : des sciences citoyennes à la recherche participative
