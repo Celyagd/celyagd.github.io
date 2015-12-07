@@ -71,7 +71,8 @@ Financement = Centre Virchow-Villermé/USPC/ Investissement d'Avenir
 - [Screencast 3] [Gérer son identité et sa présence en ligne avec HAL](https://www.youtube.com/watch?v=21LlrRz5HaU&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NyRDjbBNe) (*Marie-Laure Paganelli*)
 
 ## Séance 7 : Nouvelles formes d’interaction en recherche et enjeux éthiques
-- [Interview 1] Ouvrir le processus de recherche : des sciences citoyennes à la recherche participative
-- [Interview 2] Ethique de la recherche à l'ère du numérique
-- [Screencast 1] Présentation d'un projet de sciences citoyenne avec le Citizen Cyberlab
-- [Screencast 2] Blogs scientifiques
+- [Interview 1] [Ouvrir le processus de recherche : des sciences citoyennes à la recherche participative](https://www.youtube.com/watch?v=hphLHYzDH3A&index=1&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) +[mp3](https://oae.esup-portail.org/content/OAE-Esup/41hgFxFVe) (*Florence Piron*)
+- [Interview 2] [Ethique de la recherche à l'ère du numérique](https://www.youtube.com/watch?v=7DP_cAbmjQ4&index=2&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) (*Madeleine Pastinelli et Guillaume Latzko-Toth*)
+- [Screencast Partie 1] [Strange Stuff and Funky Things : histoire d'un blog scientifique](https://www.youtube.com/watch?v=k7ZSCDjwQS4&index=3&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) +  [mp3](https://oae.esup-portail.org/content/OAE-Esup/4y7PKetEe)
+- [Screencast  Partie 2] [Communiquer la science : découverte du c@fé des sciences et de la blogosphère française](https://www.youtube.com/watch?v=SSFc0s-V-2Y&index=4&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4yJ19gFVe) 
+- [Screencast Partie 3] [Pourquoi bloguer lorsqu'on est chercheur ?](https://www.youtube.com/watch?v=ATPb8URGABw&index=5&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/41MXceKVg) (*Pierre Kerner* pour les trois parties)
