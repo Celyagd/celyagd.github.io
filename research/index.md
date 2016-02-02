@@ -16,20 +16,24 @@ image:
 Discourse and Conceptions about Openness in science and Research practices (DisCOveR)
 
 
-###2013-now - Research engineer project (Centre Virchow-Villermé)
-MOOC as a space for digital methods
+###2013-now - Research on MOOC (Centre Virchow-Villermé)
+MOOC as a new field for virtual ethnography and digital methods 
 
 *Field : Information and communication studies, Science, Technologies and Society Studies, Digital methods* 
 
 ---
 
-## Publications
+## Publications and presentations
 
 ###Conference
 
+####Janvier 2016- Journée doctorale interlabos (COSTECH-GRIPIC-CARISM)
+
+""[Data et reconfiguration des collectifs de recherche en SIC](https://zenodo.org/record/45236#.VrBeOBhAvzM)" présentation proposée avec Constance de Quatrebarbes 
+
 ####Aout 2015 - HumanNum2015 - Montréal
 
-"Le MOOC comme espace numérique de recherche"
+"Le MOOC comme espace de recherche numérique"
 
 ####October 2014 - Transformative Learning Conference XI - New York City
 
@@ -57,10 +61,11 @@ Editions FYP : Editeur de la prospective et des questions de société
 ---
 
 
-## Presentations
+## Presentations 
+Invitation à présenter 
 
 ####Juin 2015- Montpellier (CIRAD)
-D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud
+D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud- [Videos en trois parties](http://coop-ist.cirad.fr/actualites/le-defi-d-une-science-ouverte-engagee-dans-les-pays-du-sud/%28language%29/fre-FR)
 
 ####Mai 2015 - Paris (INRA)
 Open Science/Science ouverte : comprendre la recherche en train de se faire. **Ecole IST de l'INRA** Evolutions de la recherche et impacts pour l'IST.
