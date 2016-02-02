@@ -12,11 +12,11 @@ image:
 ---
 ## Main research 
 
-###2014-now - PhD project (CRI/ UTC/ Laval) 
+### 2014-now - PhD project (CRI/ UTC/ Laval) 
 Discourse and Conceptions about Openness in science and Research practices (DisCOveR)
 
 
-###2013-now - Research on MOOC (Centre Virchow-Villermé)
+### 2013-now - Research on MOOC (Centre Virchow-Villermé)
 MOOC as a new field for virtual ethnography and digital methods 
 
 *Field : Information and communication studies, Science, Technologies and Society Studies, Digital methods* 
