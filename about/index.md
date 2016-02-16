@@ -9,7 +9,7 @@ image:
   credit: Celyagd
   
 ---
-##Who am I ?
+## Who am I ?
 
 - I'm a research engineer at the [Centre Virchow-Villermé](http://www.virchowvillerme.eu) in Paris (coordination of the MOOC Factory) 
 - I'm a PhD student at the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) (doctoral school). My co-supervisors are Yann Moulier-Boutang, Pascal Jollivet-Courtois (UTC [Costech Lab](http://www.utc.fr/costech/)) and Florence Piron ([Université Laval](http://www2.ulaval.ca/en/home.html))
@@ -18,7 +18,7 @@ image:
 To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
 
 
-##What would you find on this website ? 
+## What would you find on this website ? 
 
 Informations about : 
 
