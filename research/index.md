@@ -27,9 +27,13 @@ MOOC as a new field for virtual ethnography and digital methods
 
 ### Conference
 
+#### Mai 2016- Enjeux méthodologiques de la recherche sur les usages d’ Internet et des technologies numériques (ACFAS)- Montréal
+
+[Retour d’expérience sur le Hackathon Recherche République Numérique : méthodes numériques développées autour des données (data) de la consultation sur le projet de loi numérique en France](http://www.acfas.ca/evenements/congres/programme/84/400/456/c), présentation proposée avec Constance de Quatrebarbes 
+
 #### Janvier 2016- Journée doctorale interlabos (COSTECH-GRIPIC-CARISM)
 
-""[Data et reconfiguration des collectifs de recherche en SIC](https://zenodo.org/record/45236#.VrBeOBhAvzM)" présentation proposée avec Constance de Quatrebarbes 
+[Data et reconfiguration des collectifs de recherche en SIC](https://zenodo.org/record/45236#.VrBeOBhAvzM)" présentation proposée avec Constance de Quatrebarbes 
 
 #### Aout 2015 - HumanNum2015 - Montréal
 
