@@ -20,7 +20,7 @@ image:
 Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur Linkedin [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
 
 
-## Que trouverez-vous sur ce site ? 
+## Que trouvez-vous sur ce site ? 
 
 Vous y trouverez : 
 
@@ -31,6 +31,7 @@ Vous y trouverez :
 *********************************************************************************************
 
 **English**
+
 ## Who am I ? 
 
 - I'm a research engineer at the [Centre Virchow-Villermé](http://www.virchowvillerme.eu) in Paris (Open and Digital Science Project Manager) 
