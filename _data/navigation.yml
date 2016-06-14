@@ -1,17 +1,17 @@
 # Site navigation links
 
-- title: About
+- title: About // À propos
   url: /about/
 
-- title: Research
+- title: Research // Recherche
   url: /research/
 
-- title: Open Science
+- title: Open Science / HackYourPhD 
   url: /openscience/
 
 - title: Blog 
   url: /blog/
 
-- title: MOOCSciNum
+- title: Teaching / MOOCSciNum
   url: /moocscinum/
 
