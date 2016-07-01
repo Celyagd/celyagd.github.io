@@ -28,9 +28,9 @@ J'ai cofondé [HackYourPhD](hackyourphd.org) une communauté Open Science en jan
 
 HackYourPhD : 
 
-- partage des  **actualités sur l'Open Science** par le biais d'une veille collaborative sur les réseaux sociaux, principalement [Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](https://twitter.com/hackyourphd)
-- organise **des évènements** en France; notamment des ateliers introductifs et des débats sur l'Open Science (cf. notre page événement en [français](http://hackyourphd.org/evenements/) et en [anglais](http://hackyourphd.org/en/event/)). Nous menons depuis 2014 des **ateliers de formation au code** (python): [Open Geek ](http://hackyourphd.org/ateliers-open-geek/).￼￼￼￼
-- produit des **contenus en ligne** pour faire découvrir différentes facettes de l'Open Science et les différents profils qui y participent. Le blog HackYourPhD contient différents articles, interviews mais aussi des formats plus originaux pour communiquer à ce sujet (e.g. [flyers](http://hackyourphd.org/en/flyers/))
+- partage des  **actualités sur l'Open Science** par le biais d'une veille collaborative sur les réseaux sociaux, principalement [Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](https://twitter.com/hackyourphd) ;
+- organise **des évènements** en France; notamment des ateliers introductifs et des débats sur l'Open Science (cf. notre page événement en [français](http://hackyourphd.org/evenements/) et en [anglais](http://hackyourphd.org/en/event/)). Nous menons depuis 2014 des **ateliers de formation au code** (python) [Open Geek](http://hackyourphd.org/ateliers-open-geek/) ;￼￼￼￼
+- produit des **contenus en ligne** pour faire découvrir différentes facettes de l'Open Science et les différents profils qui y participent. Le blog HackYourPhD contient différents articles, interviews mais aussi des formats plus originaux pour communiquer à ce sujet (e.g. [flyers](http://hackyourphd.org/en/flyers/)) ;
 
 Nous sommes en contact avec d'autres organisations impliquées dans cette thématique : Mozilla Science Lab, Software Carpentry, Open Knowledge Foundation, Right to Research, Open Con, FOSTER, etc. 
 
