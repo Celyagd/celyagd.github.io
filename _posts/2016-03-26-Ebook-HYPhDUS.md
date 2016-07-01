@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Sortie du livre enrichi HYPhDUS"
-excerpt: "livre regroupant 9 portraits d’acteurs de la génération Open Science sélectionnés sur un total de plus de 55 interviews réalisées pendant le voyage HackYourPhD aux States."
+excerpt: "Livre regroupant 9 portraits d’acteurs de la génération Open Science"
 modified: 
 tags: [HackYourPhD, Open Science, education, Interview]
 comments: true
 image: hyphdus-cover.jpg
   feature: 
   credit: 
-
+  
 ---
 
 
