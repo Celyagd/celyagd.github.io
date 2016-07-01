@@ -5,12 +5,19 @@ excerpt: "Livre regroupant 9 portraits d’acteurs de la génération Open Scien
 modified: 
 tags: [HackYourPhD, Open Science, education, Interview]
 comments: true
-image: hyphdus-cover.jpg
+image: 
   feature: 
   credit: 
   
 ---
 
+**Click ! and go directly to the french or the english version** 
+
+1. [Français](#français)
+2. [English](#english)
+
+
+### Français <a name="français"></a>
 
 *Janvier 2013, la communauté HackYourPhD se crée autour de la thématique de l’Open Science. Quelques mois plus tard, l’idée est lancée de réaliser un web documentaire afin de mieux comprendre ce qu’est l’Open Science et d’aller à la rencontre de ces acteurs. Le 31 mai 2013, une campagne de crowdfunding (financement participatif) est lancée. Le voyage HackYourPhD aux States (http://hackyourphd.org/USA/) a été un projet d’investigation à la croisée de la recherche, du design, de l’entreprenariat et du hacking (de doctorat).*
 
@@ -40,7 +47,7 @@ Les photos et l’ensemble du contenu de l’ebook sous sous licence Creative Co
 
 
 
-
+### English <a name="english"></a>
 
 ##Discover our book : “Profiles of young researchers of the Open Science generation”
 
