@@ -14,7 +14,7 @@ image:
 1. [Français](#français)
 2. [English](#english)
 
-#### 1- Français <a name="français"></a>
+### Français <a name="français"></a>
 
 
 ## Qui suis-je ? 
@@ -36,7 +36,7 @@ Vous y trouverez :
 - Quelques articles de blog écrits pour différents sites (MyScienWork, HackYourPhD, Centre Virchow-Villermé) ==> par [là](http://celyagd.github.io/blog/)
 
 
-#### 2- English <a name="english"></a>
+### English <a name="english"></a>
 
 
 
