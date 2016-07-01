@@ -49,7 +49,7 @@ Les photos et l’ensemble du contenu de l’ebook sous sous licence Creative Co
 
 ### English <a name="english"></a>
 
-##Discover our book : “Profiles of young researchers of the Open Science generation”
+## Discover our book : “Profiles of young researchers of the Open Science generation”
 
 *January 2013, HackYourPhD community was created around the theme of Open Science. Few months later, we developed the idea of a web documentary in order to better understand what is Open Science, and encounter its players.*
 
@@ -61,6 +61,10 @@ The detailed route of this trip and multiple encounters of people and places are
 
 
 
+<figure>
+    <a href="http://hackyourphd.org/wp-content/uploads/2016/04/hyphdus-en-cover.png"><img src="http://hackyourphd.org/wp-content/uploads/2016/04/hyphdus-en-cover.png"></a>
+</figure>
+
 ------
 
 The book is available in [french](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf) and in [english](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_ENG-ld.pdf). 
@@ -69,7 +73,7 @@ The book is available in [french](http://hackyourphd.org/wp-content/uploads/2016
 
 
 
-##Crédits :
+## Crédits :
 
 The book HackYourPhD in the US “Profiles of young researchers of the Open Science generation” was born from the discussion between Mathieu Rouault et Célya Gruson-Daniel.
 
