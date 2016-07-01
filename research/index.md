@@ -35,9 +35,9 @@ Le MOOC comme terrain de recherche numérique - Rhétorique de l'ouverture dans 
 
 ------
 
-**Champs disciplinaires :** sciences de l'information et de la communication (info-comm) - Sciences, Technologies & Société (STS)
+- **Champs disciplinaires :** sciences de l'information et de la communication (info-comm) - Sciences, Technologies & Société (STS)
 
-**Méthodes :** Théorisation ancrée, expérimentations méthodes de recherche numériques (*Digital Methods*), utilisation logiciels d'analyse de données quali (Nvivo, Dedoose), premier pas Python et R pour analyse textuelle et analyse de réseaux 
+- **Méthodes :** Théorisation ancrée, expérimentations méthodes de recherche numériques (*Digital Methods*), utilisation logiciels d'analyse de données quali (Nvivo, Dedoose), premier pas Python et R pour analyse textuelle et analyse de réseaux 
 
 
 ## Au quotidien 
@@ -152,9 +152,11 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 
 ==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV) and you ? 
 
-**Fields :** Information and communication studies, Science, Technologies and Society Studies, 
+-------
 
-**Methods :** Grounded Theory and experimentation with digital methods, use of qualitative data analysis software (Nvivo-Dedoose), first steps with Python and R for textual analysis and network analysis
+- **Research Fields :** Information and communication studies, Science, Technologies and Society Studies, 
+
+- **Methods :** Grounded Theory and experimentation with digital methods, use of qualitative data analysis software (Nvivo-Dedoose), first steps with Python and R for textual analysis and network analysis
 
 
 ## Open Research 
