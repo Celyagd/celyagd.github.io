@@ -14,7 +14,7 @@ image:
 1. [Français](#français)
 2. [English](#english)
 
-####1- Français <a name="français"></a>
+#### 1- Français <a name="français"></a>
 
 
 ## Qui suis-je ? 
@@ -35,9 +35,8 @@ Vous y trouverez :
 - Mes activités d'enseignements avec le Centre Virchow-Villermé ==> [ici](http://celyagd.github.io/moocscinum/)
 - Quelques articles de blog écrits pour différents sites (MyScienWork, HackYourPhD, Centre Virchow-Villermé) ==> par [là](http://celyagd.github.io/blog/)
 
-*********************************************************************************************
 
-####2- English <a name="english"></a>
+#### 2- English <a name="english"></a>
 
 
 

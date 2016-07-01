@@ -15,7 +15,7 @@ image:
 1. [Français](#français)
 2. [English](#english)
 
-####1- Français <a name="français"></a>
+#### 1- Français <a name="français"></a>
 
 
 ## Qui suis-je ? 
@@ -38,7 +38,7 @@ Vous y trouverez :
 
 *********************************************************************************************
 
-####2- English <a name="english"></a>
+#### 2- English <a name="english"></a>
 
 
 
