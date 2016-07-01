@@ -19,17 +19,18 @@ image:
 
 ### Français <a name="français"></a>
 
-##Activités principales
+## Activités principales
 
-### 2014-... - Doctorat (CRI/ UTC/ Laval) 
-Dernière version du titre à ce jour :) : *Discours et conceptions associés au libre accès et à la science ouverte : enquête ethnographique multisituée et numérique d’acteurs institutionnels de la recherche française entre 2013 et 2016*
+- **Depuis novembre 2014 : Doctorat (CRI/ UTC/ Laval)** *Fin prévue en 2018 (si, si on y croit ! )* 
 
-*Fin prévue en 2018 (si, si on y croit ! )*
+Dernière version du titre à ce jour :) : *Discours et conceptions associés au libre accès et à la science ouverte : enquête ethnographique multisituée et numérique d’acteurs institutionnels de la recherche française entre 2013 et 2016* 
 
-==> Co-encadrement de thèse entre Florence Piron (Université laval/Québec) et Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Financement par le Centre Virchow-Villermé.
+==> Co-encadrement de thèse par Florence Piron (Université laval/Québec) et Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Financement par le Centre Virchow-Villermé.
 
-### 2013-... - Recherche sur les MOOC (Centre Virchow-Villermé)
-Le MOOC comme terrain de recherche numérique (Projet DisCOVER lié au MOOCSciNum)- Rhétorique de l'ouverture dans les MOOC. 
+- **Depuis 2013 : Recherche sur les MOOC (Centre Virchow-Villermé)**
+
+Le MOOC comme terrain de recherche numérique (Projet DisCOVER lié au MOOCSciNum)
+Rhétorique de l'ouverture dans les MOOC 
 
 ==> Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV) et vous ? 
 
@@ -135,15 +136,18 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### English <a name="english"></a>
 
-##Main research 
+## Main research 
 
-### 2014-now - PhD project (CRI/ UTC/ Laval) 
+- **2014-now - PhD project (CRI/ UTC/ Laval)** 
+
 Discourse and Conceptions about Openness in science : digital and multisitued ethnographic studies of institutional french research actors between 2013 and 2016.
 
 ==> Co-supervision by Florence Piron (Université laval/Québec) and Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Funding by Centre Virchow-Villermé.
 
+- **2013-now - Research on MOOC (Centre Virchow-Villermé)**
 
-### 2013-now - Research on MOOC (Centre Virchow-Villermé)
+
+
 MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Openness
 
 ==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV) and you ? 
