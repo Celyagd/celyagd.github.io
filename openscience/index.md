@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About // À propos
+title: Open Science / HackYourPhD
 tags: [about, open science, research]
 modified:
 comments: true
