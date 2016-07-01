@@ -33,7 +33,7 @@ Le MOOC comme terrain de recherche numérique - Rhétorique de l'ouverture dans 
 
 ==> Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Université Laval) et Karl-William Sherlaw (CVV) et vous ? 
 
-
+------
 
 **Champs disciplinaires :** sciences de l'information et de la communication (info-comm) - Sciences, Technologies & Société (STS)
 
