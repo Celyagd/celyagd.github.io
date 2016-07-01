@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: Blog posts
+title: Billets de blog // Blog posts
 excerpt: "A List of Posts"
 image:
   feature: Papas_Desk.jpg

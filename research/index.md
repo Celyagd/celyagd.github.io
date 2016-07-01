@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research 
+title: Recherche // Research 
 tags: [about, open science, research]
 modified:
 comments: true

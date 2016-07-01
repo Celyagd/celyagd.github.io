@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: About // À propos
 tags: [about, open science, research]
 modified:
 comments: true
