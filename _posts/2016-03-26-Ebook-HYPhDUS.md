@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sortie du livre enrichi HYPhDUS"
+title: "Sortie du livre enrichi HackYourPhD aux States"
 excerpt: "Livre regroupant 9 portraits d’acteurs de la génération Open Science"
 modified: 
 tags: [HackYourPhD, Open Science, education, Interview]
@@ -32,10 +32,10 @@ Le livre est disponible en [français](http://hackyourphd.org/wp-content/uploads
 ----
 
 <figure>
-    <a href="hyphdus-ebook-cover-fr.png"><img src="hyphdus-ebook-cover-fr.png"></a>
+    <a href="http://hackyourphd.org/wp-content/uploads/2016/03/HYPhDUS-cover-FR.png"><img src="http://hackyourphd.org/wp-content/uploads/2016/03/HYPhDUS-cover-FR.png"></a>
 </figure>
 
-##Crédits :
+## Crédits :
 
 Le livre HackYourPhd aux States « Portraits de jeunes chercheurs de la génération #Open Science » est né des échanges entre Mathieu Rouault et Célya Gruson-Daniel.
 Mathieu Rouault, créateur de @docteo_net et @speak_science et co-fondateur de @Spescimen a réalisé la vidéo de présentation de la campagne de crowdfunding HackYourPhD aux States. Il a proposé l’idée de ce livre pour mettre en avant des portraits de doctorants, un des public clef des initiatives qu’il a créées.
