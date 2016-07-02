@@ -16,7 +16,8 @@ image:
 Le centre Virchow-Villermé est un des instituts pionniers dans la création de MOOC en France.  Ce sera au total 17 MOOC qui auront été produits par la MOOC Factory du Centre à la fin 2015. Pour le Centre dont un des axes principaux est l'éducation à la santé publique et globale, ces MOOC sont une première étape. En effet, des sujets comme la santé nécessitent un accès et une diffusion des ressources à l’image de ces thématiques au potentiel et à l’impact social élevé. Mais quelles initiatives et dispositifs peuvent s’articuler avec les MOOC pour un enseignement en ligne, gratuit et ouvert au plus grand nombre ?
 En tant que coordinatrice des MOOC du Centre Virchow-Villermé, je souhaite revenir dans cet article sur le paysage éducatif à distance actuel et vous proposer une vision de l'enseignement en santé publique englobant les potentialités offertes par le numérique. Cette vision se base sur le partage de ressources éducatives en libre accès accompagné de dispositifs modulaires s'adaptant aux diverses demandes et besoins des participants et des instituts d'enseignements supérieurs.* 
 
-##Un point sur l'enseignement à distance ouvert 
+
+## Un point sur l'enseignement à distance ouvert 
 
 L'apparition de nouveaux dispositifs techniques (correspondance, télévision, internet) sont souvent l'occasion de se questionner sur la façon de transmettre des connaissances, de les évaluer et plus globalement de les enseigner. Les MOOC ont remis au gout du jour ces interrogations, mais aussi des espoirs et craintes dans le milieu de l'enseignement supérieur. 
 Je souhaite tout d'abord revenir dans cet article sur quelques fonctions majeures sous-tendant un enseignement en ligne, gratuit et ouvert au plus grand nombre afin de comprendre les enjeux actuels et les potentialités qui nous sont offertes. 
@@ -32,7 +33,7 @@ Mais l'accessibilité et visibilité de ces connaissances ne signifient pas qu'e
 Ces parcours éducatifs 100% en ligne sont proposés depuis de nombreuses années par différents instituts. (Open University, CNAM). Mais pour pouvoir y accéder, cela nécessite une inscription et un coût. Les MOOC sont venus compléter cette offre avec la mise à disposition à tous de ressources éducatives.   
 
 
-##Paysage éducatif numérique actuel 
+## Paysage éducatif numérique actuel 
  
 Aujourd'hui, différentes solutions sont proposées pour un enseignement à distance basé sur des ressources éducatives universitaires. En s'intéressant aux fonctionnalités présentées ci-dessus, je propose de décrire succinctement trois dispositifs : les MOOC, les *OpenCourseWare* et les environnements numériques de travail (ENT) des universités. 
 
@@ -81,7 +82,7 @@ Les *OpenCourseWare*, traduits en français par didacticiels libres ou matériel
 
 
 
-##Une proposition d'articulation de ces différents dispositifs 
+## Une proposition d'articulation de ces différents dispositifs 
 
 
 Dans ce paysage éducatif, comment réussir à articuler ces différents dispositifs afin d'offrir un enseignement le plus large possible avec une approche modulaire répondant aux attentes de différentes formations (diplomantes, certifiantes, tout au long de la vie) ? 

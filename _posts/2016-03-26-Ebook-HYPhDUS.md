@@ -19,6 +19,7 @@ image:
 
 ### Français <a name="français"></a>
 
+
 *Janvier 2013, la communauté HackYourPhD se crée autour de la thématique de l’Open Science. Quelques mois plus tard, l’idée est lancée de réaliser un web documentaire afin de mieux comprendre ce qu’est l’Open Science et d’aller à la rencontre de ces acteurs. Le 31 mai 2013, une campagne de crowdfunding (financement participatif) est lancée. Le voyage HackYourPhD aux States (http://hackyourphd.org/USA/) a été un projet d’investigation à la croisée de la recherche, du design, de l’entreprenariat et du hacking (de doctorat).*
 
 Pendant plus de deux mois, j'ai sillonné les Etats-Unis en avion, voiture et bus. Vous trouverez dans ce livre 9 portraits d’acteurs de la génération Open Science sélectionnés sur un total de plus de 55 interviews réalisées pendant ce voyage. Chaque ville visitée a aussi été l’occasion de découvrir des espaces de recherche innovants (biohackerspaces, laboratoires ouverts, lieu art-science etc..) et une ambiance propre à chaque ville. Un bref aperçu vous en sera aussi donné dans ce livre.
@@ -27,7 +28,7 @@ Le parcours détaillé de ce voyage, les rencontres et les lieux explorés se re
 
 ------
 
-Le livre est disponible en [français](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf) et en [anglais](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_ENG-ld.pdf). 
+-> Le livre est disponible en **[français](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf)** et en **[anglais](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_ENG-ld.pdf).** <-
 
 ----
 
@@ -60,20 +61,18 @@ During these two months, Célya Gruson-Daniel cruised the USA by plane, car and 
 The detailed route of this trip and multiple encounters of people and places are gathered on the page HackYourPhDUSA . If you wish to go further into the subjects and concepts tackled here, you will, in this book, find many links to access the articles published along the trip, to the digital postcards written for the [Educpros](http://%28http//www.letudiant.fr/educpros/actualite/au-coeur-de-l-%20open-science-avec-hack-your-phd-aux-states.html) website and to the many pictures taken in all the visited locations.
 
 
+------
+
+-> The book is available in **[french](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf)** and in **[english](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_ENG-ld.pdf).** <-
+
+----
 
 <figure>
     <a href="http://hackyourphd.org/wp-content/uploads/2016/04/hyphdus-en-cover.png"><img src="http://hackyourphd.org/wp-content/uploads/2016/04/hyphdus-en-cover.png"></a>
 </figure>
 
-------
 
-The book is available in [french](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf) and in [english](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_ENG-ld.pdf). 
-
-----
-
-
-
-## Crédits :
+## Credits :
 
 The book HackYourPhD in the US “Profiles of young researchers of the Open Science generation” was born from the discussion between Mathieu Rouault et Célya Gruson-Daniel.
 

@@ -13,7 +13,7 @@ image:
 
 *Dans le cadre d'[Open experience](http://www.withoutmodel.com/without-model/open-experience-pour-debattre-des-modeles-de-lopen/), une première étape a été de mieux comprendre ce que l’Open Science représente dans le système de la recherche actuelle pour ainsi définir les différents acteurs et les services/actions/produits liés. Pour cela, nous avons mis au point une première cartographie de l’écosystème. Cette cartographie a été présentée lors d'[Open Experience # 4](http://www.withoutmodel.com/celya-gruson-daniel/open-experience-4-openscience-le-17-juin-de-19h-21h/) sur l'open Science et a nourri un débat fructueux sur la remise en cause de modèles économiques dominants et des premières tentatives de nouveaux modèles avec l’Open Science.*
 
-##La recherche aujourd’hui : De la Science 2.0 à l’Open Science ?
+## La recherche aujourd’hui : De la Science 2.0 à l’Open Science ?
 
 Aujourd’hui, il paraît clair que le Web - notamment coopératif (Web2.0) - a transformé nos façons de consommer, de produire, d’échanger. Certains parlent même d’un nouvel Âge ([Âge de la multitude](http://colin-verdier.com/), [Âge de l’Accès](http://www.editionsladecouverte.fr/catalogue/index-L_age_de_l_acces-9782707146083.html)). Le monde de la recherche et de la production des savoirs dits académiques n’échappent pas à ces transformations.
 
@@ -29,7 +29,7 @@ L’Open Science prend aujourd’hui la forme d’un mouvement dont le but est d
 
 Derrière ce terme rassembleur se regroupe un ensemble d’initiatives diverses de par les services proposés ou les structures qui les sous-tendent ( entreprises, associations, collectifs). Les Sciences 2.0 et l’Open Science ont amené à la création d’entreprises (startups) digitales, de collectifs académiques et non académiques (advocacy), de nouvelles infrastructures de recherche. Ces acteurs et ces pratiques poussent à transformer le système de la recherche. Ils amènent aussi à remettre en question les modèles économiques existants et à se questionner sur des nouveaux.
 
-##Un premier pas : cartographier l’écosystème de l’OpenScience
+## Un premier pas : cartographier l’écosystème de l’OpenScience
 
 Fortement associée à la Science 2.0, le mouvemement de l’Open Science est marquée par une “forme réseau” . Afin de mieux comprendre les transformations de la recherche,  il nous a semblé important de développer une approche systémique pour comprendre les interdépendances et les co-évolutions de ce système.
 
