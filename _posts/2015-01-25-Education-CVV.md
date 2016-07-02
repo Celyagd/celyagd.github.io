@@ -73,7 +73,7 @@ Les délimitations de cet "objet MOOC" ne sont pas figées et ont évoluées. Ce
 
 Au sein des universités, les MOOC viennent s'ajouter à des plateformes d'enseignements numériques déjà existantes 
 
-####Environnement numérique de travail (ENT) et *OpenCourseWare*
+#### Environnement numérique de travail (ENT) et *OpenCourseWare*
 
 
 Les environnements numériques de travail (ENT) ont été mis en place dans les instituts d'enseignements supérieurs avec le développement des TICE (Technologie de l'information et de la communication éducative). Ils proposent la mise à disposition de contenus éducatifs de cours. Ces plateformes de type *moodle* ou *blackboard* ne sont disponibles que pour les étudiants inscrits. Elles proposent aussi un espace de remise de devoirs, compte-rendus pour les étudiants et d'échanges entre les étudiants (forum de discussion). Ces ressources sont donc réservées aux étudiants inscrits; ce qui est critiqué par des mouvements pour des Ressources éducatives libres ou *Open Education Ressources (OER)* . Ces mouvements souhaitent une mise à disposition au plus grand nombre de ces connaissances.  

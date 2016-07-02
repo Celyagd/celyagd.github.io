@@ -5,7 +5,7 @@ excerpt: "Livre regroupant 9 portraits d’acteurs de la génération Open Scien
 modified: 
 tags: [HackYourPhD, Open Science, education, Interview]
 comments: true
-image: 
+image: hyphdus-cover.jpg
   feature: 
   credit: 
   
