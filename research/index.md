@@ -23,7 +23,7 @@ image:
 
 - **Depuis novembre 2014 : Doctorat (CRI/ UTC/ Laval)** *Fin prévue en 2018 (si, si on y croit ! )* 
 
-Dernière version du titre à ce jour :) : *Discours et conceptions associés au libre accès et à la science ouverte : enquête ethnographique multisituée et numérique d’acteurs institutionnels de la recherche française entre 2013 et 2016* 
+Dernière version du titre à ce jour :) : *Discours et conceptions associés au libre accès et à la science ouverte : enquête ethnographique multisituée et numérique auprès d’acteurs institutionnels de la recherche française entre 2013 et 2016* 
 
 ==> Co-encadrement de thèse par Florence Piron (Université laval/Québec) et Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Financement par le Centre Virchow-Villermé.
 

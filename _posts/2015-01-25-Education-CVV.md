@@ -65,7 +65,7 @@ Aujourd'hui, différentes solutions sont proposées pour un enseignement à dist
   </tr>
 </table>
 
-####MOOC
+#### MOOC
 
 Le développement des MOOC en 2012 en Amérique du Nord puis à l'international est venu combler le manque d'accès et de visibilité des ressources de l'enseignement supérieur. Ces plateformes mettent ainsi à disposition des ressources éducatives gratuites  *(1/ Accès aux connaissances)* mais tous les MOOC ne proposent pas de licences sur leur contenu ou bien des licences restrictives. Les contenus sont disponibles après inscription et se présentent souvent sous forme de sessions et d'un calendrier à suivre. Cela favorise ainsi la constitution d'un groupe de participants échangeant entre eux et avec l'équipe du MOOC sur un forum de discussion. A cela, se rajoute souvent des quizz d'auto-évaluation mais aussi des exercices corrigés par d'autres participants (évaluation par les pairs), solutions proposées pour s'adapter au grand nombre de participants *(2/ Accompagnement et intégration des connaissances).* Ces exercices permettent ainsi de vérifier l'acquisition de ces connaissances et donnent, si réussite, une reconnaissance (non diplomante) (attestation d'assiduité)*(3/ Reconnaissance)*. 
 
