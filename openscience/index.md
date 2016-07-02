@@ -94,7 +94,7 @@ Le Mouvement de l’Open Science : vers une réappropriation collective des conn
 - 14 mars  - Paris - SoData
 [Open Data : défis et enjeux en recherche](http://fr.slideshare.net/cgrusondaniel/so-data-open-data-dfis-et-enjeux-en-recherche) à [SoData](http://sodata.org/)
 
-###2013 
+### 2013 
 
 - 8 juin - Paris - TEDxParisUniversités
 [Thèse ou pas thèse ? Découverte de l'Open Science](https://www.youtube.com/watch?v=Xpe0qh_HKJE) (english subtitles)
@@ -148,7 +148,7 @@ We are connected with other organizations: Mozilla Science Lab, Software Carpent
 
 ### Open Science explorations  
 
-####HackYourPhD : States and Quebec 
+#### HackYourPhD : States and Quebec 
 
 With HackYourPhD, I did a first Open Science [exploration in Québec](http://hackyourphd-quebec.strikingly.com/) then I did an Open Science tour across the USA during the Summer 2013 to meet the key Open Science actors and gather information about the roots of the movement. This project [HackYourPhD aux States](http://hackyourphd-aux-states.strikingly.com/) was successfully funded by crowd funding. All the resources, interviews, travel log are openly available on our website.
 
@@ -194,7 +194,7 @@ Le Mouvement de l’Open Science : vers une réappropriation collective des conn
 - 14 mars  - Paris - SoData
 [Open Data : défis et enjeux en recherche](http://fr.slideshare.net/cgrusondaniel/so-data-open-data-dfis-et-enjeux-en-recherche) à [SoData](http://sodata.org/)
 
-###2013 
+### 2013 
 
 - 8 juin - Paris - TEDxParisUniversités
 [Thèse ou pas thèse ? Découverte de l'Open Science](https://www.youtube.com/watch?v=Xpe0qh_HKJE) (english subtitles)
