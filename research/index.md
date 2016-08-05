@@ -71,7 +71,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 ### Conférences
  
 
-- Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui
+- Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gheorghui ==> [diapos](https://zenodo.org/record/59661#.V6QlD47tnkU)
 
 - Juillet 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
 
