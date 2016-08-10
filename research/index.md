@@ -14,12 +14,22 @@ image:
 **Click ! and go directly to the french or the english version** 
 
 1. [Français](#français)
+    - [Activités principales](#activités) 
+    - [Au quotidien](#quotidien) 
+    - [Publications et présentations](#publications)
+    - [Présentations](#invitations)
+    - [Enseignements](#enseignements)
 2. [English](#english)
+	- [Main research](#main) 
+    - [Open Research](#open) 
+    - [Publications et presentations](#publications)
+    - [Presentations](#invitations)
+    - [Teaching](#teaching)
 
 
 ### Français <a name="français"></a>
 
-## Activités principales
+## Activités principales <a name="activités"></a>
 
 - **Depuis novembre 2014 : Doctorat (CRI/ UTC/ Laval)** *Fin prévue en 2018 (si, si on y croit ! )* 
 
@@ -40,7 +50,8 @@ Le MOOC comme terrain de recherche numérique - Rhétorique de l'ouverture dans 
 - **Méthodes :** Théorisation ancrée, expérimentations méthodes de recherche numériques (*Digital Methods*), utilisation logiciels d'analyse de données quali (Nvivo, Dedoose), premier pas Python et R pour analyse textuelle et analyse de réseaux 
 
 
-## Au quotidien 
+## Au quotidien <a name="quotidien"></a>
+
 
 - **Bibliographie :** 
 [Groupe HackYourPhD](https://www.zotero.org/groups/hackyourphd) sur Zotero 
@@ -59,7 +70,8 @@ Le MOOC comme terrain de recherche numérique - Rhétorique de l'ouverture dans 
 
 - **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
-## Publications et présentations 
+## Publications et présentations <a name="publications"></a>
+
 
 ### Publications 
 
@@ -98,7 +110,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 - Octobre 2014 - Chapitre Open Science dans [OpenModels : Les business Models de l'économie ouverte](http://www.openmodels.fr/) dirigé par Louis-David Benyayer ==>  texte disponible sur le site [Without Model](http://withoutmodel.com/) et [HackYourPhD](hackyourphd.org))
 
-## Présentations (invitation) 
+## Présentations (invitations) <a name="invitations"></a>
+
 
 *Présentations pour des formations, séminaires, table-rondes, etc. sur la thématique générale de la recherche et de l'enseignement avec le numérique (Open Science, MOOC, etc)*
 
@@ -124,7 +137,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 - Juin 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
 
 
-## Enseignements
+## Enseignements <a name="enseignements"></a>
+
 
 
 - coordination du **MOOCSciNum** (October 2015) 
@@ -136,7 +150,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### English <a name="english"></a>
 
-## Main research 
+## Main research <a name="main"></a>
 
 - **2014-now - PhD project (CRI/ UTC/ Laval)** 
 
@@ -159,7 +173,7 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 - **Methods :** Grounded Theory and experimentation with digital methods, use of qualitative data analysis software (Nvivo-Dedoose), first steps with Python and R for textual analysis and network analysis
 
 
-## Open Research 
+## Open Research <a name="open"></a>
 
 - **Bibliography :** [HackYourPhD Group](https://www.zotero.org/groups/hackyourphd) on Zotero for the bibliography
 
@@ -178,7 +192,7 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 - **Blog posts:** a few on [this website](http://celyagd.github.io/blog/)
 
 
-## Publications and research presentations 
+## Publications and research presentations <a name="publications"></a>
 
 ### Publications 
 
@@ -189,7 +203,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 ### Conferences
 
 
-- Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui
+- Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui ==> [slides](https://zenodo.org/record/59661#.V6QlD47tnkU)
 
 - Juillet 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
 
@@ -199,7 +213,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 - Mars 2016 - **Journée doctorale COSTECH - Compiègne - Présentation projet de thèse.** (discutant Jérôme Valluy)
 
 
-- Janvier 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [diapos](https://zenodo.org/record/45236#.VrBeOBhAvzM) 
+- Janvier 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [slides](https://zenodo.org/record/45236#.VrBeOBhAvzM) 
 
 - Aout 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
 
@@ -216,7 +230,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 - Octobre 2014 - Chapitre Open Science dans [OpenModels : Les business Models de l'économie ouverte](http://www.openmodels.fr/) dirigé par Louis-David Benyayer ==>  texte disponible sur le site [Without Model](http://withoutmodel.com/) et [HackYourPhD](hackyourphd.org))
 
-## Presentations (invitations) 
+## Presentations (invitations) <a name="invitations"></a>
 
 *Presentations for workshops, trainings, etc mainly on the general topic : Reseach, Teaching and digital technologies*
 
@@ -242,7 +256,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 - Juin 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
 
 
-## Teaching
+## Teaching <a name="teaching"></a>
 
 #### MOOCSciNum 
 coordination of the **MOOCSciNum** (October 2015) 
