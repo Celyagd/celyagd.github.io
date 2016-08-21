@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "https://github.com/c24b/openscience4S",
+    "text": "Constance de Quatrebarbes, Célya Gruson-Daniel"
+  },
+  "text": {
+    "more": "Carto 5-7- modularité \n\nCette carto a pour but de mettre en évidence les électeurs les plus actifs (au moins 5 votes) et partageant la plus grande similarité au niveau vote (on enlève tous ceux qui ne partagent pas au moins 7 votes identiques). \n\n1/ Répartition noeud : \nUn algorithme de spatialisation (Fruchterman Reingold)  pour répartir les noeuds dans l’espace. \nUne gravité de 2.0 a été choisie pour faciliter la lecture (réseau assez concentré).\n\nArrêt quand c’est un peu stabilisé. On peut déjà évolué un graphe avec deux cliques principales et dans la clique principale deux autres semblent se distinguer. \n\n2/ Pour distinguer les communautés on calcule la modularité \n\nLa modularité va permettre de définir des groupes. Ici la modularité (résolution 1.0) est de 0,390 avec un nombre de communautés de 5 \n\n3/ Partition \n\nEnsuite on sépare le graph en différentes couleurs selon la modularité \n\n",
+    "intro": "",
+    "title": "Communautés électeurs sur l\u0027article 9 République Numérique en fonction de leur similarité de votes "
+  },
+  "legend": {
+    "edgeLabel": "Vote",
+    "colorLabel": "",
+    "nodeLabel": "Electeurs"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
