@@ -62,6 +62,8 @@ Nous sommes en contact avec d'autres organisations impliquées dans cette théma
 
 ### 2016
 
+- 17 Aout 2016 - Seoul (Korea) - Presentation "Opening Science : from Society to Art" with Guillaume Dumas at [Unmake Lab](https://www.facebook.com/fab.unmake/?pnref=story) . Slides [ici](http://www.slideshare.net/gdumas/opening-science-from-society-to-art)
+
 - 4 février 2016 - Paris - Meet-up Epidemium : Que se cache-t-il derrière cette ère de l'*Open* ? [Note de la présentation et des questions](http://bit.ly/1OWV8b9)
 
 
