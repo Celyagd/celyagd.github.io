@@ -16,6 +16,8 @@ image:
 
 **MOOCSciNum = MOOC [Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](https://www.france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)**
 
+
+
 Ce MOOC a pour objectif de donner aux chercheurs, professionnels de la recherche en santé et sciences du vivant et futurs chercheurs français et francophones les éléments nécessaires pour **s'adapter à l’évolution des pratiques de recherche en santé** (de la gestion à la communication et à la diffusion de ressources scientifiques) et leur permettre de prendre en main les outils numériques associés. Il permettra en outre de saisir **certains nouveaux enjeux technologiques, sociaux, juridiques, éthiques** tels que le libre accès à la publication scientifique, le partage de données scientifiques ainsi que les changements de méthodologies que le numérique peut introduire dans les pratiques de recherche (data driven research, recherche participative). 
 Aussi, chaque séance fera appel à une diversité d’experts (chercheurs, ingénieurs de recherche, bibliothécaires, médecins, juristes etc.) pour apporter un éclairage sur les enjeux de ces nouveaux usages. Des screencasts proposeront **des retours d'expérience de chercheurs et permettront de découvrir ainsi un ensemble d’outils numériques** open source utilisés en recherche (logiciel R, Zotero, Github, Python).
 
@@ -31,7 +33,7 @@ Les échanges entre participants et intervenants de ce MOOC et les réflexions g
 
 Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVillerme/06005/session01/about)
 
-###Ressources des séances en *Open Access* 
+### Ressources des séances en *Open Access* 
 
 **Cliquez sur chaque séance pour avoir le contenu détaillé**
 
@@ -103,7 +105,7 @@ Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVill
 - [Screencast Partie 3] [Pourquoi bloguer lorsqu'on est chercheur ?](https://www.youtube.com/watch?v=ATPb8URGABw&index=5&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/41MXceKVg) (*Pierre Kerner* pour les trois parties)
 - [Infographie](https://figshare.com/articles/Nouvelles_formes_d_interactions_en_recherche_et_enjeux_thiques/3380836) de Christelle Fritz
 
-###Zotero : Lectures de chaque séance et ressources supplémentaires 
+### Zotero : Lectures de chaque séance et ressources supplémentaires 
 
 
 L'ensemble des lectures des séances et des ressources supplémentaires sont disponibles sur le [groupe MOOCSciNum dans Zotero](https://www.zotero.org/groups/moocscinum). 
