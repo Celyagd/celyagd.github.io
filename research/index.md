@@ -82,7 +82,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### Conférences
 
-- Aout 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation ** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) avec Constance de Quatrebarbes ==> [diapos](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
+- Aout 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) avec Constance de Quatrebarbes ==> [diapos](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
  
 
 - Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gheorghui ==> [diapos](https://zenodo.org/record/59661#.V6QlD47tnkU)
@@ -204,7 +204,7 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### Conferences
 
-- August 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation ** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) with Constance de Quatrebarbes ==> [slides](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
+- August 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) with Constance de Quatrebarbes ==> [slides](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
 
 
 - July 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui ==> [slides](https://zenodo.org/record/59661#.V6QlD47tnkU)
