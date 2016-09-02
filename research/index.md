@@ -81,6 +81,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 
 ### Conférences
+
+- Aout 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation ** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) avec Constance de Quatrebarbes ==> [diapos](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
  
 
 - Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gheorghui ==> [diapos](https://zenodo.org/record/59661#.V6QlD47tnkU)
@@ -202,26 +204,28 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### Conferences
 
-
-- Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui ==> [slides](https://zenodo.org/record/59661#.V6QlD47tnkU)
-
-- Juillet 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
+- August 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation ** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) with Constance de Quatrebarbes ==> [slides](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
 
 
-- Mai 2016 - **ACFAS 2016 - Montréal - Enjeux méthodologiques de la recherche sur les usages d’ Internet et des technologies numériques.** [Retour d’expérience sur le Hackathon Recherche République Numérique : méthodes numériques développées autour des données (data) de la consultation sur le projet de loi numérique en France](http://www.acfas.ca/evenements/congres/programme/84/400/456/c), présentation proposée avec Constance de Quatrebarbes 
+- July 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui ==> [slides](https://zenodo.org/record/59661#.V6QlD47tnkU)
 
-- Mars 2016 - **Journée doctorale COSTECH - Compiègne - Présentation projet de thèse.** (discutant Jérôme Valluy)
+- July 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
 
 
-- Janvier 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [slides](https://zenodo.org/record/45236#.VrBeOBhAvzM) 
+- May 2016 - **ACFAS 2016 - Montréal - Enjeux méthodologiques de la recherche sur les usages d’ Internet et des technologies numériques.** [Retour d’expérience sur le Hackathon Recherche République Numérique : méthodes numériques développées autour des données (data) de la consultation sur le projet de loi numérique en France](http://www.acfas.ca/evenements/congres/programme/84/400/456/c), présentation proposée avec Constance de Quatrebarbes 
 
-- Aout 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
+- March 2016 - **Journée doctorale COSTECH - Compiègne - Présentation projet de thèse.** (discutant Jérôme Valluy)
+
+
+- January 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [slides](https://zenodo.org/record/45236#.VrBeOBhAvzM) 
+
+- August 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
 
 - October 2014 - **Transformative Learning Conference XI - New York City - Cradles for Imagination and Initiative" one of the four contributions produced by ten researchers- The New Commons (in a contributive economy)** by Célya Gruson-Daniel & Thanh Nghiem 
 
-- Juin 2014 - **Conférence JOCAIR - Paris - À la conquête d’un contrat d’enseignement, de quelques enjeux du MOOC dans la société de la connaissance**  avec Olivier Aim, Anneliese Depoux et Célya Gruson-Daniel, ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+- June 2014 - **Conférence JOCAIR - Paris - À la conquête d’un contrat d’enseignement, de quelques enjeux du MOOC dans la société de la connaissance**  avec Olivier Aim, Anneliese Depoux et Célya Gruson-Daniel, ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
-- Mai 2013 - **ACFAS 2013 - Québec - Hack your Phd : une communauté forte regroupée autour de la science ouverte** session : [La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
+- May 2013 - **ACFAS 2013 - Québec - Hack your Phd : une communauté forte regroupée autour de la science ouverte** session : [La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
 
 
 ### Books contributions
