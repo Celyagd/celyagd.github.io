@@ -96,6 +96,7 @@ Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVill
 - [Screencast 1] [Présence en ligne : retour d'expérience d'un chercheur](https://www.amara.org/fr/videos/A0C9eEFAWGX9/info/presence-en-ligne-retour-dexperience-dun-chercheur-moocscinums6/) (*Thomas Crouzier*)
 - [Screencast 2] [Faire connaître ses activités de recherche : comparaison de Zenodo et Figshare](https://www.youtube.com/watch?v=KRq_rLldzME&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=3) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4JEiBWBNl) (*Thomas Crouzier*)
 - [Screencast 3] [Gérer son identité et sa présence en ligne avec HAL](https://www.youtube.com/watch?v=21LlrRz5HaU&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NyRDjbBNe) (*Marie-Laure Paganelli*)
+- [Infographie](https://figshare.com/articles/Panorama_de_l_valuation_scientifique_et_de_ses_volutions/3851544) de Christelle Fritz
 
 ### Séance 7 : Nouvelles formes d’interaction en recherche et enjeux éthiques <a name="seance7"></a>
 - [Interview 1] [Ouvrir le processus de recherche : des sciences citoyennes à la recherche participative](https://www.youtube.com/watch?v=hphLHYzDH3A&index=1&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) +[mp3](https://oae.esup-portail.org/content/OAE-Esup/41hgFxFVe) (*Florence Piron*)
