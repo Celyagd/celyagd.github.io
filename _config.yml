@@ -2,7 +2,7 @@
 
 title:            Célya Gruson-Daniel
 locale:           fr_fr
-url:              http://celyagd.github.io
+url:              https://celyagd.github.io
 
 
 # Jekyll configuration
@@ -34,7 +34,7 @@ owner:
   twitter: celyagd
   facebook: c.grusondaniel
   google:
-    plus: celyagd
+    plus: 
     analytics: 
     verify: 
     ad-client: 
