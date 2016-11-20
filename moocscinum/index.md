@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conception et coordination du MOOCSciNum 
+title: Conception et coordination du MOOCSciNum
 tags: [about, MOOCSciNum, training]
 modified:
 comments: true
@@ -12,13 +12,20 @@ image:
 
 
 
-### Présentation générale du MOOCSciNum
+### Présentation générale et modalités d'accès au MOOCSciNum
 
-**MOOCSciNum = MOOC [Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](https://www.france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)**
+**MOOCSciNum : MOOC "Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux"** :
 
+#### Différentes modalités d'accès au contenu et aux activités :
 
+- **Par session** : sur la **[plateforme France Université Numérique](https://www.france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)** ==> Contenu (vidéos, infographies, ressources supp.)+ Échanges sur le forum + Évalutation (quizz, par les pairs) + Attestation éventuelle .
+- **En tout temps** :
+  - sur **[SamNetwork](https://www.sam-network.org/video/mooc-numerique-et-recherche-en-sante-et-sciences-du-vivant-moocscinum)** ==> Contenu vidéo annoté avec infographies et ressources supp. + Possibilité de contribuer (proposition d'annotations).
+  - sur **cette page** (liens ci-dessous) ==> Contenu vidéos sur YouTube, infographies sur Figshare et Ressources supp. sur Zotero.
 
-Ce MOOC a pour objectif de donner aux chercheurs, professionnels de la recherche en santé et sciences du vivant et futurs chercheurs français et francophones les éléments nécessaires pour **s'adapter à l’évolution des pratiques de recherche en santé** (de la gestion à la communication et à la diffusion de ressources scientifiques) et leur permettre de prendre en main les outils numériques associés. Il permettra en outre de saisir **certains nouveaux enjeux technologiques, sociaux, juridiques, éthiques** tels que le libre accès à la publication scientifique, le partage de données scientifiques ainsi que les changements de méthodologies que le numérique peut introduire dans les pratiques de recherche (data driven research, recherche participative). 
+#### Syllabus
+
+Ce MOOC a pour objectif de donner aux chercheurs, professionnels de la recherche en santé et sciences du vivant et futurs chercheurs français et francophones les éléments nécessaires pour **s'adapter à l’évolution des pratiques de recherche en santé** (de la gestion à la communication et à la diffusion de ressources scientifiques) et leur permettre de prendre en main les outils numériques associés. Il permettra en outre de saisir **certains nouveaux enjeux technologiques, sociaux, juridiques, éthiques** tels que le libre accès à la publication scientifique, le partage de données scientifiques ainsi que les changements de méthodologies que le numérique peut introduire dans les pratiques de recherche (data driven research, recherche participative).
 Aussi, chaque séance fera appel à une diversité d’experts (chercheurs, ingénieurs de recherche, bibliothécaires, médecins, juristes etc.) pour apporter un éclairage sur les enjeux de ces nouveaux usages. Des screencasts proposeront **des retours d'expérience de chercheurs et permettront de découvrir ainsi un ensemble d’outils numériques** open source utilisés en recherche (logiciel R, Zotero, Github, Python).
 
 Les échanges entre participants et intervenants de ce MOOC et les réflexions générées dans ce cadre constitueront une source importante, une matière vive, qui viendra nourrir la pratique. Il sera aussi question pour chaque participant de se questionner sur ses propres pratiques et de construire au fil du MOOC des objectifs concrets pour les faire évoluer.
@@ -26,14 +33,14 @@ Les échanges entre participants et intervenants de ce MOOC et les réflexions g
 
 *Financement = Centre Virchow-Villermé/USPC/Investissement d'Avenir*
 
-### Sessions sur la plateforme FUN 
+### Sessions sur la plateforme FUN
 
 - Session 1 : 19 octobre 2015- 6 décembre 2016 sur France Université Numérique
-- Session 2 : prévue en janvier 2017 
+- Session 2 : prévue en janvier 2017
 
 Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVillerme/06005/session01/about)
 
-### Ressources des séances en *Open Access* 
+### Ressources des séances en *Open Access* (licence CC-BY-SA)
 
 **Cliquez sur chaque séance pour avoir le contenu détaillé**
 
@@ -45,9 +52,6 @@ Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVill
 - [Séance 5 : Partager ses résultats scientifiques : écrire et publier](#seance5)
 - [Séance 6 : Faire partie d'une communauté scientifique](#seance6)
 - [Séance 7 : Nouvelles formes d’interaction en recherche et enjeux éthiques](#seance7)
-
-
-
 
 
 ### Séance 0 : Recherche à l'ère du numérique : quelles transformations ? (séance d'introduction) <a name="seanceO"></a>
@@ -81,7 +85,7 @@ Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVill
 - [Interview 1] [Des données partagées aux données ouvertes en recherche](https://www.youtube.com/watch?v=_Y0MiIqBjM0&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4yeeFq0Me)
 - [Interview 2] Quelles protections pour les données de santé en recherche ? [Partie 1](https://www.youtube.com/watch?v=Msf7emTMPjU&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_&index=2) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VkUXK9Azx) et [Partie 2](https://www.youtube.com/watch?v=kP-qDndoxfs&index=3&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/EyZj_qRfx)
 - [Screencast] [Partage de données médicales anonymisées](https://www.youtube.com/watch?v=VxGkiF--3D0&list=PLp_ugSUC6I1rNuPsU_A8S_bU-INiOJ9f_&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/41Bzs5CMg)
-- [Infographie](https://figshare.com/articles/Donn_es_de_sant_quelles_protections_/1601882) d'Olivia Zarcate et de Guilhem Copain
+- [Infographie](https://figshare.com/articles/Donn_es_de_sant_quelles_protections_/1601882) d'Olivia Zarcate et de Guilhem Compain
 
 ### Séance 5 : Partager ses résultats scientifiques : écrire et publier <a name="seance5"></a>
 - [Interview 1] [Publier à l'ère du numérique](https://www.youtube.com/watch?v=uKUScf6NrNY&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NkoCWksQe) et [Le libre accès à la publication scientifique](https://www.youtube.com/watch?v=VbGEmOi7PEo&list=PLp_ugSUC6I1pnakHnSIqyUqEb_uYt3j-k&index=3) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4kswXyimx) (*Serge Bauin*)
@@ -102,14 +106,10 @@ Les inscriptions se feront sur [FUN](https://www.fun-mooc.fr/courses/VirchowVill
 - [Interview 1] [Ouvrir le processus de recherche : des sciences citoyennes à la recherche participative](https://www.youtube.com/watch?v=hphLHYzDH3A&index=1&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) +[mp3](https://oae.esup-portail.org/content/OAE-Esup/41hgFxFVe) (*Florence Piron*)
 - [Interview 2] [Ethique de la recherche à l'ère du numérique](https://www.youtube.com/watch?v=7DP_cAbmjQ4&index=2&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) (*Madeleine Pastinelli et Guillaume Latzko-Toth*)
 - [Screencast Partie 1] [Strange Stuff and Funky Things : histoire d'un blog scientifique](https://www.youtube.com/watch?v=k7ZSCDjwQS4&index=3&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) +  [mp3](https://oae.esup-portail.org/content/OAE-Esup/4y7PKetEe)
-- [Screencast  Partie 2] [Communiquer la science : découverte du c@fé des sciences et de la blogosphère française](https://www.youtube.com/watch?v=SSFc0s-V-2Y&index=4&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4yJ19gFVe) 
+- [Screencast  Partie 2] [Communiquer la science : découverte du c@fé des sciences et de la blogosphère française](https://www.youtube.com/watch?v=SSFc0s-V-2Y&index=4&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4yJ19gFVe)
 - [Screencast Partie 3] [Pourquoi bloguer lorsqu'on est chercheur ?](https://www.youtube.com/watch?v=ATPb8URGABw&index=5&list=PLp_ugSUC6I1ptdKPJ5smexoBf13WaIYsJ) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/41MXceKVg) (*Pierre Kerner* pour les trois parties)
 - [Infographie](https://figshare.com/articles/Nouvelles_formes_d_interactions_en_recherche_et_enjeux_thiques/3380836) de Christelle Fritz
 
-### Zotero : Lectures de chaque séance et ressources supplémentaires 
+### Zotero : Lectures de chaque séance et ressources supplémentaires
 
-
-L'ensemble des lectures des séances et des ressources supplémentaires sont disponibles sur le [groupe MOOCSciNum dans Zotero](https://www.zotero.org/groups/moocscinum). 
-
-
-
+L'ensemble des lectures des séances et des ressources supplémentaires sont disponibles sur le [groupe MOOCSciNum dans Zotero](https://www.zotero.org/groups/moocscinum).
