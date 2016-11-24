@@ -93,6 +93,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### Conférences
 
+- Novembre 2016 - **[DHNord2016](https://www.meshs.fr/dhnord201160912174051___1440x900x1x1440x433x1_fr____rwr__________..php) - Lille - Humanités numériques en controverses (France, 2015/2016)** avec Jean-Edouard Bigot et Jérôme Valluy ==> [diapos](http://www.costech.utc.fr/IMG/pdf/colloque_dhnord_2016_jeb-cgd-jv_24112016.pdf) 
+
 - Octobre 2016 - **TiceMed10 - Marseille - Des MOOC (Massive Open Online Courses) aux OC (Online Courses) : les rhétoriques de l'ouverture.** - avec Olivier Aïm, Karl-William Sherlaw et Anneliese Depoux ==> [diapos](https://zenodo.org/record/161380#.WAUAotzOZYY) et pré-actes disponibles [ici](http://www.ticemed.eu/ticemed10-marseille-2016/)
 
 - Aout 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) avec Constance de Quatrebarbes ==> [diapos](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
