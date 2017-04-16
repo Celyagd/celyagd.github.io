@@ -5,13 +5,9 @@ Célya Gruson-Daniel's website
 Informations about :
 
 - My research activities (Publications, Academic Presentation, Open Notebook…)
-- My Open Science activities (Events, Presentations…)
 - My teaching coordination activities with the Centre Virchow-Villermé
 - The way to contact me online
-- And other informations (yoga courses etc.)
+- My Open Science activities (Events, Presentations…)
 
 
 Site powered by Jekyll using the [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) theme.
-
-
-

@@ -33,7 +33,7 @@ image:
 
 - **Depuis Novembre 2014 : Doctorat (CRI/ UTC/ Laval)** *Fin prévue en 2018 (si, si on y croit ! )*
 
-Dernière version du titre à ce jour :) : *Discours et conceptions associés au libre accès et à la science ouverte : enquête ethnographique multisituée et numérique auprès d’acteurs institutionnels de la recherche française entre 2013 et 2016*
+Dernière version du titre à ce jour :) : La définition d’un régime des savoirs à l’œuvre à l’ère numérique : Enquête sur les mondes de l’ « open » en Sciences. *L’étude de la Consultation République Numérique comme épreuve de justice «équipée»*
 
 ==> Co-encadrement de thèse par Florence Piron (Université laval/Québec) et Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Financement par le Centre Virchow-Villermé.
 
@@ -42,7 +42,7 @@ Dernière version du titre à ce jour :) : *Discours et conceptions associés au
 Le MOOC comme terrain de recherche numérique :
 
 - **Développement de méthodes mixtes pour l'analyse des MOOC** :  
-Projet #MOOCLive couplé au projet DisCOVER : aprroche quali-quanti) ==> Recherche sur les profils des participants (avec des techniques de process-mining couplées à des entretiens qualitatifs sur les usages des MOOC par les participants), enjeux de l'accessibilité des MOOC dans les pays d'Afrique francophone.
+Projet #MOOCLive couplé au projet DisCOVER : approche quali-quanti) ==> Recherche sur les profils des participants (avec des techniques de process-mining couplées à des entretiens qualitatifs sur les usages des MOOC par les participants), enjeux de l'accès et de l'accessibilité des MOOC dans les pays d'Afrique francophone.
 
 
 - **Approche critique sur l'industrialisation des contenus pédagogiques** avec les MOOC. Recherche sur les rhétoriques de l'ouverture dans les MOOC
@@ -93,7 +93,12 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### Conférences
 
-- Novembre 2016 - **[DHNord2016](https://www.meshs.fr/dhnord201160912174051___1440x900x1x1440x433x1_fr____rwr__________..php) - Lille - Humanités numériques en controverses (France, 2015/2016)** avec Jean-Edouard Bigot et Jérôme Valluy ==> [diapos](http://www.costech.utc.fr/IMG/pdf/colloque_dhnord_2016_jeb-cgd-jv_24112016.pdf) 
+#### 2017
+
+zzzzzzzz hibernation-rédaction-fin de thèse zzzzzzzzzzz
+
+#### 2016
+- Novembre 2016 - **[DHNord2016](https://www.meshs.fr/dhnord201160912174051___1440x900x1x1440x433x1_fr____rwr__________..php) - Lille - Humanités numériques en controverses (France, 2015/2016)** avec Jean-Edouard Bigot et Jérôme Valluy ==> [diapos](http://www.costech.utc.fr/IMG/pdf/colloque_dhnord_2016_jeb-cgd-jv_24112016.pdf)
 
 - Octobre 2016 - **TiceMed10 - Marseille - Des MOOC (Massive Open Online Courses) aux OC (Online Courses) : les rhétoriques de l'ouverture.** - avec Olivier Aïm, Karl-William Sherlaw et Anneliese Depoux ==> [diapos](https://zenodo.org/record/161380#.WAUAotzOZYY) et pré-actes disponibles [ici](http://www.ticemed.eu/ticemed10-marseille-2016/)
 
@@ -112,6 +117,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 - Janvier 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [diapos](https://zenodo.org/record/45236#.VrBeOBhAvzM)
 
+#### 2014-2015
+
 - Aout 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
 
 - October 2014 - **Transformative Learning Conference XI - New York City - Cradles for Imagination and Initiative" one of the four contributions produced by ten researchers- The New Commons (in a contributive economy).** by Célya Gruson-Daniel & Thanh Nghiem
@@ -126,12 +133,15 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 *Présentations pour des formations, séminaires, table-rondes, etc. sur la thématique générale de la recherche et de l'enseignement avec le numérique (Open Science, MOOC, etc)*
 
+#### 2016
+
 - Juillet 2016 - **Nuit de la sociologie, AISLF 2016 - Montréal - Recherche, échange, partage : instants capturés du quotidien numérique d’une doctorante.** ==> diapos prochainement en ligne
 
 - Juin 2016 - **Conférence-Débat : LabCMO - Québec/ Montréal - La "science ouverte juste" comme outils d'empowerment et de justice cognitive en Haïti et en Afrique francophone : présentation du projet SOHA.** avec Florence Piron, Thomas Hervé Mboa Nkoudou, et Hamissou Rhissa Achaffert ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/161-conference-debat-la-science-ouverte-juste-comme-outil-d-empowerment-et-de-justice-cognitive-en-haiti-et-en-afrique-francophone-presentation-du-projet-soha)
 
 - Février 2016 - **FORMATIC SANTÉ 2016 - Paris - L'exemple du MOOC « Numérique et Recherche en Santé.»** ==> [vidéo](https://www.canal-u.tv/video/canal_u_medecine/formaticsante_2016_l_exemple_du_mooc_numerique_et_recherche_en_sante.20738)
 
+#### 2014-2015
 
 - Juin 2015 - **CIRAD - Montpellier - D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud.** ==> [Videos en trois parties](http://coop-ist.cirad.fr/actualites/le-defi-d-une-science-ouverte-engagee-dans-les-pays-du-sud/%28language%29/fre-FR)
 
@@ -211,6 +221,12 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 ### Conferences
 
+#### 2017
+
+End of my PhD- hibernation
+
+#### 2016
+
 - August 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) with Constance de Quatrebarbes ==> [slides](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
 
 
@@ -225,6 +241,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 
 
 - January 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [slides](https://zenodo.org/record/45236#.VrBeOBhAvzM)
+
+#### 2014-2015
 
 - August 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
 
