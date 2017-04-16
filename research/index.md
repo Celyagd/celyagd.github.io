@@ -75,19 +75,19 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 - **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
-## Publications et présentations <a name="publications"></a>
+## Publications et Conférences <a name="publications"></a>
 
 
 ### Publications
 
-- **Actes de colloque :**
+#### Actes de colloque :
 
-Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
+- Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
 
-Aïm O., Depoux A. & Gruson-Daniel C. (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+- Aïm O., Depoux A. & Gruson-Daniel C. (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
 
-### Participation à des ouvrages
+#### Participation à des ouvrages
 
 - Novembre 2014 -  Chapitre "[OpenScience ou la Science Ouverte](http://www.futura-sciences.com/magazines/high-tech/infos/dossiers/d/internet-big-data-boom-donnees-numeriques-1936/page/5/)" dans [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données](http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/)" Editions FYP : Editeur de la prospective et des questions de société
 
@@ -223,15 +223,15 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 - **Blog posts:** a few on [this website](http://celyagd.github.io/blog/)
 
 
-## Publications and research presentations <a name="publications"></a>
+## Publications and Conférences <a name="publications"></a>
 
 ### Publications
 
-- **Actes de colloque :**
+#### Actes de colloque
 
-Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
+- Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
 
-Aïm O., Depoux A. & Gruson-Daniel C.(2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+- Aïm O., Depoux A. & Gruson-Daniel C.(2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
 ### Conferences
 
