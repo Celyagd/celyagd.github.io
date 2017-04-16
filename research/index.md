@@ -16,14 +16,14 @@ image:
 1. [Français](#français)
     - [Activités principales](#activités)
     - [Au quotidien](#quotidien)
-    - [Publications et présentations](#publications)
-    - [Présentations](#invitations)
+    - [Publications et conférences](#publications)
+    - [Présentations (Invitations)](#invitations)
     - [Enseignements](#enseignements)
 2. [English](#english)
 	- [Main research](#main)
     - [Open Research](#open)
-    - [Publications et presentations](#publications)
-    - [Presentations](#invitations)
+    - [Publications et conferences](#publications)
+    - [Presentations (Invitations)](#invitations)
     - [Teaching](#teaching)
 
 
@@ -82,7 +82,10 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 - **Actes de colloque :**
 
-AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
+
+Aïm O., Depoux A. & Gruson-Daniel C. (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+
 
 ### Participation à des ouvrages
 
@@ -96,6 +99,8 @@ AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d�
 #### 2017
 
 zzzzzzzz hibernation-rédaction-fin de thèse zzzzzzzzzzz
+
+- Janvier 2017 - **Journée d'étude "Données personneelles en milieu universitaire : quelles questions se poser"- Paris-**Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.
 
 #### 2016
 - Novembre 2016 - **[DHNord2016](https://www.meshs.fr/dhnord201160912174051___1440x900x1x1440x433x1_fr____rwr__________..php) - Lille - Humanités numériques en controverses (France, 2015/2016)** avec Jean-Edouard Bigot et Jérôme Valluy ==> [diapos](http://www.costech.utc.fr/IMG/pdf/colloque_dhnord_2016_jeb-cgd-jv_24112016.pdf)
@@ -133,7 +138,13 @@ zzzzzzzz hibernation-rédaction-fin de thèse zzzzzzzzzzz
 
 *Présentations pour des formations, séminaires, table-rondes, etc. sur la thématique générale de la recherche et de l'enseignement avec le numérique (Open Science, MOOC, etc)*
 
+#### 2017
+
+- Mars 2017 - Avignon - **Café Sciences citoyennes - Open Access** organisé par l'INRA Avignon en partenariat avec l'association Sciences Citoyennes
+
 #### 2016
+
+- Novembre 2016 - Montpellier - **Séminaire Doctoral : L'*Open Access* et moi** organisé par les doctorant(e)s du CIRAD et de l'INRA (UMR Innovation et MOISA)
 
 - Juillet 2016 - **Nuit de la sociologie, AISLF 2016 - Montréal - Recherche, échange, partage : instants capturés du quotidien numérique d’une doctorante.** ==> diapos prochainement en ligne
 
@@ -160,11 +171,14 @@ zzzzzzzz hibernation-rédaction-fin de thèse zzzzzzzzzzz
 
 ## Enseignements <a name="enseignements"></a>
 
+- Janvier 2017 - **Atelier Humanités Numériques** (3 demi journées) dans le cadre du DU Philosophie pratique de l'éducation et de l'apprentissage (CRI)
 
-- coordination du **MOOCSciNum** (October 2015)
-[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)
+- Novembre 2016 - **L'*open* diffusion des savoirs et accessibilité.** Séance (1/2 journée) dans le cadre du cours de Licence Histoire des concepts de la communication (Anneliese Depoux) à Paris 13
 
-- Formations internes au Centre Virchow-Villermé (Zotero, Licence Creative Commons, méthodologie de la création d'un MOOC)
+- Coordination du **MOOCSciNum** (October 2015)
+[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](https://celyagd.github.io/moocscinum/)
+
+- Formations internes au Centre Virchow-Villermé (Zotero, Licence Creative Commons, méthodologie de la création d'un MOOC) et dans le cadre de [HackYourPhD](http://hackyourphd.org/)
 
 
 ### English <a name="english"></a>
@@ -178,8 +192,6 @@ Discourse and Conceptions about Openness in science : digital and multisitued et
 ==> Co-supervision by Florence Piron (Université laval/Québec) and Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Funding by Centre Virchow-Villermé.
 
 - **2013-now - Research on MOOC (Centre Virchow-Villermé)**
-
-
 
 MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Openness
 
@@ -217,13 +229,17 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 
 - **Actes de colloque :**
 
-AIM Olivier, DEPOUX Anneliese & GRUSON-DANIEL Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
+
+Aïm O., Depoux A. & Gruson-Daniel C.(2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
 ### Conferences
 
 #### 2017
 
-End of my PhD- hibernation
+zzzzzzzz - End of my PhD (hibernation) - zzzzzzzz
+
+- January 2017 - **Journée d'étude "Données personneelles en milieu universitaire : quelles questions se poser"- Paris-**Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.
 
 #### 2016
 
@@ -263,30 +279,42 @@ End of my PhD- hibernation
 
 *Presentations for workshops, trainings, etc mainly on the general topic : Reseach, Teaching and digital technologies*
 
-- Juillet 2016 - **Nuit de la sociologie, AISLF 2016 - Montréal - Recherche, échange, partage : instants capturés du quotidien numérique d’une doctorante** ==> diapos prochainement en ligne
+####2017
 
-- Juin 2016 - **Conférence-Débat : LabCMO - Québec/ Montréal - La "science ouverte juste" comme outils d'empowerment et de justice cognitive en Haïti et en Afrique francophone : présentation du projet SOHA** avec Florence Piron, Thomas Hervé Mboa Nkoudou, et Hamissou Rhissa Achaffert ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/161-conference-debat-la-science-ouverte-juste-comme-outil-d-empowerment-et-de-justice-cognitive-en-haiti-et-en-afrique-francophone-presentation-du-projet-soha)
+- March 2017 - Avignon - **Café Sciences citoyennes - Open Access** organisé par l'INRA Avignon en partenariat avec l'association Sciences Citoyennes
 
-- Février 2016 - **FORMATIC SANTÉ 2016 - Paris - L'exemple du MOOC « Numérique et Recherche en Santé.** ==> [vidéo](https://www.canal-u.tv/video/canal_u_medecine/formaticsante_2016_l_exemple_du_mooc_numerique_et_recherche_en_sante.20738)
+####2016
 
+- November 2016 - Montpellier - **Séminaire Doctoral : L'*Open Access* et moi** organisé par les doctorant(e)s du CIRAD et de l'INRA (UMR Innovation et MOISA)
 
-- Juin 2015 - **CIRAD - Montpellier - D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud.** ==> [Videos en trois parties](http://coop-ist.cirad.fr/actualites/le-defi-d-une-science-ouverte-engagee-dans-les-pays-du-sud/%28language%29/fre-FR)
+- July 2016 - **Nuit de la sociologie, AISLF 2016 - Montréal - Recherche, échange, partage : instants capturés du quotidien numérique d’une doctorante** ==> diapos prochainement en ligne
 
-- Mai 2015 - **Ecole IST de l'INRA - Paris - Open Science/Science ouverte : comprendre la recherche en train de se faire.  Evolutions de la recherche et impacts pour l'IST.**
+- June 2016 - **Conférence-Débat : LabCMO - Québec/ Montréal - La "science ouverte juste" comme outils d'empowerment et de justice cognitive en Haïti et en Afrique francophone : présentation du projet SOHA** avec Florence Piron, Thomas Hervé Mboa Nkoudou, et Hamissou Rhissa Achaffert ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/161-conference-debat-la-science-ouverte-juste-comme-outil-d-empowerment-et-de-justice-cognitive-en-haiti-et-en-afrique-francophone-presentation-du-projet-soha)
 
-- Avril 2015 - **Conférence-Débat : LabCMO - Québec/ Montréal - Libres, ouvertes, open : que signifient les adjectifs qualifiant les pratiques de recherche contemporaines.** ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/146-conference-debat-libres-ouvertes-open-que-signifient-les-adjectifs-qualifiant-les-nouvelles-pratiques-de-recherche-contemporaines) et diapos sur [Zenodo](https://zenodo.org/record/16980#.VX2bcOdMZcY)
+- February 2016 - **FORMATIC SANTÉ 2016 - Paris - L'exemple du MOOC « Numérique et Recherche en Santé.** ==> [vidéo](https://www.canal-u.tv/video/canal_u_medecine/formaticsante_2016_l_exemple_du_mooc_numerique_et_recherche_en_sante.20738)
 
-- Mars 2015 - **Webséminaire Master Recherche Infocomm *Industries culturelles et environnement numérique.* - (à distance) - Sources et ressources pour une science ouverte** ==> [conf en ligne](http://master-recherche-infocom.u-paris10.fr/webinaire/seance-3-sources-et-ressources-open-science/)  
+####2014-2015
 
-- Novembre 2014 - **Séminaire "Ecritures numériques et éditorialisation" - IRI - Paris - Séance des blogues scientifiques aux revues savantes.** avec Joëlle Le Marec et Benoit Mélançon ==> [résumé séance](http://seminaire.sens-public.org/spip.php?article44)
+- June 2015 - **CIRAD - Montpellier - D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud.** ==> [Videos en trois parties](http://coop-ist.cirad.fr/actualites/le-defi-d-une-science-ouverte-engagee-dans-les-pays-du-sud/%28language%29/fre-FR)
+
+- May 2015 - **Ecole IST de l'INRA - Paris - Open Science/Science ouverte : comprendre la recherche en train de se faire.  Evolutions de la recherche et impacts pour l'IST.**
+
+- April 2015 - **Conférence-Débat : LabCMO - Québec/ Montréal - Libres, ouvertes, open : que signifient les adjectifs qualifiant les pratiques de recherche contemporaines.** ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/146-conference-debat-libres-ouvertes-open-que-signifient-les-adjectifs-qualifiant-les-nouvelles-pratiques-de-recherche-contemporaines) et diapos sur [Zenodo](https://zenodo.org/record/16980#.VX2bcOdMZcY)
+
+- March 2015 - **Webséminaire Master Recherche Infocomm *Industries culturelles et environnement numérique.* - (à distance) - Sources et ressources pour une science ouverte** ==> [conf en ligne](http://master-recherche-infocom.u-paris10.fr/webinaire/seance-3-sources-et-ressources-open-science/)  
+
+- November 2014 - **Séminaire "Ecritures numériques et éditorialisation" - IRI - Paris - Séance des blogues scientifiques aux revues savantes.** avec Joëlle Le Marec et Benoit Mélançon ==> [résumé séance](http://seminaire.sens-public.org/spip.php?article44)
 
 - April 2014 - **Geneva Health Forum - Geneva - Mooc : the stake of Open Education Ressources for an high Social Impact.** in the session [MOOCs as Tools Providing Wide Access to High Quality Education](http://ghf.g2hp.net/2014/04/08/ghf2014-moocs-as-tools-providing-wide-access-to-high-quality-education/#.VKlHEKaRRrk)
 
-- Juin 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
+- June 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
 
 
 ## Teaching <a name="teaching"></a>
 
-#### MOOCSciNum
-coordination of the **MOOCSciNum** (October 2015)
-[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about)
+- Janvier 2017 - **Atelier Humanités Numériques** (3 demi journées) dans le cadre du DU Philosophie pratique de l'éducation et de l'apprentissage (CRI)
+
+- Novembre 2016 - **L'*open* diffusion des savoirs et accessibilité.** Séance (1/2 journée) dans le cadre du cours de Licence Histoire des concepts de la communication (Anneliese Depoux) à Paris 13
+
+- Coordination of the **MOOCSciNum** (October 2015)
+[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](https://celyagd.github.io/moocscinum/)
