@@ -11,12 +11,8 @@ image:
 
 ---
 
-<h1>MOOC en Afrique : des promesses de l’ouverture aux réalités de l’appropriation</h1>
 
-
-<span><a href="https://theconversation.com/profiles/celya-gruson-daniel-367160">Celya Gruson-Daniel</a>, <em><a href="http://theconversation.com/institutions/universite-paris-descartes-uspc-2169">Université Paris Descartes – USPC</a></em> et <a href="https://theconversation.com/profiles/ali-sie-367157">Ali Sié</a>, <em><a href="http://theconversation.com/institutions/centre-de-recherche-en-sante-de-nouna-3062">Centre de Recherche en Santé de Nouna</a></em></span>
-
-  <p><em>Cet article a été co-écrit avec Karl-William Sherlaw, Ingénieur pédagogique au <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé</a> et Khamsa Habouchi, Responsable MOOC Factory au Centre Virchow-Villermé</em>. <img src="https://counter.theconversation.edu.au/content/76551/count.gif?distributor=republish-lightbox-basic" alt="The Conversation" width="1" height="1" /></p>
+ <p><Cet article a été co-écrit avec Karl-William Sherlaw, Ingénieur pédagogique au <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé</a>, Khamsa Habouchi, Responsable MOOC Factory au Centre Virchow-Villermé</em> et Ali Sié, Centre de Santé publique de Nouna (Burkina Faso). Il a été préalablement publié sur le site The Conversation <a href="https://theconversation.com/mooc-en-afrique-des-promesses-de-louverture-aux-realites-de-lappropriation-76551">The conversation MOOC-Afrique-CVV</a> en licence CC-BY-ND.</p>
 
 <hr>
 
