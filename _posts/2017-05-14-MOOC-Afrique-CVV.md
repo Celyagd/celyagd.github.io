@@ -12,7 +12,7 @@ image:
 ---
 
 
- <p><Cet article a été co-écrit avec Karl-William Sherlaw, Ingénieur pédagogique au <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé</a>, Khamsa Habouchi, Responsable MOOC Factory au Centre Virchow-Villermé</em> et Ali Sié, Centre de Santé publique de Nouna (Burkina Faso). Il a été préalablement publié sur le site The Conversation <a href="https://theconversation.com/mooc-en-afrique-des-promesses-de-louverture-aux-realites-de-lappropriation-76551">The conversation MOOC-Afrique-CVV</a> en licence CC-BY-ND.</p>
+ <p>Cet article a été co-écrit avec Karl-William Sherlaw, Ingénieur pédagogique au <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé</a>, Khamsa Habouchi, Responsable MOOC Factory au Centre Virchow-Villermé</em> et Ali Sié, Centre de Santé publique de Nouna (Burkina Faso). Il a été préalablement publié sur le site The Conversation <a href="https://theconversation.com/mooc-en-afrique-des-promesses-de-louverture-aux-realites-de-lappropriation-76551">The conversation</a> en licence CC-BY-ND.</p>
 
 <hr>
 
@@ -42,7 +42,7 @@ image:
 
 <p>Lorsqu’on est impliqué dans la production de tel dispositif, comment dépasser cette opposition entre mythe du partage et de la collaboration et récupération inévitable des savoirs par les <a href="http://dms.revues.org/685">nouvelles formes du capitalisme informationnel ou cognitif</a>.</p>
 
-<p>Comment penser de façon pragmatique ce lien entre numérique, éducation et impact social ? Ce sont des réflexions que le <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé de santé publique</a> mène depuis 2013 dans le cadre de ses missions d’enseignement et de recherche. Dans le but de proposer des formations en santé publique et globale, transversales et ouvertes à un public international, le développement d’une Fabrique à MOOC (<a href="http://virchowvillerme.eu/fr/la-MOOC-factory/">MOOC Factory</a>) a permis de produire 20 MOOC, qui touchent notamment un grand nombre de participants en Afrique francophone. En 2016, les nationalités les plus représentées sur <a href="https://www.fun-mooc.fr/news/article/preview/trois-ans-de-mooc-sur-fun/">la plateforme française FUN</a> étaient le Maroc (3<sup>e</sup> position), la Côte d’Ivoire (5<sup>e</sup>), l’Algérie (6<sup>e</sup>) puis le Cameroun, le Sénégal et la Tunisie.</p>
+<p>Comment penser de façon pragmatique ce lien entre numérique, éducation et impact social ? Ce sont des réflexions que le <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé de santé publique</a> mène depuis 2013 dans le cadre de ses missions d’enseignement et de recherche. Dans le but de proposer des formations en santé publique et globale, transversales et ouvertes à un public international, le développement d’une Fabrique à MOOC (<a href="http://virchowvillerme.eu/fr/la-MOOC-factory/">MOOC Factory</a>) a permis de produire 20 MOOC, qui touchent notamment un grand nombre de participants en Afrique francophone. En 2016, les nationalités les plus représentées sur <a href="https://www.fun-mooc.fr/news/trois-ans-de-mooc-sur-fun/">la plateforme française FUN</a> étaient le Maroc (3<sup>e</sup> position), la Côte d’Ivoire (5<sup>e</sup>), l’Algérie (6<sup>e</sup>) puis le Cameroun, le Sénégal et la Tunisie.</p>
 
 <p>Cette activité de production s’est toujours accompagnée d’un regard réflexif et critique sur ce « phénomène MOOC » grâce à un travail de recherche mené en Sciences de l’Information et de la Communication sur l’ajustement de l’offre et des dispositifs d’éducation proposés.</p>
 
