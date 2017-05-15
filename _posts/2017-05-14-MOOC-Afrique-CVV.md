@@ -12,7 +12,7 @@ image:
 ---
 
 
- <p>Cet article a été co-écrit avec Karl-William Sherlaw, Ingénieur pédagogique au <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé</a>, Khamsa Habouchi, Responsable MOOC Factory au Centre Virchow-Villermé</em> et Ali Sié, Centre de Santé publique de Nouna (Burkina Faso). Il a été préalablement publié sur le site The Conversation <a href="https://theconversation.com/mooc-en-afrique-des-promesses-de-louverture-aux-realites-de-lappropriation-76551">The conversation</a> en licence CC-BY-ND.</p>
+ <p>Cet article a été co-écrit avec Karl-William Sherlaw, Ingénieur pédagogique au <a href="http://virchowvillerme.eu/fr/">Centre Virchow-Villermé</a>, Khamsa Habouchi, Responsable MOOC Factory au Centre Virchow-Villermé</em> et Ali Sié, Centre de Santé publique de Nouna (Burkina Faso). Il a été préalablement publié sur le site <a href="https://theconversation.com/mooc-en-afrique-des-promesses-de-louverture-aux-realites-de-lappropriation-76551">The conversation</a> en licence CC-BY-ND.</p>
 
 <hr>
 
