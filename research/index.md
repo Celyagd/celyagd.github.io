@@ -82,7 +82,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 #### Actes de colloque :
 
-- Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
+- Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) Aux OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
 
 - Aïm O., Depoux A. & Gruson-Daniel C. (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
@@ -100,7 +100,9 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 zzzzzzzz hibernation-rédaction-fin de thèse zzzzzzzzzzz
 
-- Janvier 2017 - **Journée d'étude "Données personneelles en milieu universitaire : quelles questions se poser"- Paris-**Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.
+- Mai 2017 - Journée d'étude "chiffres privés, chiffres publics : calculs, comptabilités et statistiques XVII-XXIè siècle"- Paris- **L'ouverture des données de santé : une entrée par les acteurs** avec François Briatte ==> [diapos](https://gitpitch.com/celyagd/ODS)
+
+- Janvier 2017 - Journée d'étude "Données personneelles en milieu universitaire : quelles questions se poser"- Paris- **Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.**
 
 #### 2016
 - Novembre 2016 - **[DHNord2016](https://www.meshs.fr/dhnord201160912174051___1440x900x1x1440x433x1_fr____rwr__________..php) - Lille - Humanités numériques en controverses (France, 2015/2016)** avec Jean-Edouard Bigot et Jérôme Valluy ==> [diapos](http://www.costech.utc.fr/IMG/pdf/colloque_dhnord_2016_jeb-cgd-jv_24112016.pdf)
@@ -238,6 +240,8 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 #### 2017
 
 zzzzzzzz - End of my PhD (hibernation) - zzzzzzzz
+
+- May 2017 - Journée d'étude "chiffres privés, chiffres publics : calculs, comptabilités et statistiques XVII-XXIè siècle"- Paris- **L'ouverture des données de santé : une entrée par les acteurs** avec François Briatte ==> [diapos](https://gitpitch.com/celyagd/ODS)
 
 - January 2017 - **Journée d'étude "Données personneelles en milieu universitaire : quelles questions se poser"- Paris-**Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.
 
