@@ -20,13 +20,12 @@ image:
 
 ## Qui suis-je ?
 
-- Je suis ingénieure de recherche au Centre Virchow-Villermé [Centre Virchow-Villermé](http://www.virchowvillerme.eu) en charge des projets associés à l'*Open Science* et aux méthodes numériques.
-- Je suis doctorante au [Centre de Recherches Interdisciplinaires](http://cri-paris.org/) (école doctorale) en sciences de l'information et de la communication. Je fais ma thèse en co-encadrement entre la France et le Québec ([Costech](http://www.utc.fr/costech/)/UTC) et le département de communication/[Université Laval](http://www2.ulaval.ca/en/home.html)). Ma thèse est financée par le Centre Virchow-Villermé.
-- Je suis la co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) un groupe de réflexion sur la science ouverte
+- Chargée de recherche au [Centre Virchow-Villermé](http://www.virchowvillerme.eu) du projet ANR #MOOCLive - compréhension fine des profils des utilisateurs de MOOC par une approche mixte (sciences des données / sociologie)
+- Doctorante au [Centre de Recherches Interdisciplinaires](http://cri-paris.org/) (école doctorale) en sciences de l'information et de la communication (SIC). Je fais ma thèse en co-encadrement entre la France et le Québec ([Costech](http://www.utc.fr/costech/)/UTC) et le département de communication/[Université Laval](http://www2.ulaval.ca/en/home.html)).
+- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) un groupe de réflexion sur la science ouverte.
+- Enseignante sur les thématiques Numérique & Recherche dans divers établissements et écoles (CRI, SciencePo, UPEM)
 
 Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur Linkedin [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
-
-**Me contacter :** celya.gruson-daniel@parisdescartes.fr pour la partie recherche et enseignement et celyagd@hackyourphd pour la partie associative HackYourPhD
 
 
 ## Que trouvez-vous sur ce site ?
@@ -34,11 +33,10 @@ Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur L
 Vous y trouverez :
 
 - Mes activités de recherche (publications, présentations et projets en cours) ==> [ici](http://celyagd.github.io/research/)
-- Mes activités en lien avec l'Open Science et les méthodes numériques, principalement avec HackYourPhD (évènements, présentations, etc.) ==> [là](http://celyagd.github.io/openscience/)
-- Mes activités d'enseignements avec le Centre Virchow-Villermé ==> [ici](http://celyagd.github.io/moocscinum/)
+- Mes activités en lien avec l'*Open Science* et les méthodes numériques, principalement avec HackYourPhD (évènements, présentations, etc.) ==> [là](http://celyagd.github.io/openscience/)
+- Mes activités d'enseignements (MOOC, Master, etc.) [ici](http://celyagd.github.io/moocscinum/)
 - Quelques articles de blog écrits pour différents sites (MyScienWork, HackYourPhD, Centre Virchow-Villermé) ==> par [là](http://celyagd.github.io/blog/)
 
-*********************************************************************************************
 
 ### English <a name="english"></a>
 
@@ -46,16 +44,14 @@ Vous y trouverez :
 
 ## Who am I ?
 
-- I'm a research engineer at the [Centre Virchow-Villermé](http://www.virchowvillerme.eu) in Paris (Open and Digital Science Project Manager)
+- Research Project Manager at the [Centre Virchow-Villermé](http://www.virchowvillerme.eu) for #MOOCLive (Mixed-method approach applied to the study of MOOC users)
 
-- I'm a PhD student at the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) (doctoral school). My co-supervisors are Yann Moulier-Boutang, Pascal Jollivet-Courtois (UTC [Costech Lab](http://www.utc.fr/costech/)) and Florence Piron ([Université Laval](http://www2.ulaval.ca/en/home.html))
-- I'm the co-founder of an Open Science community [HackYourPhD](http://www.hackyourphd.org)
+- PhD student at the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) (doctoral school). My co-supervisors are Yann Moulier-Boutang, Pascal Jollivet-Courtois (UTC [Costech Lab](http://www.utc.fr/costech/)) and Florence Piron ([Université Laval](http://www2.ulaval.ca/en/home.html))
+- Co-founder of an Open Science community [HackYourPhD](http://www.hackyourphd.org)
+- Teacher (digital technologies and research) for graduate students
 
 
 To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
-
-**Contact :** celya.gruson-daniel@parisdescartes.fr for the research and teaching part and celyagd@hackyourphd for other activities (HackYourPhD, etc.)
-
 
 ## What would you find on this website ?
 
@@ -63,5 +59,6 @@ Informations about :
 
 - My research activities (Publications, Academic Presentation, Open Notebook...) ==> [here](http://celyagd.github.io/research/)
 - My Open Science activities mainly with HackYourPhD (Events, Presentations...) ==> [there](http://celyagd.github.io/openscience/)
-- My teaching coordination activities with the Centre Virchow-Villermé ==> [here](http://celyagd.github.io/moocscinum/)
+- My teaching coordination activities (MOOC, Master, etc.)
+ ==> [here](http://celyagd.github.io/moocscinum/)
 - A few blog articles written first for different websites (MyScienceWork, HackYourPhD, Centre Virchow-Villermé) ==> [there](http://celyagd.github.io/blog/)
