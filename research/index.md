@@ -18,13 +18,11 @@ image:
     - [Au quotidien](#quotidien)
     - [Publications et conférences](#publications)
     - [Présentations (Invitations)](#invitations)
-    - [Enseignements](#enseignements)
 2. [English](#english)
 	- [Main research](#main)
     - [Open Research](#open)
     - [Publications et conferences](#publications)
     - [Presentations (Invitations)](#invitations)
-    - [Teaching](#teaching)
 
 
 ### Français <a name="français"></a>
@@ -181,16 +179,6 @@ zzzzzzzz hibernation - rédaction - fin de thèse zzzzzzzzzzz
 - Juin 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
 
 
-## Enseignements <a name="enseignements"></a>
-
-- Janvier 2017 - **Atelier Humanités Numériques** (3 demi journées) dans le cadre du DU Philosophie pratique de l'éducation et de l'apprentissage (CRI)
-
-- Novembre 2016 - **L'*open* diffusion des savoirs et accessibilité.** Séance (1/2 journée) dans le cadre du cours de Licence Histoire des concepts de la communication (Anneliese Depoux) à Paris 13
-
-- Coordination du **MOOCSciNum** (October 2015)
-[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](https://celyagd.github.io/moocscinum/)
-
-- Formations internes au Centre Virchow-Villermé (Zotero, Licence Creative Commons, méthodologie de la création d'un MOOC) et dans le cadre de [HackYourPhD](http://hackyourphd.org/)
 
 
 ### English <a name="english"></a>
@@ -322,13 +310,3 @@ zzzzzzzz - End of my PhD (hibernation) - zzzzzzzz
 - April 2014 - **Geneva Health Forum - Geneva - Mooc : the stake of Open Education Ressources for an high Social Impact.** in the session [MOOCs as Tools Providing Wide Access to High Quality Education](http://ghf.g2hp.net/2014/04/08/ghf2014-moocs-as-tools-providing-wide-access-to-high-quality-education/#.VKlHEKaRRrk)
 
 - June 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
-
-
-## Teaching <a name="teaching"></a>
-
-- Janvier 2017 - **Atelier Humanités Numériques** (3 demi journées) dans le cadre du DU Philosophie pratique de l'éducation et de l'apprentissage (CRI)
-
-- Novembre 2016 - **L'*open* diffusion des savoirs et accessibilité.** Séance (1/2 journée) dans le cadre du cours de Licence Histoire des concepts de la communication (Anneliese Depoux) à Paris 13
-
-- Coordination of the **MOOCSciNum** (October 2015)
-[Numérique et Recherche en santé et sciences du vivant : nouvelles pratiques et enjeux](https://celyagd.github.io/moocscinum/)
