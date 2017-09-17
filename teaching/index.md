@@ -26,7 +26,7 @@ image:
 
 - Novembre 2016 - **Intervention "L'*open* : diffusion des savoirs et accessibilité"** - Cours Histoire des concepts de la communication (Licence) avec Anneliese Depoux - Université Paris 13
 
-- Automne 2015 - Conception et coordination du **MOOCSciNum : Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux** - [France Université Numérique](https://www.fun-mooc.fr/courses/VirchowVillerme/06005/session01/about)
+- Automne 2015 - Conception et coordination du **MOOCSciNum : Numérique et recherche en santé et sciences du vivant : nouvelles pratiques et enjeux** - [France Université Numérique](https://www.fun-mooc.fr/courses/VirchowVillerme/06005/session01/about) et l'ensemble du syllabus et les ressources [ici](http://celyagd.github.io/moocscinum/) 
 
 
 ### English <a name="english"></a>
