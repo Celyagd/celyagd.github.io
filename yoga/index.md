@@ -5,7 +5,7 @@ tags: [yoga]
 modified:
 comments: true
 image:
-  feature: guimet-cc-test.jpg
+  feature: cc-yoga-surf.jpg
   credit:
   creditlink :
 
