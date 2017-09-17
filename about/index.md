@@ -36,6 +36,7 @@ Vous y trouverez :
 - Mes activités en lien avec l'*Open Science* et les méthodes numériques, principalement avec HackYourPhD (évènements, présentations, etc.) ==> [là](http://celyagd.github.io/openscience/)
 - Mes activités d'enseignements (MOOC, Master, etc.) [ici](http://celyagd.github.io/moocscinum/)
 - Quelques articles de blog écrits pour différents sites (MyScienWork, HackYourPhD, Centre Virchow-Villermé) ==> par [là](http://celyagd.github.io/blog/)
+- Les horaires de mes cours de Yoga ==> [ici](http://celyagd.github.io/yoga/)
 
 
 ### English <a name="english"></a>
