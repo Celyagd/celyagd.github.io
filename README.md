@@ -5,8 +5,7 @@ Célya Gruson-Daniel's website
 Informations about :
 
 - My research activities (Publications, Academic Presentation, Open Notebook…)
-- My teaching coordination activities with the Centre Virchow-Villermé
-- The way to contact me online
+- My teaching activities (Digital methods, etc.)
 - My Open Science activities (Events, Presentations…)
 
 
