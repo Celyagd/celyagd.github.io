@@ -18,3 +18,5 @@ Pour l'instant, je donne un cours de yoga par semaine avec l'[Association Coeur 
 D'autres stages et cours seront planifiés courant 2018 (stage yoga & doctorat, stage yoga/cuisine végétarienne, cours pour femmes enceinte, etc. )
 
 N'hésitez pas à me contacter pour toutes informations supplémentaires !  
+
+---
