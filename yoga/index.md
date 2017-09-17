@@ -7,6 +7,8 @@ comments: true
 image:
   feature: guimet-cc-test.jpg
   credit:
-  creditlink : 
+  creditlink :
 
 ---
+
+test
