@@ -33,7 +33,7 @@ image:
 
 - **Depuis Novembre 2014 : Doctorat (CRI/ UTC/ Laval)** *Fin prévue en 2018 (si, si on y croit ! )*
 
-Dernière version du titre à ce jour :) : La définition d’un régime des savoirs à l’œuvre à l’ère numérique : Enquête sur les mondes de l’ « open » en Sciences. *L’étude de la Consultation République Numérique comme épreuve de justice «équipée»*
+Dernière version du titre à ce jour :) : Numérique & recompositions des régimes de savoirs : l’ « open » en sciences.
 
 ==> Co-encadrement de thèse par Florence Piron (Université laval/Québec) et Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Financement par le Centre Virchow-Villermé.
 
@@ -69,7 +69,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 	- Recherche et coup de coeur : [Facebook perso](https://www.facebook.com/c.grusondaniel) et [Twitter](www.twitter.com/celyagd)
 
-- **Code :** premier pas sur [Github](https://github.com/Celyagd)
+- **Code :** [Github](https://github.com/Celyagd) et cours d'introduction à la programmation avec le projet DRISS (Digital Research in Social Sciences)
 
 - **Carnets de bord événements :** j'utilise [storify](https://storify.com/hackyourphd) pour agréger des tweets et prendre quelques notes durant des évènements
 
@@ -79,6 +79,14 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 
 ### Publications
+
+#### Revues
+
+- Gruson-Daniel, C., & Quatrebarbes, C. de. (A paraitre). Du hack et des sprints en sociologie(s) : des tensions aux inter-médiations en contexte numérique. Sociologie et sociétés.
+
+- Gruson-Daniel, C. (2017). Open et régime de savoirs en recomposition : le cas de la consultation République Numérique. Revue française des sciences de l’information et de la communication, (11).
+
+
 
 #### Actes de colloque :
 
@@ -98,7 +106,9 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 #### 2017
 
-zzzzzzzz hibernation-rédaction-fin de thèse zzzzzzzzzzz
+zzzzzzzz hibernation - rédaction - fin de thèse zzzzzzzzzzz
+
+- Septembre 2017 - Colloque "Sociologie & Sociétés : retour critique sur les sociologies numériques" - Lausanne - **Du hack et des sprints en sociologie(s) : des tensions aux intermédiations en contexte numérique** avec Constance de Quatrebarbes ==> [diapos](https://gitpitch.com/celyagd/S2_hack)
 
 - Mai 2017 - Journée d'étude "chiffres privés, chiffres publics : calculs, comptabilités et statistiques XVII-XXIè siècle"- Paris- **L'ouverture des données de santé : une entrée par les acteurs** avec François Briatte ==> [diapos](https://gitpitch.com/celyagd/ODS)
 

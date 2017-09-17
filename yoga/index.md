@@ -11,7 +11,7 @@ image:
 
 ---
 
-- Diplômée de l'école de Yoga Sivananda depuis 2012, je pratique le Yoga depuis 2009 (début à San Francisco). J'enseigne le hatha yoga mais j'y ajoute des éléments venant de ma pratique personnelle (Iyengar, Qi Kong, Vinyasa, etc.). J'ai goût d'enseigner le yoga auprès des univers que je côtoie au quotidien, soit celui de la recherche et de l'entreprenariat. Milieux où les pensées moulinent bien trop rapidement, et où l'on oublie que les solutions commencent avant tout par un corps en bonne santé et ancré :) 
+- Diplômée de l'école de Yoga Sivananda depuis 2012, je pratique le Yoga depuis 2009 (début à San Francisco). J'enseigne le hatha yoga mais j'y ajoute des éléments venant de ma pratique personnelle (Iyengar, Qi Gong, Vinyasa, etc.). J'ai goût d'enseigner le yoga auprès des univers que je côtoie au quotidien, soit celui de la recherche et de l'entreprenariat. Milieux où les pensées moulinent bien trop rapidement, et où l'on oublie que les solutions commencent avant tout par un corps en bonne santé et ancré :) 
 
 
 
