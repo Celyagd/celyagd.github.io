@@ -48,8 +48,8 @@ Vous y trouverez :
 - Research Project Manager at the [Centre Virchow-Villermé](http://www.virchowvillerme.eu) for #MOOCLive (Mixed-method approach applied to the study of MOOC users).
 - PhD student at the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) (doctoral school). My co-supervisors are Yann Moulier-Boutang, Pascal Jollivet-Courtois (UTC [Costech Lab](http://www.utc.fr/costech/)) and Florence Piron ([Université Laval](http://www2.ulaval.ca/en/home.html)).
 - Co-founder of an Open Science community [HackYourPhD](http://www.hackyourphd.org).
-- Teacher (digital technologies and research) for graduate students.
-- Yoga Teach (one course per week for the moment).
+- Guest lecturer (digital technologies and research) for graduate students.
+- Yoga Teacher (one course per week for the moment).
 
 To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
 
