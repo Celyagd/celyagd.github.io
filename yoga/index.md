@@ -19,6 +19,7 @@ image:
 
 - D'autres stages et cours seront planifiés courant 2018 : stage yoga & doctorat, stage yoga & cuisine végétarienne (avec Noémie Gazza), cours pour femmes enceintes, etc.
 
-- N'hésitez pas à me contacter pour toutes informations supplémentaires !  
+- Plus d'informations sur [Facebook](https://www.facebook.com/pg/premyogacc) N'hésitez pas à me contacter pour tous renseignements supplémentaires !  
+
 
 ---

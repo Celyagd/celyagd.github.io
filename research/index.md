@@ -82,7 +82,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 - Gruson-Daniel, C., & Quatrebarbes, C. de. (A paraitre). Du hack et des sprints en sociologie(s) : des tensions aux inter-médiations en contexte numérique. Sociologie et sociétés.
 
-- Gruson-Daniel, C. (2017). Open et régime de savoirs en recomposition : le cas de la consultation République Numérique. Revue française des sciences de l’information et de la communication, (11).
+- Gruson-Daniel, C. (2017). Open et régime de savoirs en recomposition : le cas de la consultation République Numérique. Revue française des sciences de l’information et de la communication, (11). https://doi.org/10.4000/rfsic.3214
 
 
 
