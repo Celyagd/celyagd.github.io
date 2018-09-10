@@ -75,7 +75,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 - **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
-- **Réseaux sociaux (scientifiques) et archives ** : [Linkedin](https://www.linkedin.com/in/celyagrusondaniel), Zenodo. Création de comptes sur HAL-SHS, Academia (inactif).. 
+- **Réseaux sociaux (scientifiques) et archives ** : [Linkedin](https://www.linkedin.com/in/celyagrusondaniel), Zenodo. Création de comptes sur HAL-SHS, Academia (inactif)..
 
 ## Communications (publications et conférences) <a name="publications"></a>
 
@@ -92,9 +92,8 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 - Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11). En ligne : [http://rfsic.revues.org/3214](http://rfsic.revues.org/3214)
 
-- AIm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014). « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC »,. Présenté à Conférence JOCAIR.
 
-- Aïm O., Depoux A. & Gruson-Daniel C. (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+- Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
 #### Coordination revues
 
