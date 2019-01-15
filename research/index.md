@@ -65,7 +65,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 - **Citations, extraits choisis :** [Pensées Yogeek](http://yogeekons.tumblr.com/), tumblr où je partage quelques citations au fil de mes lectures.
 
 - **Veille :**
-	- Open Science avec HackYourPhD : [Site](hackyourphd.org), [Groupe Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](www.twitter.com/hackyourphd)
+	- Open Science avec HackYourPhD : [Site](hackyourphd.org), [Groupe Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](https://twitter.com/hackyourphd)
 
 	- Recherche et coup de coeur : [Twitter](www.twitter.com/celyagd)
 
