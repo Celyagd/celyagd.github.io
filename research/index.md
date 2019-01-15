@@ -84,7 +84,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 #### Revues et actes de colloque
 
-- Gruson-Daniel Célya & De Quatrebarbes Constance (à paraitre 2018). « Les préparatifs d’un hackathon recherche : au coeur de la fabrique des données », Sociologie et sociétés.
+- Gruson-Daniel Célya & De Quatrebarbes Constance. « Les préparatifs d’un hackathon recherche : au coeur de la fabrique des données », Sociologie et sociétés. En ligne : [https://www.erudit.org/en/journals/socsoc/2017-v49-n2-socsoc04144/1054279ar/abstract/](https://www.erudit.org/en/journals/socsoc/2017-v49-n2-socsoc04144/1054279ar/abstract/)
 
 - Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( à paraître 2018). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (37). Pré-actes en ligne : [http://www.ticemed.eu/ticemed10-marseille-2016/](http://www.ticemed.eu/ticemed10-marseille-2016/)
 
