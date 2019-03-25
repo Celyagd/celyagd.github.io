@@ -18,10 +18,11 @@ image:
     - [Specialités](#specialités)
     - [Projet en cours](#projets)
     - [Au quotidien](#quotidien)
+
 2. [English](#english)
     - [In a few words](#brief)
-  	- [Research interests](#interests)
-  	- [On-going projects](#projects)
+    - [Research interests](#interests)
+    - [On-going projects](#projects)
     - [Open Research](#open)
 
 #### Français <a name="français"></a>
@@ -110,7 +111,8 @@ My research questions the place of knowledge in our modern societies and the rol
 
   - They are rooted in an interdisciplinary approach (master's degree in cognitive and behavioural neuroscience, doctorate in SIC/STS) with a pragmatic ("by doing") and entrepreneurial (DRISS) perspective in order to experience the transformation of our ways of thinking and acting with and through digital technologies.
 
-Research resume available [here](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing) )
+Research resume available [here](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
+
 -----
 
 ## Research interests <a name="interests"></a>
