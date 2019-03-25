@@ -11,66 +11,76 @@ image:
 
 ---
 
-**Click ! and go directly to the french or the english version**
+*Click ! and go directly to the french or the english version*
 
 1. [Français](#français)
-    - [Activités principales](#activités)
+    - [En quelques mots](#bref)
+    - [Specialités](#specialités)
+    - [Projet en cours](#projets)
     - [Au quotidien](#quotidien)
     - [Publications et conférences](#publications)
     - [Présentations (Invitations)](#invitations)
 2. [English](#english)
-	- [Main research](#main)
+    - [In a few words](#brief)
+  	- [Research interests](#interests)
+  	- [On-going projects](#projects)
     - [Open Research](#open)
     - [Publications et conferences](#publications)
     - [Presentations (Invitations)](#invitations)
 
 
-### Français <a name="français"></a>
+#### Français <a name="français"></a>
 
-### En quelques mots :
+## En quelques mots <a name="bref"></a>
 
-- Docteure en sciences sociales (STS/SIC), diplômée du CRI (Centre de Recherches Interdisciplinaires).
+- Docteure en sciences sociales (STS/SIC), diplômée du CRI (Centre de Recherches Interdisciplinaires) :  
 
-- Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages.
+  - Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages.
 
-- Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale (DRISS) afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
+  - Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale (DRISS) afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
 
-### Approches (inter)disciplinaires :
+## Spécialités de recherche <a name="specialités"></a>
+
+### Approches (inter)disciplinaires
+
 - STS (Sciences, Technologies et Société) : imaginaires numériques et technoscientifiques, étude du régime des savoirs et de ses transformations, gouvernance des communs, modèles économiques numériques
 - SIC (Science de l’information et de la Communication) : matérialité des dispositifs, études des controverses et formes de mobilisation numérique, influence du design des dispositifs
 - Sciences cognitives : énaction, influence des technologies intellectuelles et du Soi, capitalisme cognitif, transmission et réappropriation des cultures numériques  
 
-### Méthodes
+### Méthodes numériques
 
-- Spécialisation dans les méthodes mixtes (quanti/qualitative) et les approches data sciences en SHS
+- Spécialisation dans les méthodes mixtes (quanti/qualitative) et les approches _data sciences_ en SHS (_Digital Humanities_)
 - _Grounded Theory_ / théorisation ancrée et traçabilité du processus de recherche qualitative
 - Maitrise de divers outils numériques dans une approche _open et data science_ : gestion de référence bibliographique avec Zotero, organisation et traitement de données avec le langage de programmation Python, travail collaboratif et suivi de versions sur des plateformes de type Gitalb/Github, utilisation de logiciels d'analyse de données qualitatives (Nvivo, Dedoose)
 
-### Enseignement :
+## Projets de recherche <a name="projets"></a>
 
+### Numérique et régime des savoirs
 
+Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant sur l'évolution des conceptions de "la Science" et de la "Démocratie"
 
-### Projets de recherche :
+  - Intitulé de la thèse :  Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015) Paris.https://zenodo.org/record/1491292
 
-- Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant sur l'_open science_.
+  - Mots- clefs : #open #numérique #civic_tech #enaction
 
-Intitulé de la thèse :  Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015) Paris.https://zenodo.org/record/1491292
+### Recherche sur les MOOC :
 
-- Recherche sur les MOOC :
+1- Développement de méthodes mixtes pour l'analyse des MOOC avec le projet #MOOCLive (Centre Virchow-Villermé) :
 
-- **Développement de méthodes mixtes pour l'analyse des MOOC **   
-Projet #MOOCLive (Centre Virchow-Villermé
-  ) : compréhension des parcours d’apprentissage par le biais de l’analyse des log de MOOC à l’aide de techniques de machine learning (*process-mining* couplées à des entretiens qualitatifs,
+  - Compréhension des parcours d’apprentissage par le biais de l’analyse des log de MOOC à l’aide de techniques de machine learning (*process-mining* couplées à des entretiens qualitatifs,
 
-- **Approche critique sur l'industrialisation/globalisation des contenus pédagogiques (MOOC) **
+2- Approche critique sur l'industrialisation/globalisation des contenus pédagogiques (MOOC)
 
-Recherche sur les rhétoriques de l'ouverture dans les MOOC - Enjeux de l'accès et de l'accessibilité des MOOC dans les pays d'Afrique francophone.
+  - Recherche sur les rhétoriques de l'ouverture dans les MOOC
+  - Enjeux de l'accès et de l'accessibilité des MOOC dans les pays d'Afrique francophone.
 
 Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Université Laval), Karl-William Sherlaw (CVV) et l'équipe d'ANEO (pour l'analyse des *logs*)
 
-- Pistes de recherche exploratoires :
+### Pistes de recherche post-doctorales
 
-Interaction _mind/body_ (théorie interoceptive) -
+- Interaction _mind/body_ (théorie interoceptive)
+- Bien-être en doctorat
+- Projet de recherche proposé au CRI pour une bourse : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
 
 ------
 
@@ -91,7 +101,7 @@ Interaction _mind/body_ (théorie interoceptive) -
 
 - **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
-- **Réseaux sociaux (scientifiques) et archives ** : [Linkedin](https://www.linkedin.com/in/celyagrusondaniel), Zenodo. Création de comptes sur HAL-SHS, Academia (inactif)..
+- **Réseaux sociaux (scientifiques) et archives ** : [LinkedIn](https://www.linkedin.com/in/celyagrusondaniel), Zenodo. Création de comptes sur HAL-SHS, Academia (inactif)..
 
 ## Communications (publications et conférences) <a name="publications"></a>
 
@@ -217,29 +227,47 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 - Juin 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
 
 
+#### English <a name="english"></a>
+
+## In a brief overview <a name="brief"></a>
+
+My research questions the place of knowledge in our modern societies and the role of technoscientific imaginaries in shaping them.
+
+  - They are rooted in an interdisciplinary approach (master's degree in cognitive and behavioural neuroscience, doctorate in SIC/STS) with a pragmatic ("by doing") and entrepreneurial (DRISS) perspective in order to experience the transformation of our ways of thinking and acting with and through digital technologies.
+
+## Research interests <a name="interests"></a>
 
 
-### English <a name="english"></a>
+### Digital sciences methodologies
 
-## Main research <a name="main"></a>
+  - Mixed methods approach (quanti/qualitative) and data sciences for Social Sciences and Humanities
+  - Grounded Theory and traceability of qualitative research inquiry
+  - Use of digital scholar tools for open science practices: reference management with Zotero, data science with Python, reproducibility practices with Jupyter Notebook, collaborative work and versioning with Gitalb/Github.
+  - Critical thinking and meta research about digital methods and open science practices  
 
-- **2014-now - PhD** The french regime of knowledges and its dynamics : open in sciences and digital technologies in debate. The case study of the French bill for a "Digital Republic"(2015)
+### Interdisciplinarity approaches
 
+  - STS (Science and Technologies Studies) : digital and technoscientific imaginaries, study of regime of knowledge and its evolution, commons and governance, knowledge economy and digital technologies, data shaping, research paradigms and interdisciplinarity
+  - SIC (Information and Communication Studies): controversies and digital mobilisations and activism, design of the platform and its impact.
+  - Cognitive sciences: enaction, contemplative studies and well-being
 
-==> Co-supervision by Florence Piron (Université laval/Québec) and Pascal Jollivet-Courtois/Yann Moulier-Boutang (Costech/UTC/France). Funding by Centre Virchow-Villermé.
+## Ongoing Projects <a name="projects"></a>
 
-- **2013-2017- Research on MOOC (Centre Virchow-Villermé)**
+### Follow up of my PhD : Digital Technologies and Science
 
-MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Openness
+My PhD research was about the evolution of the conception of "Science" today but also "Democracy" and Science/Society interactions.
+
+  - Thesis title : The french regime of knowledges and its dynamics : open in sciences and digital technologies in debate. The case study of the French bill for a "Digital Republic"(2015)
+
+  - Mots clefs : #open #digital_tech #enaction #civic_tech #data
+
+### Research on MOOC
+
+1- Mixed-methods approach to analyse MOOC users behaviors (qualitative research combined with machine learning approaches)
+
+2- The Rhetoric of Openness in MOOC
 
 ==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV)
-
--------
-
-- **Research Fields :** Information and communication studies, Science, Technologies and Society Studies,
-
-- **Methods :** Grounded Theory and experimentation with digital methods, use of qualitative data analysis software (Nvivo-Dedoose), first steps with Python and R for textual analysis and network analysis
-
 
 ## Open Research <a name="open"></a>
 
@@ -252,10 +280,7 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 
 	- Research and favorites : [Facebook perso](https://www.facebook.com/c.grusondaniel) and [Twitter](www.twitter.com/celyagd)
 
-
 - **Code :** first steps on [Github](https://github.com/Celyagd)
-
-- **Events summary:** I use [storify](https://storify.com/hackyourphd) to aggregate tweets and take some notes during Open Science conferences, presentations.
 
 - **Blog posts:** a few on [this website](http://celyagd.github.io/blog/)
 
