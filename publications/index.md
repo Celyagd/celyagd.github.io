@@ -1,3 +1,14 @@
+---
+layout: page
+title: Publications
+tags: [conferences, publications, research]
+modified:
+comments: true
+image:
+  feature: Papas_Desk.jpg
+  credit: Guillaume Dumas
+
+---
 
 ## Communications (publications and conferences)
 
