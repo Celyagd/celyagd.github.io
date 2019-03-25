@@ -34,6 +34,7 @@ image:
   - Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages. Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
 
 CV Recherche consultable en ligne [ici](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
+
 ------
 
 ## Spécialités de recherche <a name="specialités"></a>

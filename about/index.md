@@ -57,4 +57,5 @@ Informations about :
 - My teaching coordination activities (MOOC, Master, etc.)
  ==> [here](http://celyagd.github.io/moocscinum/)
 - A few blog articles written first for different websites (MyScienceWork, HackYourPhD, Centre Virchow-Villermé) ==> [there](http://celyagd.github.io/blog/)
+
 ----
