@@ -35,9 +35,7 @@ image:
 
 - Docteure en sciences sociales (STS/SIC), diplômée du CRI (Centre de Recherches Interdisciplinaires) :  
 
-  - Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages.
-
-  - Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale (DRISS) afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
+  - Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages. Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale (DRISS) afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
 
 ## Spécialités de recherche <a name="specialités"></a>
 
@@ -61,7 +59,7 @@ Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant su
 
   - Intitulé de la thèse :  Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015) Paris.https://zenodo.org/record/1491292
 
-  - Mots- clefs : #open #numérique #civic_tech #enaction
+  - Mots-clefs : #open #numérique #civic_tech #enaction
 
 ### Recherche sur les MOOC :
 
@@ -87,21 +85,79 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 ## Au quotidien <a name="quotidien"></a>
 
 
-- **Bibliographie :**
-[Groupe HackYourPhD](https://www.zotero.org/groups/hackyourphd) sur Zotero
+- Bibliographie : [Groupe HackYourPhD](https://www.zotero.org/groups/hackyourphd) sur Zotero
 
-- **Citations, extraits choisis :** [Pensées Yogeek](http://yogeekons.tumblr.com/), tumblr où je partage quelques citations au fil de mes lectures.
+- Citations, extraits choisis : [Pensées Yogeek](http://yogeekons.tumblr.com/), Tumblr où je partage quelques citations au fil de mes lectures.
 
-- **Veille :**
+- Veille :
 	- Open Science avec HackYourPhD : [Site](hackyourphd.org), [Groupe Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](www.twitter.com/hackyourphd)
 
 	- Recherche et coup de coeur : [Twitter](www.twitter.com/celyagd)
 
-- **Code :** [Github](https://github.com/Celyagd) et cours d'introduction à la programmation avec le projet DRISS (Data-Driven Research in Sciences)
+- Code : [Github](https://github.com/Celyagd) et cours d'introduction à la programmation avec le projet DRISS (Data-Driven Research in Sciences)
 
-- **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
+- Blog de ce site : à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
-- **Réseaux sociaux (scientifiques) et archives ** : [LinkedIn](https://www.linkedin.com/in/celyagrusondaniel), Zenodo. Création de comptes sur HAL-SHS, Academia (inactif)..
+- Réseaux sociaux (scientifiques) et archives  : [LinkedIn](https://www.linkedin.com/in/celyagrusondaniel), [Zenodo](https://zenodo.org/). Création de comptes sur HAL-SHS, Academia (inactif)..
+
+
+#### English <a name="english"></a>
+
+## In a brief overview <a name="brief"></a>
+
+My research questions the place of knowledge in our modern societies and the role of technoscientific imaginaries in shaping them.
+
+  - They are rooted in an interdisciplinary approach (master's degree in cognitive and behavioural neuroscience, doctorate in SIC/STS) with a pragmatic ("by doing") and entrepreneurial (DRISS) perspective in order to experience the transformation of our ways of thinking and acting with and through digital technologies.
+
+## Research interests <a name="interests"></a>
+
+### Digital sciences methodologies
+
+  - Mixed methods approach (quanti/qualitative) and data sciences for Social Sciences and Humanities
+  - Grounded Theory and traceability of qualitative research inquiry
+  - Use of digital scholar tools for open science practices: reference management with Zotero, data science with Python, reproducibility practices with Jupyter Notebook, collaborative work and versioning with Gitalb/Github.
+  - Critical thinking and meta research about digital methods and open science practices  
+
+### Interdisciplinarity approaches
+
+  - STS (Science and Technologies Studies) : digital and technoscientific imaginaries, study of regime of knowledge and its evolution, commons and governance, knowledge economy and digital technologies, data shaping, research paradigms and interdisciplinarity
+  - SIC (Information and Communication Studies): controversies and digital mobilisations and activism, design of the platform and its impact.
+  - Cognitive sciences: enaction, contemplative studies and well-being
+
+## Ongoing Projects <a name="projects"></a>
+
+### Follow up of my PhD : Digital Technologies and Science
+
+My PhD research was about the evolution of the conception of "Science" today but also "Democracy" and Science/Society interactions.
+
+  - Thesis title : The french regime of knowledges and its dynamics : open in sciences and digital technologies in debate. The case study of the French bill for a "Digital Republic"(2015) : https://zenodo.org/record/1491292#.XJlMsxNKjOQ
+
+  - Mots clefs : #open #digital_tech #enaction #civic_tech #data
+
+### Research on MOOC
+
+1- Mixed-methods approach to analyse MOOC users behaviors (qualitative research combined with machine learning approaches)
+
+2- The Rhetoric of Openness in MOOC
+
+==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV)
+
+## Open Research <a name="open"></a>
+
+- Bibliography : [HackYourPhD Group](https://www.zotero.org/groups/hackyourphd) on Zotero for the bibliography
+
+- Quotes : Pensées Yogeek](http://yogeekons.tumblr.com/) inspiring quotes from articles
+
+- Open Science curation :
+	- HackYourPhD : [Website](hackyourphd.org) and [Facebook Group](https://www.facebook.com/groups/499463776745202/) and [Twitter](www.twitter.com/hackyourphd)
+
+	- Research and favorites : [Facebook perso](https://www.facebook.com/c.grusondaniel) and [Twitter](www.twitter.com/celyagd)
+
+- Code : first steps on [Github](https://github.com/Celyagd)
+
+- Blog posts : a few on [this website](http://celyagd.github.io/blog/)
+
+
 
 ## Communications (publications et conférences) <a name="publications"></a>
 
@@ -130,8 +186,6 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 #### Coordination revues
 
 - Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). https://journals.openedition.org/reset/1078
-
-
 
 #### Participation à des ouvrages
 
@@ -225,149 +279,3 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 - April 2014 - **Geneva Health Forum - Geneva - Mooc : the stake of Open Education Ressources for an high Social Impact.** in the session [MOOCs as Tools Providing Wide Access to High Quality Education](http://ghf.g2hp.net/2014/04/08/ghf2014-moocs-as-tools-providing-wide-access-to-high-quality-education/#.VKlHEKaRRrk)
 
 - Juin 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré
-
-
-#### English <a name="english"></a>
-
-## In a brief overview <a name="brief"></a>
-
-My research questions the place of knowledge in our modern societies and the role of technoscientific imaginaries in shaping them.
-
-  - They are rooted in an interdisciplinary approach (master's degree in cognitive and behavioural neuroscience, doctorate in SIC/STS) with a pragmatic ("by doing") and entrepreneurial (DRISS) perspective in order to experience the transformation of our ways of thinking and acting with and through digital technologies.
-
-## Research interests <a name="interests"></a>
-
-
-### Digital sciences methodologies
-
-  - Mixed methods approach (quanti/qualitative) and data sciences for Social Sciences and Humanities
-  - Grounded Theory and traceability of qualitative research inquiry
-  - Use of digital scholar tools for open science practices: reference management with Zotero, data science with Python, reproducibility practices with Jupyter Notebook, collaborative work and versioning with Gitalb/Github.
-  - Critical thinking and meta research about digital methods and open science practices  
-
-### Interdisciplinarity approaches
-
-  - STS (Science and Technologies Studies) : digital and technoscientific imaginaries, study of regime of knowledge and its evolution, commons and governance, knowledge economy and digital technologies, data shaping, research paradigms and interdisciplinarity
-  - SIC (Information and Communication Studies): controversies and digital mobilisations and activism, design of the platform and its impact.
-  - Cognitive sciences: enaction, contemplative studies and well-being
-
-## Ongoing Projects <a name="projects"></a>
-
-### Follow up of my PhD : Digital Technologies and Science
-
-My PhD research was about the evolution of the conception of "Science" today but also "Democracy" and Science/Society interactions.
-
-  - Thesis title : The french regime of knowledges and its dynamics : open in sciences and digital technologies in debate. The case study of the French bill for a "Digital Republic"(2015)
-
-  - Mots clefs : #open #digital_tech #enaction #civic_tech #data
-
-### Research on MOOC
-
-1- Mixed-methods approach to analyse MOOC users behaviors (qualitative research combined with machine learning approaches)
-
-2- The Rhetoric of Openness in MOOC
-
-==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV)
-
-## Open Research <a name="open"></a>
-
-- **Bibliography :** [HackYourPhD Group](https://www.zotero.org/groups/hackyourphd) on Zotero for the bibliography
-
-- **Quotes :** Pensées Yogeek](http://yogeekons.tumblr.com/) inspiring quotes from articles
-
-- **Open Science curation :**
-	- HackYourPhD : [Website](hackyourphd.org) and [Facebook Group](https://www.facebook.com/groups/499463776745202/) and [Twitter](www.twitter.com/hackyourphd)
-
-	- Research and favorites : [Facebook perso](https://www.facebook.com/c.grusondaniel) and [Twitter](www.twitter.com/celyagd)
-
-- **Code :** first steps on [Github](https://github.com/Celyagd)
-
-- **Blog posts:** a few on [this website](http://celyagd.github.io/blog/)
-
-
-## Publications and Conférences <a name="publications"></a>
-
-### Publications
-
-#### Actes de colloque
-
-- Gruson-Daniel, C., Aïm, O., Depoux, A. et Sherlaw, K.-W. (2016). Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture. Dans Pré-actes du colloque TiceMed10 [en ligne](http://www.ticemed.eu/ticemed10-marseille-2016/)
-
-- Aïm O., Depoux A. & Gruson-Daniel C.(2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
-
-### Conferences
-
-#### 2017
-
-
-- May 2017 - Journée d'étude "chiffres privés, chiffres publics : calculs, comptabilités et statistiques XVII-XXIè siècle"- Paris- **L'ouverture des données de santé : une entrée par les acteurs** avec François Briatte ==> [diapos](https://gitpitch.com/celyagd/ODS)
-
-- January 2017 - **Journée d'étude "Données personneelles en milieu universitaire : quelles questions se poser"- Paris-**Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.
-
-#### 2016
-
-- August 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) with Constance de Quatrebarbes ==> [slides](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
-
-
-- July 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gueorgui ==> [slides](https://zenodo.org/record/59661#.V6QlD47tnkU)
-
-- July 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
-
-
-- May 2016 - **ACFAS 2016 - Montréal - Enjeux méthodologiques de la recherche sur les usages d’ Internet et des technologies numériques.** [Retour d’expérience sur le Hackathon Recherche République Numérique : méthodes numériques développées autour des données (data) de la consultation sur le projet de loi numérique en France](http://www.acfas.ca/evenements/congres/programme/84/400/456/c), présentation proposée avec Constance de Quatrebarbes
-
-- March 2016 - **Journée doctorale COSTECH - Compiègne - Présentation projet de thèse.** (discutant Jérôme Valluy)
-
-
-- January 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [slides](https://zenodo.org/record/45236#.VrBeOBhAvzM)
-
-#### 2014-2015
-
-- August 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
-
-- October 2014 - **Transformative Learning Conference XI - New York City - Cradles for Imagination and Initiative" one of the four contributions produced by ten researchers- The New Commons (in a contributive economy)** by Célya Gruson-Daniel & Thanh Nghiem
-
-- June 2014 - **Conférence JOCAIR - Paris - À la conquête d’un contrat d’enseignement, de quelques enjeux du MOOC dans la société de la connaissance**  avec Olivier Aim, Anneliese Depoux et Célya Gruson-Daniel, ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
-
-- May 2013 - **ACFAS 2013 - Québec - Hack your Phd : une communauté forte regroupée autour de la science ouverte** session : [La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
-
-
-### Books contributions
-
-- Novembre 2014 -  Chapitre "[OpenScience ou la Science Ouverte](http://www.futura-sciences.com/magazines/high-tech/infos/dossiers/d/internet-big-data-boom-donnees-numeriques-1936/page/5/)" dans [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données](http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/)" Editions FYP : Editeur de la prospective et des questions de société
-
-- Octobre 2014 - Chapitre Open Science dans [OpenModels : Les business Models de l'économie ouverte](http://www.openmodels.fr/) dirigé par Louis-David Benyayer ==>  texte disponible sur le site [Without Model](http://withoutmodel.com/) et [HackYourPhD](hackyourphd.org))
-
-## Presentations (invitations) <a name="invitations"></a>
-
-*Presentations for workshops, trainings, etc mainly on the general topic : Reseach, Teaching and digital technologies*
-
-####2017
-
-- March 2017 - Avignon - **Café Sciences citoyennes - Open Access** organisé par l'INRA Avignon en partenariat avec l'association Sciences Citoyennes
-
-####2016
-
-- November 2016 - Montpellier - **Séminaire Doctoral : L'*Open Access* et moi** organisé par les doctorant(e)s du CIRAD et de l'INRA (UMR Innovation et MOISA)
-
-- July 2016 - **Nuit de la sociologie, AISLF 2016 - Montréal - Recherche, échange, partage : instants capturés du quotidien numérique d’une doctorante** ==> diapos prochainement en ligne
-
-- June 2016 - **Conférence-Débat : LabCMO - Québec/ Montréal - La "science ouverte juste" comme outils d'empowerment et de justice cognitive en Haïti et en Afrique francophone : présentation du projet SOHA** avec Florence Piron, Thomas Hervé Mboa Nkoudou, et Hamissou Rhissa Achaffert ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/161-conference-debat-la-science-ouverte-juste-comme-outil-d-empowerment-et-de-justice-cognitive-en-haiti-et-en-afrique-francophone-presentation-du-projet-soha)
-
-- February 2016 - **FORMATIC SANTÉ 2016 - Paris - L'exemple du MOOC « Numérique et Recherche en Santé.** ==> [vidéo](https://www.canal-u.tv/video/canal_u_medecine/formaticsante_2016_l_exemple_du_mooc_numerique_et_recherche_en_sante.20738)
-
-####2014-2015
-
-- June 2015 - **CIRAD - Montpellier - D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud.** ==> [Videos en trois parties](http://coop-ist.cirad.fr/actualites/le-defi-d-une-science-ouverte-engagee-dans-les-pays-du-sud/%28language%29/fre-FR)
-
-- May 2015 - **Ecole IST de l'INRA - Paris - Open Science/Science ouverte : comprendre la recherche en train de se faire.  Evolutions de la recherche et impacts pour l'IST.**
-
-- April 2015 - **Conférence-Débat : LabCMO - Québec/ Montréal - Libres, ouvertes, open : que signifient les adjectifs qualifiant les pratiques de recherche contemporaines.** ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/146-conference-debat-libres-ouvertes-open-que-signifient-les-adjectifs-qualifiant-les-nouvelles-pratiques-de-recherche-contemporaines) et diapos sur [Zenodo](https://zenodo.org/record/16980#.VX2bcOdMZcY)
-
-- March 2015 - **Webséminaire Master Recherche Infocomm *Industries culturelles et environnement numérique.* - (à distance) - Sources et ressources pour une science ouverte** ==> [conf en ligne](http://master-recherche-infocom.u-paris10.fr/webinaire/seance-3-sources-et-ressources-open-science/)  
-
-- November 2014 - **Séminaire "Ecritures numériques et éditorialisation" - IRI - Paris - Séance des blogues scientifiques aux revues savantes.** avec Joëlle Le Marec et Benoit Mélançon ==> [résumé séance](http://seminaire.sens-public.org/spip.php?article44)
-
-- April 2014 - **Geneva Health Forum - Geneva - Mooc : the stake of Open Education Ressources for an high Social Impact.** in the session [MOOCs as Tools Providing Wide Access to High Quality Education](http://ghf.g2hp.net/2014/04/08/ghf2014-moocs-as-tools-providing-wide-access-to-high-quality-education/#.VKlHEKaRRrk)
-
-- June 2012 - **Libre échange(CNAM)- Science Société et Web2.0** organisé par Rémi Barré

@@ -29,7 +29,7 @@ owner:
   name: Célya Gruson-Daniel
   avatar: photoCGD.jpg
   bio: "DRISS and HackYourPhD co-founder, Researcher, #Open_Science #Digital_Sciences,"
-  email: 
+  email:
   disqus-shortname:
   twitter: celyagd
   facebook: c.grusondaniel
@@ -51,7 +51,7 @@ owner:
   steam:
   dribbble:
   youtube:
-  soundcloud: hackyourphd
+  soundcloud: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
