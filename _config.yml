@@ -28,29 +28,29 @@ kramdown:
 owner:
   name: Célya Gruson-Daniel
   avatar: photoCGD.jpg
-  bio: "Research Engineer, PhD Student : Open science, Open Education, MOOC, HackYourPhD and Yoga."
+  bio: "DRISS and HackYourPhD co-founder, Researcher, #Open_Science #Digital_Sciences,"
   email: 
-  disqus-shortname: 
+  disqus-shortname:
   twitter: celyagd
   facebook: c.grusondaniel
   google:
-    plus: 
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: celyagd
-  stackoverflow: 
+  stackoverflow:
   linkedin: celyagrusondaniel
-  instagram: 
-  lastfm: 
+  instagram:
+  lastfm:
   tumblr: yogeekons
-  pinterest: 
-  foursquare: 
-  steam: 
-  dribbble: 
-  youtube: 
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  youtube:
   soundcloud: hackyourphd
 
 include: [".htaccess"]

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos // About
+title: About // À propos
 tags: [about, open science, research]
 modified:
 comments: true
@@ -16,16 +16,15 @@ image:
 
 ### Français <a name="français"></a>
 
-
 ## Qui suis-je ?
 
-- Chargée de recherche au [Centre Virchow-Villermé](http://www.virchowvillerme.eu) du projet ANR #MOOCLive - compréhension fine des profils des utilisateurs de MOOC par une approche mixte (sciences des données / sociologie).
-- Docteure en sciences sociales  [Centre de Recherches Interdisciplinaires](http://cri-paris.org/) (école doctorale) en sciences de l'information et de la communication (SIC). Je fais ma thèse en co-encadrement entre la France et le Québec ([Costech](http://www.utc.fr/costech/)/UTC) et le département de communication/[Université Laval](http://www2.ulaval.ca/en/home.html)).
-- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) un groupe de réflexion sur la science ouverte.
-- Enseignante sur les thématiques Numérique & Recherche dans divers établissements et écoles (CRI, SciencePo, UPEM).
-- Professeur de Yoga 
+- Docteure en sciences sociales du [Centre de Recherches Interdisciplinaires](http://cri-paris.org/) (école doctorale) au sein du laboratoire [Costech](http://www.utc.fr/costech/)/UTC/France) et du département de communication/[Université Laval](http://www2.ulaval.ca/en/home.html)/Québec)sur la thématique de l'_open science_. Spécialités : Sciences, technologies et sociétés (STS), Sciences de l'information et de la communication (SIC), Sciences cognitives, Méthodes numériques
+- Co-fondatrice de [DRISS : Digital Research in Science & Society](https://driss.org/)
+- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) un groupe de réflexion sur l'_open science_ (Association Loi 1901).
+- Enseignante sur les thématiques numérique & recherche dans divers établissements de l'enseignement supérieur (CRI, SciencePo, UPEM).
+- Professeur de Yoga
 
-Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur Linkedin [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
+Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur [Linkedin](https://www.linkedin.com/in/celyagrusondaniel) (en) et sur [Viadeo](https://www.viadeo.com/p/0022heiookxtgsa) (fr).
 
 
 ## Que trouvez-vous sur ce site ?
@@ -41,17 +40,14 @@ Vous y trouverez :
 
 ### English <a name="english"></a>
 
-
-
 ## Who am I ?
 
-- Research Project Manager at the [Centre Virchow-Villermé](http://www.virchowvillerme.eu) for #MOOCLive (Mixed-method approach applied to the study of MOOC users).
-- PhD student at the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) (doctoral school). My co-supervisors are Yann Moulier-Boutang, Pascal Jollivet-Courtois (UTC [Costech Lab](http://www.utc.fr/costech/)) and Florence Piron ([Université Laval](http://www2.ulaval.ca/en/home.html)).
+- PhD in social sciences from the [Centre de Recherche Interdisciplinaire](http://cri-paris.org/) with the [Costech Lab](http://www.utc.fr/costech/)/UTC/France) and the Communication Department/[Université Laval](http://www2.ulaval.ca/en/home.html)/Québec). Fields : Science & technologies studies (STS), Communication studies (SIC), Cognitive sciences, Digital methods.  
 - Co-founder of an Open Science community [HackYourPhD](http://www.hackyourphd.org).
-- Guest lecturer (digital technologies and research) for graduate students.
-- Yoga Teacher (one course per week for the moment).
+- Guest lecturer (digital technologies and research) in higher education
+- Yoga Teacher
 
-To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
+To know more about my background : my CV is on [LinkedIn](https://www.linkedin.com/in/celyagrusondaniel)(en) and [Viadeo](https://www.viadeo.com/p/0022heiookxtgsa) (fr).
 
 ## What would you find on this website ?
 
