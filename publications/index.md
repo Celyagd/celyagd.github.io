@@ -1,15 +1,17 @@
 
-## Communications (publications et conférences) <a name="publications"></a>
+## Communications (publications and conferences)
+
+Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Whqj10mYDnLEDmD2GmQReHcHJfi4LZ4/edit?usp=sharing)
 
 
 ### Publications
 
-#### Thèse
+#### PhD
 
 Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris.https://zenodo.org/record/1491292
 
 
-#### Revues et actes de colloque
+#### Journal and conferences papers
 
 - Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. eMOOCs19
 
@@ -23,27 +25,26 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
-#### Coordination revues
+#### Journal Coordination
 
 - Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). https://journals.openedition.org/reset/1078
 
-#### Participation à des ouvrages
+#### Books contribution
 
 - Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
 
 - Gruson-Daniel Célya (2014). « Open Science : cartographie et entretiens », in Benyayer Louis-David (dir.), [OpenModels : Les business Models de l'économie ouverte](http://openmodels.fr/fr/pages/181/). Without Model. p.181-201
 
-### Organisation d'évènements scientifiques
+### Scientific events organization
 
 - Juillet 2018 – ESOF 2018 – Toulouse - “Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture” avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
 
 - Décembre 2016 – Hackathon Recherche République Numérique #HackRepNum – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
 
 
-### Conférences
+### Conferences
 
 #### 2017
-
 
 - Septembre 2017 - Colloque « Sociologie & Sociétés : retour critique sur les sociologies numériques » - Lausanne - **Du hack et des sprints en sociologie(s) : des tensions aux intermédiations en contexte numérique** avec Constance de Quatrebarbes ==> [diapos](https://gitpitch.com/celyagd/S2_hack)
 
@@ -83,10 +84,10 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 - Mai 2013 - **ACFAS 2013 - Québec - Hack your Phd : une communauté forte regroupée autour de la science ouverte.** session : [La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
 
 
-## Présentations (invitations) <a name="invitations"></a>
+## Presentations (invitations)
 
 
-*Présentations pour des formations, séminaires, table-rondes, etc. sur la thématique générale de la recherche et de l'enseignement avec le numérique (Open Science, MOOC, etc)*
+*Presentations for trainings, workshops, roundtables, etc. about research/higher education and digital technologies (Open Science, MOOC, etc)*
 
 #### 2017
 

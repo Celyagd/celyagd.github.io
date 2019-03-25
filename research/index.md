@@ -32,6 +32,7 @@ image:
 
   - Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages. Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
 
+CV Recherche consultable en ligne [ici](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
 ------
 
 ## Spécialités de recherche <a name="specialités"></a>
@@ -109,6 +110,7 @@ My research questions the place of knowledge in our modern societies and the rol
 
   - They are rooted in an interdisciplinary approach (master's degree in cognitive and behavioural neuroscience, doctorate in SIC/STS) with a pragmatic ("by doing") and entrepreneurial (DRISS) perspective in order to experience the transformation of our ways of thinking and acting with and through digital technologies.
 
+Research resume available [here](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing) )
 -----
 
 ## Research interests <a name="interests"></a>
