@@ -18,15 +18,39 @@ image:
 ### Français <a name="français"></a>
 
 
-## Qui suis-je ?
+## Ce qui me définit aujourd'hui ?
 
-- Chargée de recherche au [Centre Virchow-Villermé](http://www.virchowvillerme.eu) du projet ANR #MOOCLive - compréhension fine des profils des utilisateurs de MOOC par une approche mixte (sciences des données / sociologie).
-- Doctorante au [Centre de Recherches Interdisciplinaires](http://cri-paris.org/) (école doctorale) en sciences de l'information et de la communication (SIC). Je fais ma thèse en co-encadrement entre la France et le Québec ([Costech](http://www.utc.fr/costech/)/UTC) et le département de communication/[Université Laval](http://www2.ulaval.ca/en/home.html)).
-- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) un groupe de réflexion sur la science ouverte.
-- Enseignante sur les thématiques Numérique & Recherche dans divers établissements et écoles (CRI, SciencePo, UPEM).
-- Professeur de Yoga - un cours par semaine pour l'instant : mercredi 18h30-20h à l'Hôtel-Dieu.
+### Un parcours interdisciplinaire à la croisée entre sciences sociales et sciences cognitives
 
-Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur Linkedin [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
+- Diplômée d'un doctorat en sciences sociales (sciences de l'information et de la communication/_Science & Technologies Studies_) réalisé au sein du laboratoire [COSTECH](http://www.utc.fr/costech/)/UTCen France et du département de communication à l'[Université Laval](http://www2.ulaval.ca/en/home.html). École doctorale du [CRI](https://cri-paris.org).
+
+- Diplômée de l'École Normale Supérieure et d'un Master en Neurosciences cognitives et comportementales (UPMC)
+
+### Un engagement dans des projets associatifs et entreprenariaux pour des sociétés numériques durables
+
+- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org : groupe de réflexion sur la science ouverte/ _open science_ et la prise en considération des connaissances comme communs.
+
+- Co-fondatrice de [DRISS](https://driss.org/) _Digital Research in Science & Society_ avec Constance de Quatrebarbes.
+
+### Une approche intégrative de la production de savoirs (perspective mind/body)
+
+- Professeure de Yoga Sivananda (cours intermédiaire, doux et pré-natal) au sein d'entreprises et des milieux professionnels de la recherche et de l'enseignement.
+
+- Développement de recherche action participative à la croisée entre sciences cognitives et sociales/ yoga et méditation.
+
+
+## Les missions que je réalise :
+
+- Recherche et développement sur la thématique : science, société & numérique
+  - approche à la croisée entre SIC (sciences de l'information et de la communication) et STS (_science & technologies studies_)
+  - méthodes de recherche mixte : démarche de recherche qualitative (théorisation ancrée) soutenue par des méthodologies issues des sciences des données (_data science_)
+
+- Enseignement et gestion de projets sur les thématiques numérique & recherche dans divers établissements et écoles (CRI, SciencePo, UPEM, Centre Virchow-Villermé).
+
+- Accompagnement individuel et collectif de doctorant.e.s et de chercheur.e.s  pour développer un milieu de la recherche solidaire et soutenant des sociétés numériques durables.  
+
+
+Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur LinkedIn [LinkedIn](https://www.linkedin.com/in/celyagrusondaniel)
 
 
 ## Que trouvez-vous sur ce site ?
@@ -34,7 +58,7 @@ Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur L
 Vous y trouverez :
 
 - Mes activités de recherche (publications, présentations et projets en cours) ==> [ici](http://celyagd.github.io/research/)
-- Mes activités en lien avec l'*Open Science* et les méthodes numériques, principalement avec HackYourPhD (évènements, présentations, etc.) ==> [là](http://celyagd.github.io/openscience/)
+- Mes activités associées à l'*open science* et aux formations aux méthodes numériques, principalement avec HackYourPhD et DRISS (évènements, présentations, etc.) ==> [là](http://celyagd.github.io/openscience/)
 - Mes activités d'enseignements (MOOC, Master, etc.) [ici](http://celyagd.github.io/moocscinum/)
 - Quelques articles de blog écrits pour différents sites (MyScienWork, HackYourPhD, Centre Virchow-Villermé) ==> par [là](http://celyagd.github.io/blog/)
 

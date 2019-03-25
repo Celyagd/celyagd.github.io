@@ -27,34 +27,52 @@ image:
 
 ### Français <a name="français"></a>
 
-## Activités principales <a name="activités"></a>
+### En quelques mots :
 
-- **Depuis Novembre 2014  : Doctorat en sciences de l'information et de la communication** - École doctorale du Centre de Recherches interdisciplinaires (Université Paris Descartes)  **Fin prévue en novembre 2018**
+- Docteure en sciences sociales (STS/SIC), diplômée du CRI (Centre de Recherches Interdisciplinaires).
 
-Titre :
-Numérique et régime français des savoirs en~action : l'*open* en sciences. Le cas de la consultation « République numérique » (2015).
+- Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages.
+
+- Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale (DRISS) afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
+
+### Approches (inter)disciplinaires :
+- STS (Sciences, Technologies et Société) : imaginaires numériques et technoscientifiques, étude du régime des savoirs et de ses transformations, gouvernance des communs, modèles économiques numériques
+- SIC (Science de l’information et de la Communication) : matérialité des dispositifs, études des controverses et formes de mobilisation numérique, influence du design des dispositifs
+- Sciences cognitives : énaction, influence des technologies intellectuelles et du Soi, capitalisme cognitif, transmission et réappropriation des cultures numériques  
+
+### Méthodes
+
+- Spécialisation dans les méthodes mixtes (quanti/qualitative) et les approches data sciences en SHS
+- _Grounded Theory_ / théorisation ancrée et traçabilité du processus de recherche qualitative
+- Maitrise de divers outils numériques dans une approche _open et data science_ : gestion de référence bibliographique avec Zotero, organisation et traitement de données avec le langage de programmation Python, travail collaboratif et suivi de versions sur des plateformes de type Gitalb/Github, utilisation de logiciels d'analyse de données qualitatives (Nvivo, Dedoose)
+
+### Enseignement :
 
 
-==> Dirigée par Pascal Jollivet-Courtois (UTC/Costech), Yann Moulier-Boutang (UTC/Costech) et Florence Piron (Université laval)
 
-- **2013-2017 : Recherche sur les MOOC (Centre Virchow-Villermé)**
+### Projets de recherche :
 
-Le MOOC comme terrain de recherche numérique :
+- Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant sur l'_open science_.
 
-- **Développement de méthodes mixtes pour l'analyse des MOOC** :  
-Projet #MOOCLive couplé au projet DisCOVER : approche quali-quanti) ==> Recherche sur les profils des participants (avec des techniques de *process-mining* couplées à des entretiens qualitatifs sur les usages des MOOC par les participants), enjeux de l'accès et de l'accessibilité des MOOC dans les pays d'Afrique francophone.
+Intitulé de la thèse :  Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015) Paris.https://zenodo.org/record/1491292
 
+- Recherche sur les MOOC :
 
-- **Approche critique sur l'industrialisation des contenus pédagogiques** avec les MOOC. Recherche sur les rhétoriques de l'ouverture dans les MOOC
+- **Développement de méthodes mixtes pour l'analyse des MOOC **   
+Projet #MOOCLive (Centre Virchow-Villermé
+  ) : compréhension des parcours d’apprentissage par le biais de l’analyse des log de MOOC à l’aide de techniques de machine learning (*process-mining* couplées à des entretiens qualitatifs,
+
+- **Approche critique sur l'industrialisation/globalisation des contenus pédagogiques (MOOC) **
+
+Recherche sur les rhétoriques de l'ouverture dans les MOOC - Enjeux de l'accès et de l'accessibilité des MOOC dans les pays d'Afrique francophone.
 
 Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Université Laval), Karl-William Sherlaw (CVV) et l'équipe d'ANEO (pour l'analyse des *logs*)
 
+- Pistes de recherche exploratoires :
+
+Interaction _mind/body_ (théorie interoceptive) -
+
 ------
-
-- **Champs disciplinaires :** sciences de l'information et de la communication (SIC) - Sciences, Technologies & Société (STS)
-
-- **Méthodes :** Théorisation ancrée, expérimentations méthodes de recherche numériques (*digital methods*), utilisation logiciels d'analyse de données qualitatives (Nvivo, Dedoose), premier pas Python et R pour analyse textuelle et analyse de réseaux.
-
 
 ## Au quotidien <a name="quotidien"></a>
 
@@ -71,8 +89,6 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 - **Code :** [Github](https://github.com/Celyagd) et cours d'introduction à la programmation avec le projet DRISS (Data-Driven Research in Sciences)
 
-- **Carnets de bord événements :** j'utilisais [storify](https://storify.com/hackyourphd) pour agréger des tweets et prendre quelques notes durant des évènements (site fermé depuis 2017)
-
 - **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
 - **Réseaux sociaux (scientifiques) et archives ** : [Linkedin](https://www.linkedin.com/in/celyagrusondaniel), Zenodo. Création de comptes sur HAL-SHS, Academia (inactif)..
@@ -82,22 +98,29 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 ### Publications
 
+#### Thèse
+
+Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris.https://zenodo.org/record/1491292
+
+
 #### Revues et actes de colloque
 
-- Gruson-Daniel Célya & De Quatrebarbes Constance (à paraitre 2018). « Les préparatifs d’un hackathon recherche : au coeur de la fabrique des données », Sociologie et sociétés.
+- Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. eMOOCs19
 
-- Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( à paraître 2018). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (37). Pré-actes en ligne : [http://www.ticemed.eu/ticemed10-marseille-2016/](http://www.ticemed.eu/ticemed10-marseille-2016/)
+- Gruson-Daniel Célya, Roméo Tessy Djossè & Sherlaw Karl-William (à paraître 2019). « L’usage des MOOC en Afrique francophone : une vraie gymnastique numérique », Afrique contemporaine.
 
-- Gruson-Daniel Célya, Roméo Tessy Djossè & Sherlaw Karl-William (à paraître 2018). « L’usage des MOOC en Afrique francophone : une vraie gymnastique numérique », Afrique contemporaine.
+- Gruson-Daniel Célya & De Quatrebarbes Constance (2018). « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. https://zenodo.org/record/2538772#.XE1z9M9KiAx
 
-- Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11). En ligne : [http://rfsic.revues.org/3214](http://rfsic.revues.org/3214)
+- Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11).http://rfsic.revues.org/3214
 
+- Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( 2016). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (37). Pré-actes en ligne : http://www.ticemed.eu/ticemed10-marseille-2016/
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
 #### Coordination revues
 
-- Coordination du numéro « Formes et mouvements politiques à l’ère numérique » » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). AAC en ligne : [https://reset.revues.org/860](https://reset.revues.org/860)
+- Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). https://journals.openedition.org/reset/1078
+
 
 
 #### Participation à des ouvrages
@@ -105,6 +128,12 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 - Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
 
 - Gruson-Daniel Célya (2014). « Open Science : cartographie et entretiens », in Benyayer Louis-David (dir.), [OpenModels : Les business Models de l'économie ouverte](http://openmodels.fr/fr/pages/181/). Without Model. p.181-201
+
+### Organisation d'évènements scientifiques
+
+- Juillet 2018 – ESOF 2018 – Toulouse - “Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture” avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
+
+- Décembre 2016 – Hackathon Recherche République Numérique #HackRepNum – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
 
 
 ### Conférences
@@ -245,7 +274,6 @@ MOOC as a new field for virtual ethnography and digital methods. Rhetoric of Ope
 
 #### 2017
 
-zzzzzzzz - End of my PhD (hibernation) - zzzzzzzz
 
 - May 2017 - Journée d'étude "chiffres privés, chiffres publics : calculs, comptabilités et statistiques XVII-XXIè siècle"- Paris- **L'ouverture des données de santé : une entrée par les acteurs** avec François Briatte ==> [diapos](https://gitpitch.com/celyagd/ODS)
 
