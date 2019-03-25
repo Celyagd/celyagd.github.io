@@ -6,11 +6,11 @@
 - title: Research // Recherche
   url: /research/
 
-- title: Enseignement // Teaching
-  url: /teaching/
-
 - title: Publications
   url: /publications/
+
+- title: Enseignement // Teaching
+  url: /teaching/
 
 - title: HackYourPhD
   url: /hackyourphd/

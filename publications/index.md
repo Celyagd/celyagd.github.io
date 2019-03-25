@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Communications (publications and conferences)
 tags: [conferences, publications, research]
 modified:
 comments: true
@@ -10,19 +10,18 @@ image:
 
 ---
 
-## Communications (publications and conferences)
 
 Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Whqj10mYDnLEDmD2GmQReHcHJfi4LZ4/edit?usp=sharing)
 
 
-### Publications
+## Publications
 
-#### PhD
+### PhD
 
 Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris.https://zenodo.org/record/1491292
 
 
-#### Journal and conferences papers
+### Journal and conferences papers
 
 - Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. eMOOCs19
 
@@ -36,26 +35,26 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
-#### Journal Coordination
+### Journal Coordination
 
 - Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). https://journals.openedition.org/reset/1078
 
-#### Books contribution
+### Books contribution
 
 - Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
 
 - Gruson-Daniel Célya (2014). « Open Science : cartographie et entretiens », in Benyayer Louis-David (dir.), [OpenModels : Les business Models de l'économie ouverte](http://openmodels.fr/fr/pages/181/). Without Model. p.181-201
 
-### Scientific events organization
+## Scientific events organization
 
 - Juillet 2018 – ESOF 2018 – Toulouse - “Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture” avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
 
 - Décembre 2016 – Hackathon Recherche République Numérique #HackRepNum – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
 
 
-### Conferences
+## Conferences
 
-#### 2017
+### 2017
 
 - Septembre 2017 - Colloque « Sociologie & Sociétés : retour critique sur les sociologies numériques » - Lausanne - **Du hack et des sprints en sociologie(s) : des tensions aux intermédiations en contexte numérique** avec Constance de Quatrebarbes ==> [diapos](https://gitpitch.com/celyagd/S2_hack)
 
@@ -63,7 +62,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Janvier 2017 - Journée d'étude « Données personnelles en milieu universitaire : quelles questions se poser »- Paris- **Les coulisses d’une MOOC Factory : une plongée abrupte dans l’univers juridique et éthique.**
 
-#### 2016
+### 2016
 
 - Novembre 2016 - **[DHNord2016](https://www.meshs.fr/dhnord201160912174051___1440x900x1x1440x433x1_fr____rwr__________..php) - Lille - Humanités numériques en controverses (France, 2015/2016)** avec Jean-Edouard Bigot et Jérôme Valluy ==> [diapos](http://www.costech.utc.fr/IMG/pdf/colloque_dhnord_2016_jeb-cgd-jv_24112016.pdf)
 
@@ -84,7 +83,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Janvier 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [diapos](https://zenodo.org/record/45236#.VrBeOBhAvzM)
 
-#### 2014-2015
+### 2014-2015
 
 - Aout 2015 - **HumanNum2015 - Montréal - Le MOOC comme espace de recherche numérique.**
 
@@ -100,13 +99,13 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 *Presentations for trainings, workshops, roundtables, etc. about research/higher education and digital technologies (Open Science, MOOC, etc)*
 
-#### 2017
+### 2017
 
 - Décembre 2017 - Paris - **Séminaire Transnum #2 : Les savoirs techniques du doctorant : légitimité et valorisation** organisé par Guillaume Heuguet, Samuel Goyet et Pauline Brouard. Titre de la présentation «HackYourPhD et explorations numériques en recherche». Résumé des échanges en ligne : [https://semidocnum.hypotheses.org/date/2017/12](https://semidocnum.hypotheses.org/date/2017/12)
 
 - Mars 2017 - Avignon - **Café Sciences citoyennes - Open Access** organisé par l'INRA Avignon en partenariat avec l'association Sciences Citoyennes
 
-#### 2016
+### 2016
 
 - Novembre 2016 - Montpellier - **Séminaire Doctoral : L'*Open Access* et moi** organisé par les doctorant(e)s du CIRAD et de l'INRA (UMR Innovation et MOISA)
 
@@ -116,7 +115,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Février 2016 - **FORMATIC SANTÉ 2016 - Paris - L'exemple du MOOC « Numérique et Recherche en Santé.»** ==> [vidéo](https://www.canal-u.tv/video/canal_u_medecine/formaticsante_2016_l_exemple_du_mooc_numerique_et_recherche_en_sante.20738)
 
-#### 2014-2015
+### 2014-2015
 
 - Juin 2015 - **CIRAD - Montpellier - D'une *Open Science mainstream* à une science ouverte engagée : enjeux de la recherche dans les pays du Sud.** ==> [Videos en trois parties](http://coop-ist.cirad.fr/actualites/le-defi-d-une-science-ouverte-engagee-dans-les-pays-du-sud/%28language%29/fre-FR)
 
