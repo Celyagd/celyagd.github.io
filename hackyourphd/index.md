@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HackYourPhD
+title: HackYourPhD and DRISS
 tags: [about, open science, research]
 modified:
 comments: true
@@ -24,7 +24,7 @@ image:
 
 J'ai cofondé [HackYourPhD](hackyourphd.org) une communauté *Open Science* en janvier 2013 avec [Guillaume Dumas](http://www.extrospection.eu/) chercheur à l'institut Pasteur en neurosciences. HackYourPhD s'est structuré en association (loi 1901) en Août 2014.
 
-### Nos missions 
+### Nos missions
 
 HackYourPhD :
 
