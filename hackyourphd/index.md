@@ -13,8 +13,8 @@ image:
 *Click ! and go directly to the french or the english version*
 
 1. [Français](#français)
-  - HackYourPhD(#hackyourphd)
-  - DRISS(#DRISS)
+  - [HackYourPhD](#hackyourphd)
+  - [DRISS](#DRISS)
 2. [English](#english)
 3. [Presentations](#presentations)
 
@@ -29,7 +29,10 @@ J'ai cofondé [HackYourPhD](hackyourphd.org) une communauté *Open Science* en j
 HackYourPhD :
 
 - partage des  **actualités sur l'Open Science** par le biais d'une veille collaborative sur les réseaux sociaux, principalement [Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](https://twitter.com/hackyourphd) ;
-- organise **des évènements** en France; notamment des ateliers introductifs et des débats sur l'*Open Science* (cf. notre page événement en [français](http://hackyourphd.org/evenements/) et en [anglais](http://hackyourphd.org/en/event/)). Nous menons depuis 2014 des **ateliers de formation au code** (python) [Open Geek](http://hackyourphd.org/ateliers-open-geek/)![OpenGeek](./github-og.png)[Page Github](https://github.com/HackYourPhd/ateliers-open-geek) avec le contenu des séances- produit des **contenus en ligne** pour faire découvrir différentes facettes de l'*Open Science* et les différents profils qui y participent. Le blog HackYourPhD contient divers articles, interviews mais aussi des formats plus originaux pour communiquer à ce sujet (e.g. [flyers](http://hackyourphd.org/en/flyers/)), [ebook](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf) ;
+
+- organise **des évènements** en France; notamment des ateliers introductifs et des débats sur l'*Open Science* (cf. notre page événement en [français](http://hackyourphd.org/evenements/) et en [anglais](http://hackyourphd.org/en/event/)). Nous menons depuis 2014 des **ateliers de formation au code** (python) [Open Geek](http://hackyourphd.org/ateliers-open-geek/)![OpenGeek](./github-og.png)[Page Github](https://github.com/HackYourPhd/ateliers-open-geek) avec le contenu des séances
+
+- produit des **contenus en ligne** pour faire découvrir différentes facettes de l'*Open Science* et les différents profils qui y participent. Le blog HackYourPhD contient divers articles, interviews mais aussi des formats plus originaux pour communiquer à ce sujet (e.g. [flyers](http://hackyourphd.org/en/flyers/)), [ebook](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf) ;
 
 Nous sommes en contact avec d'autres organisations impliquées dans cette thématique : Mozilla Science Lab, Software Carpentry, Open Knowledge Foundation, Right to Research, Open Con, FOSTER, La Paillasse, etc.
 
@@ -58,17 +61,19 @@ Un livre a été publié en ligne suite au voyage HackYourPhDUSA. Il est disponi
 - [Hackathon HackRepNum 2015](http://hackyourphd.org/2015/11/hackrepnum-un-hackathon-recherche-autour-de-la-loi-sur-le-numerique-samedi-12-decembre-a-la-paillasse/)
 - Open Access Week 2014, 2015
 - Atelier Open Science à la Cité des Sciences
-- et plus ==> [sur notre page évènement HackYourPhD ](http://hackyourphd.org/evenements/)
+- et plus ==> [sur notre page évènement HackYourPhD](http://hackyourphd.org/evenements/)
 
 
 ## DRISS (Digital Research in Science & Society) <a name="driss"></a>
 
-En 2019, j'ai crée avec Constance de Quatrebarbes une société [DRISS](https://driss.org/) (_Digital Research in Science & Society_). A la croisée des mondes de la recherche, de l'entreprenariat et de la société, nous souhaitons faciliter le dialogue entre ses différentes sphères qui font toutes face à un ensemble de transformations numériques. Nous visons à accompagner, former et outiller ces différents acteurs en leur apportant un ensemble de compétences techniques, méthodologiques mais aussi critiques sur les enjeux du numérique.  
+En 2019, j'ai crée avec Constance de Quatrebarbes une société [DRISS](https://driss.org/) (_Digital Research in Science & Society_). A la croisée des mondes de la recherche, de l'entreprenariat et de la société, nous souhaitons faciliter le dialogue entre ces différentes sphères qui font toutes face à un ensemble de transformations numériques. Nous visons à accompagner, former et outiller ces différents acteurs en leur apportant un ensemble de compétences techniques, méthodologiques mais aussi critiques sur les enjeux du numérique.  
 
 Nos actions :
 
-- Des formations modulaires et ancrées dans des immersions pratiques (apprentissage et acculturation par le "faire", développement de compétences techniques, méthodologiques et réflexives pour gagner en autonomie )
+- Des formations modulaires et ancrées dans des immersions pratiques (apprentissage et acculturation par le "faire", développement de compétences techniques, méthodologiques et réflexives pour gagner en autonomie)
+-
 - Du conseil stratégique, organisationnel et technique : développement du potentiel humain et collectif (méthodologie agile et participative), maitrise des enjeux éthiques et juridiques numériques (RGPD, DPI et open), élaboration d'environnement numérique adapté à l'open et data science)
+
 - Développement et assistance à maitrise d'ouvrage logiciels open source.
 
 
@@ -87,13 +92,15 @@ HackYourPhD became a non-profit organization (association loi 1901) in August 20
 HackYourPhD :
 
 - shares **news about Open Science** through a collective daily curation on social networks in both French and English ([Facebook Group](https://www.facebook.com/groups/499463776745202/), [Twitter](https://twitter.com/hackyourphd)
+
+
 - organizes **events** in France; especially workshops about targeted topics or introductions and debates about Open Science (cf. our events page in [French](http://hackyourphd.org/evenements/) and in [English](http://hackyourphd.org/en/event/)). We have been organizing specific workshops **to learn programming with python** : [Open Geek ](http://hackyourphd.org/ateliers-open-geek/)￼￼￼￼
+
 - produces **contents** to help researchers and students to understand what is Open Science and how they can participate. HackYourPhD blog contains various articles but also creative format to communicate about Open Science (e.g. [flyers](http://hackyourphd.org/en/flyers/))
 
 We are connected with other organizations: Mozilla Science Lab, Software Carpentry, Open Knowledge Foundation, Right to Research, Open Con, FOSTER, etc.
 <figure>
     <a href="logo-hyphd.jpg"><img src="logo-hyphd.jpg"></a>
-
 </figure>
 
 ### Open Science explorations  
