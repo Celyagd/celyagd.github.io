@@ -18,7 +18,7 @@ Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Wh
 
 ### PhD
 
-Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris.https://zenodo.org/record/1491292
+Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris. Open Access on [Zenodo](https://zenodo.org/record/1491292) licence CC-BY-SA
 
 
 ### Journal and conferences papers
@@ -27,17 +27,21 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Gruson-Daniel Célya, Roméo Tessy Djossè & Sherlaw Karl-William (à paraître 2019). « L’usage des MOOC en Afrique francophone : une vraie gymnastique numérique », Afrique contemporaine.
 
-- Gruson-Daniel Célya & De Quatrebarbes Constance (2018). « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. https://zenodo.org/record/2538772#.XE1z9M9KiAx
+- Gruson-Daniel Célya & De Quatrebarbes Constance (2018). « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. Open Access on  [Zenodo](https://zenodo.org/record/2538772#.XE1z9M9KiAx) licence CC-BY-SA
 
-- Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11).http://rfsic.revues.org/3214
+- Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11). Open Access on [revue RFSIC](http://rfsic.revues.org/3214) licence CC-BY-NC-SA
 
-- Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( 2016). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (37). Pré-actes en ligne : http://www.ticemed.eu/ticemed10-marseille-2016/
+- Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( 2016). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (37)
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
 ### Journal Coordination
 
-- Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). https://journals.openedition.org/reset/1078
+- Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). Open Access on [RESET](https://journals.openedition.org/reset/1078) licence CC BY-NC-ND
+
+### Research Project Proposals
+
+- EXploring Collective Care in Research: A pilot-study with PhD Students (#ExCCiR-PhD) (2019). Proposal for the CRI Research Fellowship Open Health. Open Access on [Zenodo](https://zenodo.org/record/2571546) licence CC-BY-SA
 
 ### Books contribution
 
