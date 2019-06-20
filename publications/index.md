@@ -31,7 +31,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11). Open Access on [revue RFSIC](http://rfsic.revues.org/3214) licence CC-BY-NC-SA
 
-- Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( 2016). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (37)
+- Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( 2016). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (39) Open Access on [Zenodo](https://zenodo.org/record/3250690#.XQthC5MzbOQ) licence CC-BY-SA
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
@@ -57,6 +57,15 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 
 ## Conferences
+
+### 2019
+- Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» - Brest - Conférence plénière : **L’ère du «co» et de l’open : entre solutions concrètes et imaginaires numériques**.
+- Juin 2019 - Journée d’étude ELICO « Open Science, Open Platforms, Open Artefacts » - Lyon - **Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique ».**
+- Mai 2019 - Conférence « Open Science & Citizen Science : quelles opportunités » MBC 128  Recherche & Conseil Université Paris Dauphine - Paris - Title : **Open Science : les coulisses d’un buzzword.**
+
+### 2018
+
+zzzzz- PhD writing - zzzz (alone in my sofa...)
 
 ### 2017
 
