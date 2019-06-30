@@ -16,8 +16,7 @@ image:
 
 ### Français <a name="français"></a>
 
-
-- Février 2019 - Invervention en STS dans le cours ["What am I doing What ?! A crash course on the philosophy of science"](https://cri-paris.org/fire/academic-program/fire-courses/philosophy-of-science/) avec Johannes Jaeger - FIRE Program (Doctoral school) - Centre de Recherches Interdisciplinaires
+- Février 2019 - **Intervention en STS dans le cours ["What am I doing What ?! A crash course on the philosophy of science"](https://cri-paris.org/fire/academic-program/fire-courses/philosophy-of-science/)** avec Johannes Jaeger - FIRE Program (Doctoral school) - Centre de Recherches Interdisciplinaires
 
 - Février 2019 - **[Data Driven Research in Sciences](https://cri-paris.org/fire/academic-program/fire-courses/data-driven-research-sciences/)** avec Constance de Quatrebabres - FIRE Program (Doctoral school) - Centre de Recherches Interdisciplinaires
 
