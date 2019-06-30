@@ -71,7 +71,6 @@ En 2019, j'ai crée avec Constance de Quatrebarbes une société [DRISS](https:/
 Nos actions :
 
 - Des formations modulaires et ancrées dans des immersions pratiques (apprentissage et acculturation par le "faire", développement de compétences techniques, méthodologiques et réflexives pour gagner en autonomie)
--
 - Du conseil stratégique, organisationnel et technique : développement du potentiel humain et collectif (méthodologie agile et participative), maitrise des enjeux éthiques et juridiques numériques (RGPD, DPI et open), élaboration d'environnement numérique adapté à l'open et data science)
 
 - Développement et assistance à maitrise d'ouvrage logiciels open source.
@@ -130,7 +129,7 @@ Our actions provide **guidance, training and equipment for effective digital cha
 
 ----
 
-## Présentations <a name="Presentations"></a>
+## Présentations <a name="presentations"></a>
 
 *Ci-dessous, les présentations sont en anglais et en français.*
 
