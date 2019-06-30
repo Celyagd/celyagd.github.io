@@ -55,17 +55,19 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Décembre 2016 – Hackathon Recherche République Numérique #HackRepNum – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
 
-
 ## Conferences
 
 ### 2019
-- Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» - Brest - Conférence plénière : **L’ère du «co» et de l’open : entre solutions concrètes et imaginaires numériques**.
+
+- Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» - Brest - Conférence plénière : **L’ère du «co» et de l’open : entre solutions concrètes et imaginaires numériques**. Vidéo [ici](https://www.youtube.com/watch?v=tb8bnYBQ22s&t=1098s)
+
 - Juin 2019 - Journée d’étude ELICO « Open Science, Open Platforms, Open Artefacts » - Lyon - **Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique ».**
+
 - Mai 2019 - Conférence « Open Science & Citizen Science : quelles opportunités » MBC 128  Recherche & Conseil Université Paris Dauphine - Paris - Title : **Open Science : les coulisses d’un buzzword.**
 
 ### 2018
 
-zzzzz- PhD writing - zzzz (alone in my sofa...)
+zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 ### 2017
 
@@ -83,16 +85,13 @@ zzzzz- PhD writing - zzzz (alone in my sofa...)
 
 - Aout 2016 - **4S/EASST 2016 - Barcelone - Mapping Open Access/Science controversies : the case of the french "digital bill" consultation** Session : [Open Science in practice](http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=3966) avec Constance de Quatrebarbes ==> [diapos](https://cdn.rawgit.com/c24b/openscience4S/master/presentation/openscience4S.html#/)
 
-
 - Juillet 2016 - **AISLF 2016 - Montréal - Faire pour comprendre ? Quelle(s) approches(s) pour l’étude du "*make*" et du "*hack*" ?** session GT 15 : analyse qualitative interdisciplinaire, avec Cécilia Calheiros, Camille Bosqué, Matei Gheorghui ==> [diapos](https://zenodo.org/record/59661#.V6QlD47tnkU)
 
 - Juillet 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
 
-
 - Mai 2016 - **ACFAS 2016 - Montréal - Enjeux méthodologiques de la recherche sur les usages d’ Internet et des technologies numériques.** [Retour d’expérience sur le Hackathon Recherche République Numérique : méthodes numériques développées autour des données (data) de la consultation sur le projet de loi numérique en France](http://www.acfas.ca/evenements/congres/programme/84/400/456/c), présentation proposée avec Constance de Quatrebarbes
 
 - Mars 2016 - **Journée doctorale COSTECH - Compiègne - Présentation projet de thèse.** (discutant Jérôme Valluy)
-
 
 - Janvier 2016 - **Journée doctorale interlabos (COSTECH-GRIPIC-CARISM) - Paris - Data et reconfiguration des collectifs de recherche en SIC.** avec Constance de Quatrebarbes, ==> [diapos](https://zenodo.org/record/45236#.VrBeOBhAvzM)
 
@@ -108,7 +107,6 @@ zzzzz- PhD writing - zzzz (alone in my sofa...)
 
 
 ## Presentations (invitations)
-
 
 *Presentations for trainings, workshops, roundtables, etc. about research/higher education and digital technologies (Open Science, MOOC, etc)*
 

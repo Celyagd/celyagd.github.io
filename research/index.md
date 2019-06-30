@@ -78,9 +78,11 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 
 ### Pistes de recherche post-doctorales
 
-- Interaction _mind/body_ (théorie interoceptive)
-- Bien-être en doctorat
-- Projet de recherche proposé au CRI pour une bourse : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
+- CivicTech en Société : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
+- Recherche-action avec DRISS: expérimentation d'une économie sociale et solidaire au sein du système de recherche
+- Institutionnalisation de la science ouverte et "bonnes pratiques"
+- Ethique du care au sein de la recherche et bien-être en doctorat : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
+- Croyances biotechnoscientifiques : des mythes de l'IA aux espoirs du "co" (coopération, communs)
 
 ------
 
@@ -150,6 +152,14 @@ My PhD research was about the evolution of the conception of "Science" today but
 2- The Rhetoric of Openness in MOOC
 
 ==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV)
+
+### Post-Doctoral research explorations
+
+- CivicTech in Society: for a pluralistic exploration of digital debates with DRISS and IFRIS (Marc Barbier and Constance de Quatrebarbes)
+- Research-action with DRISS: experimentation of a social and solidarity economy within the research system
+- Institutionalization of open science and "good practices"
+- Ethics of care in doctoral research and well-being: [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
+- Biotechnoscientific beliefs: from AI myths to "co" hopes (cooperation, common)
 
 ## Open Research <a name="open"></a>
 

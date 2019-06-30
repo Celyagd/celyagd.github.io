@@ -132,8 +132,17 @@ Our actions provide **guidance, training and equipment for effective digital cha
 
 ## Présentations <a name="Presentations"></a>
 
+*Ci-dessous, les présentations sont en anglais et en français.*
 
-*La plupart des présentations récentes sont classées dans la partie recherche (en lien avec ma thèse). Ci-dessous, les présentations sont en anglais et en français.*
+### 2019
+
+- Juillet 2019 - Paris - [Quels enjeux pour l'open science en droit](https://openlaw.fr/evenement/quels-enjeux-pour-lopen-science-en-droit) - Open Law
+
+- Juin 2019 - Paris - Cycle « Sciences et réseaux sociaux » – Session 2 : [Les réseaux sociaux, véritables objets de recherches scientifiques](https://socialmediaclub.fr/2019/06/04/cycle-sciences-et-reseaux-sociaux-session-2-les-reseaux-sociaux-veritables-objets-de-recherches-scientifiques/) - Social Media Club
+
+### 2017-2018
+
+zzzzz- Doctorat en cours - un peu de recul nécessaire sur mon engagement militant...zzzz
 
 ### 2016
 
@@ -145,7 +154,6 @@ Our actions provide **guidance, training and equipment for effective digital cha
 
 - 4 février 2016 - Paris - Meet-up Epidemium : Que se cache-t-il derrière cette ère de l'*Open* ? [Note de la présentation et des questions](http://bit.ly/1OWV8b9)
 
-
 ### 2015
 
 - 4 juin 2015 - Paris - Wikistage SoScience
@@ -154,7 +162,6 @@ Comment concilier Open Science et recherche responsable ? [Video](http://www.wik
 - 13-15 novembre 2015 - Bruxelles - OpenCon2015
 
 - 16-17 septembre 2015 - Geneva - OKCon
-
 
 ### 2014
 
