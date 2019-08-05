@@ -110,6 +110,10 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 *Presentations for trainings, workshops, roundtables, etc. about research/higher education and digital technologies (Open Science, MOOC, etc)*
 
+### 2019
+
+- Aout 2019 - Paris/Lausanne - **Interview Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) | Probablement?** pour la chaîne YouTube Science4all par Lê Nguyên Hoang. La vidéo est [ici](https://www.youtube.com/watch?v=5rWpNmm0dfA&feature=youtu.be&fbclid=IwAR2J5o1ez5NL2u30lLSo5B38TQUW_J__EfC8Wedkt6L6ks4Bp6ky7rlkWqg)
+
 ### 2017
 
 - Décembre 2017 - Paris - **Séminaire Transnum #2 : Les savoirs techniques du doctorant : légitimité et valorisation** organisé par Guillaume Heuguet, Samuel Goyet et Pauline Brouard. Titre de la présentation «HackYourPhD et explorations numériques en recherche». Résumé des échanges en ligne : [https://semidocnum.hypotheses.org/date/2017/12](https://semidocnum.hypotheses.org/date/2017/12)
