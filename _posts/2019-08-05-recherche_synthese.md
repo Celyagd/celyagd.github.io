@@ -11,7 +11,7 @@ image:
 
 ---
 
-J'ai bien conscience qu'à part mon jury, mes co-directeurs et ma co-directrice de thèse. Peu de personne s'aventureront dans la lecture des quelques 475 pages de ma thèse **Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation République numérique (2015)**` mise en accès libre (licence CC-BY-SA) 4 jours après ma soutenance sur [Zenodo](https://zenodo.org/record/1491292) puis sur [TEL](https://tel.archives-ouvertes.fr/tel-01926040).
+J'ai bien conscience qu'à part mon jury, mes co-directeurs et ma co-directrice de thèse. Peu de personne s'aventureront dans la lecture des quelques 475 pages de ma thèse **Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation République numérique (2015)** mise en accès libre (licence CC-BY-SA) 4 jours après ma soutenance sur [Zenodo](https://zenodo.org/record/1491292) puis sur [TEL](https://tel.archives-ouvertes.fr/tel-01926040).
 
 
 En continuité de mes réflexions et expérimentations d'une démarche _open science_ et en plus de l'analyse que j'en ai faite (pour le cas français), l'après thèse s'est accompagnée d'un questionnement non plus seulement sur l'accès à un contenu mais sur son accessibilité.
@@ -19,9 +19,11 @@ Une des définitions de l'_open access_ par la Budapest Open Access Initiative (
 
 Or, je m'interroge sur les barrières cognitives (compréhension) et sociales (_a priori_ sur l'objet même que représente une thèse) qui font qu'un contenu restera à destination d'un public académique hyper-spécialisé.
 
-> C'est là où se situe pour moi la nuance entre 1/ penser l'accès à une ressource (possibilité d'accès à un contenu) et 2/ réfléchir à son accessibilité (les conditions qui rendent possibles son accès et sa compréhension).
+> C'est là où se situe la nuance entre 1/ penser l'accès à une ressource (possibilité d'accès à un contenu) et 2/ réfléchir à son accessibilité (les conditions qui rendent possibles son accès et sa compréhension).
+
 
 Ces derniers mois post soutenance sont l'occasion d'experimenter cette nuance grâce à des échanges au sein du collectif HackYourPhD dans notre souci de médiation en travaillant sur des formats « innovants » (création d'un guide illustré, d'une BD, d'un escape game, etc). J'ai aussi eu la chance d'être invitée à présenter mes travaux et projets en cours lors de conférences ou d'interviews. J'ai essayé du mieux que je pouvais d'expliquer mes recherches, d'en faire ressortir quelques points saillants. C'est une bonne façon également de voir se dessiner la substantive moelle de ma thèse car cela me pousse à synthétiser mes propos et à écrémer les lourdeurs.
+
 
 Je vous partage ici quelques liens en espérant qu'ils vous donneront envie d'en savoir plus. Je souhaite dans les prochains mois rédiger quelques articles de blog en français et en anglais qui feront la jonction entre les connaissances acquises ces dernières années et les futurs projets dans une démarche de recherche-action. Car il m'a fallu quelques mois d'hésitation (qualif ou pas qualif ?) avant de me rappeler que la posture qui me convient le mieux est celle de praticienne-chercheuse, et il y a de la matière à penser et à agir aujourd'hui dans les interstices des milieux de l'enseignement supérieur et de la recherche (ESR).
 
