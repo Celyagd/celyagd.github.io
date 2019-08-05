@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "
+title: "Au delà du libre accès : penser l'accessibilité de la thèse."
 excerpt: "Communication post-thèse : rendre accessible/compréhensible mes recherches doctorales "
 modified:
 tags: [accessibilité, PhD, open science, communication ]

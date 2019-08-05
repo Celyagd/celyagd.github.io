@@ -112,7 +112,7 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 ### 2019
 
-- Aout 2019 - Paris/Lausanne - **Interview Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) | Probablement?** pour la chaîne YouTube Science4all par Lê Nguyên Hoang. La vidéo est [ici](https://www.youtube.com/watch?v=5rWpNmm0dfA&feature=youtu.be&fbclid=IwAR2J5o1ez5NL2u30lLSo5B38TQUW_J__EfC8Wedkt6L6ks4Bp6ky7rlkWqg)
+- Aout 2019 - Paris/Lausanne - **Interview Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) Probablement?** pour la chaîne YouTube Science4all par Lê Nguyên Hoang. La vidéo est [ici](https://www.youtube.com/watch?v=5rWpNmm0dfA&feature=youtu.be&fbclid=IwAR2J5o1ez5NL2u30lLSo5B38TQUW_J__EfC8Wedkt6L6ks4Bp6ky7rlkWqg)
 
 ### 2017
 
