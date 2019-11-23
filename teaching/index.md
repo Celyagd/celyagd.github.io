@@ -16,6 +16,10 @@ image:
 
 ### Français <a name="français"></a>
 
+- Octobre 2019 - **Introduction à votre environnement numérique de recherche** avec DRISS pour l'URFIST de Lyon.
+
+- Septembre 2019 - **CIRP (Create an Interdisciplinary Research Project) Week** at the CRI. Mentoring
+
 - Février 2019 - **Intervention en STS dans le cours ["What am I doing What ?! A crash course on the philosophy of science"](https://cri-paris.org/fire/academic-program/fire-courses/philosophy-of-science/)** avec Johannes Jaeger - FIRE Program (Doctoral school) - Centre de Recherches Interdisciplinaires
 
 - Février 2019 - **[Data Driven Research in Sciences](https://cri-paris.org/fire/academic-program/fire-courses/data-driven-research-sciences/)** avec Constance de Quatrebabres - FIRE Program (Doctoral school) - Centre de Recherches Interdisciplinaires
@@ -35,6 +39,9 @@ image:
 
 ### English <a name="english"></a>
 
+- October 2019 - **Intro to you digital research environment** avec DRISS for URFIST of Lyon.
+
+- September 2019 - **CIRP (Create an Interdisciplinary Research Project) Week** at the CRI. Mentoring.
 
 - February 2019 - Participation (STS) in the course ["What am I doing What ?! A crash course on the philosophy of science"](https://cri-paris.org/fire/academic-program/fire-courses/philosophy-of-science/) avec Johannes Jaeger - FIRE Program (Doctoral school) - Centre de Recherches Interdisciplinaires
 

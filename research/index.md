@@ -29,7 +29,7 @@ image:
 
 ## En quelques mots <a name="bref"></a>
 
-- Docteure en sciences sociales (STS/SIC), diplômée du CRI (Centre de Recherches Interdisciplinaires) :  
+- Docteure en sciences sociales (STS/SIC), diplômée du CRI (Centre de Recherches Interdisciplinaires) :
 
   - Mes recherches questionnent la place des savoirs dans nos sociétés modernes et le rôle des imaginaires technoscientifiques sur leurs façonnages. Elles s'ancrent dans une approche interdisicplinaire (master en neurosciences cognitive et comportementale, doctorat en SIC/STS) avec une démarche pragmatique ("par le faire") et entreprenariale afin d'éprouver les transformation de nos modalités de penser et d'agir avec et par les technologies numériques.
 
@@ -43,7 +43,7 @@ CV Recherche consultable en ligne [ici](https://docs.google.com/document/d/1L-MD
 
 - **STS (Sciences, Technologies et Société)** : imaginaires numériques et technoscientifiques, étude du régime des savoirs et de ses transformations, gouvernance des communs, modèles économiques numériques
 - **SIC (Sciences de l’information et de la Communication)** : matérialité des dispositifs, études des controverses et formes de mobilisation numérique, influence du design des dispositifs
-- **Sciences cognitives** : énaction, influence des technologies intellectuelles et du Soi, capitalisme cognitif, transmission et réappropriation des cultures numériques  
+- **Sciences cognitives** : énaction, influence des technologies intellectuelles et du Soi, capitalisme cognitif, transmission et réappropriation des cultures numériques
 
 ### Méthodes numériques
 
@@ -79,7 +79,7 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 ### Pistes de recherche post-doctorales
 
 - CivicTech en Société : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
-- Recherche-action avec DRISS: expérimentation d'une économie sociale et solidaire au sein du système de recherche
+- Recherche-action avec Inno^3: open source, open infrastructure et open science
 - Institutionnalisation de la science ouverte et "bonnes pratiques"
 - Ethique du care au sein de la recherche et bien-être en doctorat : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
 - Croyances biotechnoscientifiques : des mythes de l'IA aux espoirs du "co" (coopération, communs)
@@ -125,7 +125,7 @@ Research resume available [here](https://docs.google.com/document/d/1L-MDJUjAjAP
   - **Mixed methods approach** (quanti/qualitative) and data sciences for Social Sciences and Humanities
   - **Grounded Theory** and traceability of qualitative research inquiry
   - **Use of digital scholar tools** for open science practices: reference management with **Zotero**, data science with **Python**, reproducibility practices with Jupyter Notebook, collaborative work and versioning with **Gitalb/Github**
-  - Critical thinking and meta research about digital methods and open science practices  
+  - Critical thinking and meta research about digital methods and open science practices
 
 ### Interdisciplinarity approaches
 

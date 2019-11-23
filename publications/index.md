@@ -18,12 +18,12 @@ Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Wh
 
 ### PhD
 
-Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris. Open Access on [Zenodo](https://zenodo.org/record/1491292) licence CC-BY-SA
+Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris. Open Access on [Zenodo](https://zenodo.org/record/1491292) licence CC-BY-SA. Chapitres accessibles à la lecture sur [pubpub](https://phd-cgd.pubpub.org/chapters)
 
 
 ### Journal and conferences papers
 
-- Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. eMOOCs19
+-  2019 Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. European MOOCs Stakeholders Summit. pdf on [ArXiv](https://arxiv.org/pdf/1907.04723.pdf)
 
 - Gruson-Daniel Célya, Roméo Tessy Djossè & Sherlaw Karl-William (à paraître 2019). « L’usage des MOOC en Afrique francophone : une vraie gymnastique numérique », Afrique contemporaine.
 
@@ -34,6 +34,10 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 - Gruson-Daniel Célya, Aïm Olivier, Depoux Anneliese & Sherlaw Karl-William ( 2016). « Des MOOC (Massive Open Online Courses) AUX OC (Online courses) : les rhétoriques de l’ouverture », Questions de communication, série actes, (39) Open Access on [Zenodo](https://zenodo.org/record/3250690#.XQthC5MzbOQ) licence CC-BY-SA
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
+
+### Opinion Papers (Press)
+
+- Novembre 2019 - Acteurs du monde juridique, n'est-il pas temps de vous tourner pleinement vers l'open science ?/ Actors of the legal world, it is high time we turned fully to open science pusblished in le [monde du droit](https://www.lemondedudroit.fr/decryptages/66937-acteurs-monde-juridique-open-science.html) and [open law* le droit ouvert](https://openlaw.fr/sites/default/files/fond/documents/2019-11/Acteurs_du_monde_juridique%2C_n%27est.pdf)
 
 ### Journal Coordination
 
@@ -58,6 +62,9 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 ## Conferences
 
 ### 2019
+
+- Novembre 2019 - Colloque GIS Démocratie & Participation - Paris - « Atelier : méthodologies d’analyse des dynamiques consultatives/participatives en ligne ».
+
 
 - Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» - Brest - Conférence plénière : **L’ère du «co» et de l’open : entre solutions concrètes et imaginaires numériques**. Vidéo [ici](https://www.youtube.com/watch?v=tb8bnYBQ22s&t=1098s)
 
