@@ -20,13 +20,13 @@ image:
 ## Qui suis-je ?
 
 - Chercheuse associée au ([Costech](http://www.utc.fr/costech/)/UTC)
-- Docteure en sciences sociales (STS/SIC) spécialisée sur les question d'open access/science et l'impact du numérique sur les relations sciences/société (data science, éthique, transformations économiques et sociales)
-- Consultante (praticienne-chercheuse) chez Inno^3, cabinet de conseil spécialisé en innovation ouverte, _open data_ et _open source_
+- Docteure en sciences sociales (STS/SIC) spécialisée sur les questions d'_open access/science_ et l'impact du numérique sur les relations sciences/société (data science, éthique, transformations économiques et sociales)
+- Consultante (praticienne-chercheuse) chez [Inno^3](https://inno3.fr/), cabinet de conseil spécialisé en innovation ouverte, _open data_ et _open source_
 
 ----
 
 - Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) un groupe de réflexion sur la science ouverte.
-- Co-fondatrice de DRISS(https://driss.org) et Enseignante sur les thématiques Numérique & Recherche dans divers établissements et écoles (CRI, SciencePo, UPEM).
+- Co-fondatrice de DRISS(https://driss.org) et enseignante sur les thématiques Numérique & Recherche dans divers établissements et écoles (CRI, SciencePo, UPEM).
 - Co-fondatrice de l'Ancre des Savoirs, une association visant à explorer, expérimenter, questionner les pratiques bien-être par une approche interdisciplinaire et multiculturelle.
 
 
@@ -56,8 +56,8 @@ Vous y trouverez :
 ----
 
 - Co-founder of[HackYourPhD](http://www.hackyourphd.org) an open science think tank.
-- Co-founder of DRISS (https://driss.org) and Teacher on Digital & Research themes in various institutions and schools (CRI, SciencePo, UPEM).
-- Co-founder of l'Ancre des Savoirs, an association that aims to explore, experiment and question well-being practices through an interdisciplinary and multicultural approach.
+- Co-founder of DRISS (https://driss.org) and teacher on Digital & Research themes in various institutions and schools (CRI, SciencePo, UPEM).
+- Co-founder of l'Ancre des Savoirs (the anchor of knowledge), an association that aims to explore, experiment and question well-being practices through an interdisciplinary and multicultural approach.
 
 
 To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
