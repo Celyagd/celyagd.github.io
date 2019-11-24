@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HackYourPhD and DRISS
+title: HackYourPhD & DRISS
 tags: [about, open science, research]
 modified:
 comments: true
@@ -66,14 +66,7 @@ Un livre a été publié en ligne suite au voyage HackYourPhDUSA. Il est disponi
 
 ## DRISS (Digital Research in Science & Society) <a name="driss"></a>
 
-En 2019, j'ai crée avec Constance de Quatrebarbes une société [DRISS](https://driss.org/) (_Digital Research in Science & Society_). A la croisée des mondes de la recherche, de l'entreprenariat et de la société, nous souhaitons faciliter le dialogue entre ces différentes sphères qui font toutes face à un ensemble de transformations numériques. Nous visons à accompagner, former et outiller ces différents acteurs en leur apportant un ensemble de compétences techniques, méthodologiques mais aussi critiques sur les enjeux du numérique.  
-
-Nos actions :
-
-- Des formations modulaires et ancrées dans des immersions pratiques (apprentissage et acculturation par le "faire", développement de compétences techniques, méthodologiques et réflexives pour gagner en autonomie)
-- Du conseil stratégique, organisationnel et technique : développement du potentiel humain et collectif (méthodologie agile et participative), maitrise des enjeux éthiques et juridiques numériques (RGPD, DPI et open), élaboration d'environnement numérique adapté à l'open et data science)
-
-- Développement et assistance à maitrise d'ouvrage logiciels open source.
+En 2019, j'ai crée avec Constance de Quatrebarbes une société [DRISS](https://driss.org/) (_Digital Research in Science & Society_). En premier lieu, cela nous a permis d'offrir des formations auprès d'universités et d'écoles de l'ESR. Ces formations modulaires et ancrées dans des immersions pratiques ont pour objet de donner des clefs de compréhension de l'_open_ et de la _data science_ tout en développant un regard critique et réflexif sur les transformations qu'apportent le numérique.
 
 
 ------
@@ -102,7 +95,7 @@ We are connected with other organizations: Mozilla Science Lab, Software Carpent
     <a href="logo-hyphd.jpg"><img src="logo-hyphd.jpg"></a>
 </figure>
 
-### Open Science explorations  
+### Open Science explorations
 
 #### HackYourPhD : States and Quebec
 
