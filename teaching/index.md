@@ -16,6 +16,8 @@ image:
 
 ### Français <a name="français"></a>
 
+- Javnier 2020 - **Digital Research in Science and Society (DRISS) : open and data science into practice for your PhD** au [CRI](https://phd.cri-paris.org/en/phd-program) pour les doctorant.e.s
+
 - Octobre 2019 - **Introduction à votre environnement numérique de recherche** avec DRISS pour l'URFIST de Lyon.
 
 - Septembre 2019 - **CIRP (Create an Interdisciplinary Research Project) Week** at the CRI. Mentoring
@@ -38,6 +40,8 @@ image:
 
 
 ### English <a name="english"></a>
+
+- Javnier 2020 - **Digital Research in Science and Society (DRISS) : open and data science into practice for your PhD** at the [CRI](https://phd.cri-paris.org/en/phd-program) for the PhD Students
 
 - October 2019 - **Intro to you digital research environment** avec DRISS for URFIST of Lyon.
 

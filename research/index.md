@@ -76,13 +76,14 @@ Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant su
 
 Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Université Laval), Karl-William Sherlaw (CVV) et l'équipe d'ANEO (pour l'analyse des *logs*)
 
-### Pistes de recherche post-doctorales
+### recherches post-doctorales
 
-- CivicTech en Société : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
-- Recherche-action avec Inno^3: open source, open infrastructure et open science
-- Institutionnalisation de la science ouverte et "bonnes pratiques"
+- Recherche-action avec Inno^3 (CIR) (en cours): open source, open infrastructure et open science : prototypage et implémentation de "modèles ouverts soutenables"
+- [OpenESR](https://openesr.frama.io/rencontres) (en cours) : regards réflexifs sur l'implémentation de modèles ouverts dans l'enseignement surpérieur et la recherche avec Inno3 et HackYourResearch
+- "Est-il sage d'être bien ?" (en cours): questionner les pratiques "bien-être" au prisme des sciences cognitives et de la philosophie avec l'Ancre des Savoirs
 - Ethique du care au sein de la recherche et bien-être en doctorat : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
-- Croyances biotechnoscientifiques : des mythes de l'IA aux espoirs du "co" (coopération, communs)
+- [CivicTech en Société](http://ifris.org/appel/civictech-en-societe-citechsoc-pour-lexploration-pluraliste-des-debats-numeriques/) (2019)  : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
+
 
 ------
 
@@ -94,11 +95,11 @@ Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux 
 - **Citations, extraits choisis :** [Pensées Yogeek](http://yogeekons.tumblr.com/), Tumblr où je partage quelques citations au fil de mes lectures.
 
 - **Veille :**
-	- Open Science avec HackYourPhD : [Site](hackyourphd.org), [Groupe Facebook](https://www.facebook.com/groups/499463776745202/) et [Twitter](www.twitter.com/hackyourphd)
+	- Open Science avec HackYourResearch : [Site](http://hyr.science/), [Groupe Facebook](https://www.facebook.com/groups/hackyourresearch/) et [Twitter](https://twitter.com/hackresearch)
 
 	- Recherche et coup de coeur : [Twitter](www.twitter.com/celyagd)
 
-- **Code :** [Github](https://github.com/Celyagd) et cours d'introduction à la programmation avec le projet DRISS (Data-Driven Research in Sciences)
+- **Code :** [Github](https://github.com/Celyagd)
 
 - **Blog de ce site :** à mes heures perdues (donc pas énormément) quelques [billets de blog](http://celyagd.github.io/blog/))
 
