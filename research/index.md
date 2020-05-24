@@ -49,7 +49,7 @@ CV Recherche consultable en ligne [ici](https://docs.google.com/document/d/1L-MD
 
 - Spécialisation dans les **méthodes mixtes** (quanti/qualitative) et les approches _data sciences_ en SHS (_Digital Humanities_)
 - **_Grounded Theory_ / théorisation ancrée** et traçabilité du processus de recherche qualitative
-- **Maitrise de divers outils numériques** dans une approche _open et data science_ : gestion de référence bibliographique avec **Zotero**, organisation et traitement de données avec le langage de programmation **Python**, travail collaboratif et suivi de versions sur des plateformes de type **Gitalb/Github**, utilisation de logiciels d'analyse de données qualitatives (**Nvivo, Dedoose**)
+- **Maitrise de divers outils numériques** dans une approche _open et data science_ : gestion de référence bibliographique avec **Zotero**, organisation et traitement de données avec le langage de programmation **Python**, travail collaboratif et suivi de versions sur des plateformes de type **Gitlab/Github**, utilisation de logiciels d'analyse de données qualitatives (**Nvivo, Dedoose**)
 
 ----
 
