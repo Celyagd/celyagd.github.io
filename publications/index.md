@@ -23,9 +23,9 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Journal and conferences papers
 
--  2019 Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. European MOOCs Stakeholders Summit. pdf on [ArXiv](https://arxiv.org/pdf/1907.04723.pdf)
+- Bafeta, A.; Bobe, J.; Clucas, J.; Gonsalves, P.P.; Gruson-Daniel, C.; Hudson, K.; Klein, A.; Krishnakumar, A.; McCollister-Slipp, A.; Lindner, A.; Misevic, D.; Naslund, J.; Nebeker, C.; Nikolaidis, A.; Pasquetto, I.; Sanchez, G.; Schapira, M.; Scheininger, T.; Schoeller, F.; Sólon, A.; Taddei, F. Ten Simple Rules for ​​​​Open Health Research. Preprints 2019, 2019090122 (doi: 10.20944/preprints201909.0122.v1).
 
-- Gruson-Daniel Célya, Roméo Tessy Djossè & Sherlaw Karl-William (à paraître 2019). « L’usage des MOOC en Afrique francophone : une vraie gymnastique numérique », Afrique contemporaine.
+-  Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. European MOOCs Stakeholders Summit. pdf on [ArXiv](https://arxiv.org/pdf/1907.04723.pdf)
 
 - Gruson-Daniel Célya & De Quatrebarbes Constance (2018). « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. Open Access on  [Zenodo](https://zenodo.org/record/2538772#.XE1z9M9KiAx) licence CC-BY-SA
 
@@ -37,6 +37,8 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Opinion Papers (Press)
 
+- Avril 2020 - Mémorandum Covid-19 pour du libre et de l’open en conscience : enseignements et impulsions futures. Coordination de l'initiative avec une quinzaine d'autres acteurs du libre, de l'*open* et des communs. [Site web] (https://covid19-open.frama.io/memo/)
+
 - Novembre 2019 - Acteurs du monde juridique, n'est-il pas temps de vous tourner pleinement vers l'open science ?/ Actors of the legal world, it is high time we turned fully to open science pusblished in le [monde du droit](https://www.lemondedudroit.fr/decryptages/66937-acteurs-monde-juridique-open-science.html) and [open law* le droit ouvert](https://openlaw.fr/sites/default/files/fond/documents/2019-11/Acteurs_du_monde_juridique%2C_n%27est.pdf)
 
 ### Journal Coordination
@@ -47,6 +49,8 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - EXploring Collective Care in Research: A pilot-study with PhD Students (#ExCCiR-PhD) (2019). Proposal for the CRI Research Fellowship Open Health. Open Access on [Zenodo](https://zenodo.org/record/2571546) licence CC-BY-SA
 
+- Dossier R&D Inno3 CIR (2020)
+
 ### Books contribution
 
 - Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
@@ -55,16 +59,24 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ## Scientific events organization
 
+- Depuis Février 2020  – **Rencontres OpenESR**  – Paris et Webinaire avec HackYourResearch et Inno3 : invitation de différentes personnes impliquées dans les communs et l’open afin de se nourrir de ces expériences pour appréhender l’Enseignement Supérieur et la Recherche de manière plus “ouverte”. [Site web](https://openesr.frama.io/rencontres)
+
 - Juillet 2018 – ESOF 2018 – Toulouse - “Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture” avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
 
 - Décembre 2016 – Hackathon Recherche République Numérique #HackRepNum – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
 
 ## Conferences
 
+
+### 2020
+
+- Juin 2020 - Présentation à l’équipe CRI (COSTECH) - **Open Science et captation de la valeur par les éditeurs scientifiques ?** - Webinaire.
+
+> Peu de conf. mais un boulot passionnant avec de nombreux échanges enrichissants !
+
 ### 2019
 
-- Novembre 2019 - Colloque GIS Démocratie & Participation - Paris - « Atelier : méthodologies d’analyse des dynamiques consultatives/participatives en ligne ».
-
+- Novembre 2019 - Colloque GIS Démocratie & Participation - Paris - **« Atelier : méthodologies d’analyse des dynamiques consultatives/participatives en ligne»**.
 
 - Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» - Brest - Conférence plénière : **L’ère du «co» et de l’open : entre solutions concrètes et imaginaires numériques**. Vidéo [ici](https://www.youtube.com/watch?v=tb8bnYBQ22s&t=1098s)
 
