@@ -61,6 +61,10 @@ Depuis 2013, donner la parole à celles et ceux qui participent à façonner le 
 Depuis 2020, avec inno3 et HackYourResearch, nous avons initié un temps d'échange (webinaires). L'objectif est d'inviter différentes personnes impliquées dans des projets sur les communs et l'_open_ (au sein de la recherche ou en dehors) afin d'apprendre de ces expériences et porter un regard réflexif sur ce que "pourrait être" l'enseignement supérieur et la recherche aujourd'hui.
 Le [site OpenESR](https://openesr.frama.io/rencontres) est dédié à ces rencontres.
 
+<figure>
+    <a href="ESR-logo.png"><img src="ESR-logo.png"></a>
+</figure>
+
 #### HackYourPhD USA et Québec (2013-2015)
 
 Avec HackYourPhD, avant le début de mon doctorat, j'avais débuté une première exploration de la thématique *Open Science* / Science ouverte [au Québec](http://hackyourphd-quebec.strikingly.com/) puis aux Etats-Unis. Durant l'été 2013, j'ai réalisé un grand tour des USA pour rencontrer des acteurs clefs de l'*Open Science* et mieux comprendre les racines de ce mouvement. Ce projet [HackYourPhD aux States](http://hackyourphd-aux-states.strikingly.com/) a été financé par une campagne de financement participatif (*crowdfunding)*.
