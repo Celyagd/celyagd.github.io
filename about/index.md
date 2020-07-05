@@ -56,7 +56,7 @@ Vous y trouverez :
 
 ### What defines me today? ##
 
-### An interdisciplinary curriculum at the crossroads between social and cognitive sciences
+#### An interdisciplinary curriculum at the crossroads between social and cognitive sciences
 
 - Associate Researcher at ([Costech](http://www.utc.fr/costech/)/UTC)
 - Doctor of Social Sciences (STS/SIC) specializing in _open access/science_ issues and the impact of digital technology on science/society relations (data science, ethics, economic and social transformations).
