@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Mémorandum Covid-19 pour du libre et de l'*open* en conscience"
-excerpt: "Texte écrit lors du confinement suite à la covid-19 (mars-mai 2020) par une trentaine d'acteurs du libre, de l'*open* et des communs. J'ai pu y participer avec ma casquette d'inno3 et d'HackYourResearch. "
+excerpt: "Texte écrit lors du confinement suite à la covid-19 (mars-mai 2020) par une trentaine d'acteurs du libre, de l'*open* et des communs. J'ai pu y participer avec ma casquette d'inno3 et d'HackYourResearch.s"
 modified:
-tags: [open science, covid-19, libre, soutenabilité, ]
+tags: [open science, covid-19, libre, soutenabilité]
 comments: true
 image:
   feature:

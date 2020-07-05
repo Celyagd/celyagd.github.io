@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Au delà du libre accès : penser l'accessibilité de la thèse"
-excerpt: "Partage de liens vidéos (conférences et interviews)pour rendre accessible/compréhensible ma recherche doctorale "
+excerpt: "Partage de liens vidéos (conférences et interviews) pour rendre accessible/compréhensible ma recherche doctorale "
 modified:
 tags: [accessibilité, PhD, open science, communication ]
 comments: true
@@ -38,7 +38,7 @@ Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» -
 > Résumé :
 La coopération, l'ouverture, le partage ou encore la co-construction sont au coeur des discours qui décrivent nos sociétés et les dispositifs numériques qui les accompagnent. L'enseignement supérieur et la recherche (ESR) n'y dérogent pas, ce qui bouscule les pratiques pédagogiques et les modes d'organisation au sein de nos instituts.
 Or, une rapide rétrospective sur les attentes initiales portées sur les MOOC à partir de 2012 - comme espace de coopération et d'ouverture- à la réalité des plateformes et des usages actuels amène à s'interroger sur les possibilités concrètes d'une coopération tout autant que des valeurs et des objectifs qui y sont associés.
-Entre coquille creuse des discours institutionnels et mise en oeuvre de dispositifs (véritablement ?) coopératifs et ouverts/libres, des pistes de réponse se trouvent dans l'analyse de la pluralité des significations que ce terme recouvre. En revenant sur la polysémie d'une formule voisine l'open, Célya Gruson-Daniel détaillera les différentes conceptions qui y sont associées afin d'éclairer ce que coopérer peut vouloir dire aujourd'hui. Cette présentation sera une invitation à un regard réflexif au sein de l'ESR sur les imaginaires du "co" et de l'open et les moyens de leur implémentation, ce qui nécessite au delà de l'aspect technique "numérique" des changements d'ordre cognitifs sur nos modes de penser et faire société aujourd'hui.  
+Entre coquille creuse des discours institutionnels et mise en oeuvre de dispositifs (véritablement ?) coopératifs et ouverts/libres, des pistes de réponse se trouvent dans l'analyse de la pluralité des significations que ce terme recouvre. En revenant sur la polysémie d'une formule voisine l'open, Célya Gruson-Daniel détaillera les différentes conceptions qui y sont associées afin d'éclairer ce que coopérer peut vouloir dire aujourd'hui. Cette présentation sera une invitation à un regard réflexif au sein de l'ESR sur les imaginaires du "co" et de l'open et les moyens de leur implémentation, ce qui nécessite au delà de l'aspect technique "numérique" des changements d'ordre cognitifs sur nos modes de penser et faire société aujourd'hui.
 
 ## Open Science, HackYourPhD, DRISS : interview pour Science4all
 
