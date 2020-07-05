@@ -11,7 +11,7 @@ image:
 
 ---
 
-# Mémorandum Covid-19 pour du libre et de l’*open* en conscience : enseignements et impulsions futures
+## Mémorandum Covid-19 pour du libre et de l’*open* en conscience : enseignements et impulsions futures
 
 Le texte est mis à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
 
