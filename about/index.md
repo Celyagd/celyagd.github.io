@@ -17,21 +17,21 @@ image:
 ### Français <a name="français"></a>
 
 
-## Ce qui me définit aujourd'hui ?
+### Ce qui me définit aujourd'hui ?
 
-### Un parcours interdisciplinaire à la croisée entre sciences sociales et sciences cognitives
+#### Un parcours interdisciplinaire à la croisée entre sciences sociales et sciences cognitives
 
 - Chercheuse associée au ([Costech](http://www.utc.fr/costech/)/UTC)
 - Docteure en sciences sociales (STS/SIC) spécialisée sur les questions d'_open access/science_ et sur l'impact du numérique sur les relations sciences/société (data science, éthique, transformations économiques et sociales).
 - Diplômée de l'École Normale Supérieure et d'un Master en Neurosciences cognitives et comportementales (UPMC)
 
-### Un engagement dans des projets associatifs et entreprenariaux pour des sociétés numériques durables
+#### Un engagement dans des projets associatifs et entreprenariaux pour des sociétés numériques durables
 
 - Consultante (praticienne-chercheuse) chez [Inno^3](https://inno3.fr/), cabinet de conseil spécialisé en _open data_, _open source_ et _open science_
 
 - Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) désormais [HackYourResearch](http://www.hyr.science/): groupe de réflexion sur la science ouverte/ _open science_ et la prise en considération des connaissances comme communs.
 
-### Une approche intégrative de la production de savoirs (perspective mind/body)
+#### Une approche intégrative de la production de savoirs (perspective _mind/body_)
 
 - Co-fondatrice de l'association [Ancre des Savoirs] pour questionner la place des pratiques « bien-être» par le biais des sciences sociales et scienes cognitives
 
@@ -42,7 +42,7 @@ image:
 Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur Linkedin [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
 
 
-## Que trouvez-vous sur ce site ?
+## Que trouverez-vous sur ce site ?
 
 Vous y trouverez :
 
@@ -54,21 +54,21 @@ Vous y trouverez :
 
 ### English <a name="english"></a>
 
-## What defines me today? ##
+### What defines me today? ##
 
-## An interdisciplinary curriculum at the crossroads between social and cognitive sciences
+### An interdisciplinary curriculum at the crossroads between social and cognitive sciences
 
 - Associate Researcher at ([Costech](http://www.utc.fr/costech/)/UTC)
 - Doctor of Social Sciences (STS/SIC) specializing in _open access/science_ issues and the impact of digital technology on science/society relations (data science, ethics, economic and social transformations).
 - Graduate of the École Normale Supérieure and a Master's degree in Cognitive and Behavioural Neurosciences (UPMC).
 
-### A commitment to associative and entrepreneurial projects for sustainable digital societies
+#### A commitment to associative and entrepreneurial projects for sustainable digital societies
 
 - Consultant (practitioner-researcher) at [Inno^3](https://inno3.fr/), a consulting company specialized in _open data_, _open source_ and _open science_.
 
 - Co-founder of [HackYourPhD](http://www.hackyourphd.org) now [HackYourResearch](http://www.hyr.science/): think tank on open science and the acknowledgement of knowledge as common.
 
-### An integrative approach to knowledge production (mind/body perspective)
+#### An integrative approach to knowledge production (mind/body perspective)
 
 - Co-founder of the association [Ancre des Savoirs] to question the place of "well-being" practices through the social sciences and cognitive sciences.
 
