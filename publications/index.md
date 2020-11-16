@@ -23,7 +23,8 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Journal and conferences papers
 
-- Bafeta, A.; Bobe, J.; Clucas, J.; Gonsalves, P.P.; Gruson-Daniel, C.; Hudson, K.; Klein, A.; Krishnakumar, A.; McCollister-Slipp, A.; Lindner, A.; Misevic, D.; Naslund, J.; Nebeker, C.; Nikolaidis, A.; Pasquetto, I.; Sanchez, G.; Schapira, M.; Scheininger, T.; Schoeller, F.; Sólon, A.; Taddei, F. Ten Simple Rules for ​​​​Open Health Research. Preprints 2019, 2019090122 (doi: 10.20944/preprints201909.0122.v1).
+- Bafeta, Aïda, Jason Bobe, Jon Clucas, Pattie Pramila Gonsalves, Célya Gruson-Daniel, Kathy L. Hudson, Arno Klein, et al. (2020). “Ten Simple Rules for Open Human Health Research.” PLOS Computational Biology 16 (9): e1007846. https://doi.org/10.1371/journal.pcbi.1007846.
+
 
 -  Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. European MOOCs Stakeholders Summit. pdf on [ArXiv](https://arxiv.org/pdf/1907.04723.pdf)
 
@@ -53,6 +54,10 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Books contribution
 
+- Gruson-Daniel, Célya. (2018). “Les outils numériques d’analyse de données (logiciels, bases de données).” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, ESBC Éditions science et bien commun. https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-de-la-recherche-logiciels-bases-de-donnees/.
+
+- Gruson-Daniel, Célya. (2018). “Les outils numériques d’enquête.” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, (ESBC). Éditions science et bien commun. https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-denquete/.
+
 - Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
 
 - Gruson-Daniel Célya (2014). « Open Science : cartographie et entretiens », in Benyayer Louis-David (dir.), [OpenModels : Les business Models de l'économie ouverte](http://openmodels.fr/fr/pages/181/). Without Model. p.181-201
@@ -69,6 +74,10 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 
 ### 2020
+
+- Ocotbre 2020 - **Science ouverte et décolonialisation des savoirs** - Webinaire UNESCO avec Florence Piron, Jean-Baptise Godrie, François-Xavier de Vaujany.
+
+- Octobre 2020 - **Au delà de l'Open Science Open ESR** - Webinaire "Des sciences ouvertes à l'université ouverte" - Research Group on Collaborative Spaces.
 
 - Juin 2020 - Présentation à l’équipe CRI (COSTECH) - **Open Science et captation de la valeur par les éditeurs scientifiques ?** - Webinaire.
 
