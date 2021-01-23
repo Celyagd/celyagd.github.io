@@ -38,7 +38,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Opinion Papers (Press)
 
-- Avril 2020 - Mémorandum Covid-19 pour du libre et de l’open en conscience : enseignements et impulsions futures. Coordination de l'initiative avec une quinzaine d'autres acteurs du libre, de l'*open* et des communs. [Site web] (https://covid19-open.frama.io/memo/)
+- Avril 2020 - Mémorandum Covid-19 pour du libre et de l’open en conscience : enseignements et impulsions futures. Coordination de l'initiative avec une quinzaine d'autres acteurs du libre, de l'*open* et des communs. [Site web](https://covid19-open.frama.io/memo/)
 
 - Novembre 2019 - Acteurs du monde juridique, n'est-il pas temps de vous tourner pleinement vers l'open science ?/ Actors of the legal world, it is high time we turned fully to open science pusblished in le [monde du droit](https://halshs.archives-ouvertes.fr/hal-02896570)
 
@@ -54,9 +54,9 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Books contribution
 
-- Gruson-Daniel, Célya. (2018). “Les outils numériques d’analyse de données (logiciels, bases de données).” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, ESBC Éditions science et bien commun. https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-de-la-recherche-logiciels-bases-de-donnees/.
+- Gruson-Daniel, Célya. (2018). “Les outils numériques d’analyse de données (logiciels, bases de données).” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, ESBC Éditions science et bien commun. [Chapitre en libre accès](https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-de-la-recherche-logiciels-bases-de-donnees/).
 
-- Gruson-Daniel, Célya. (2018). “Les outils numériques d’enquête.” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, (ESBC). Éditions science et bien commun. https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-denquete/.
+- Gruson-Daniel, Célya. (2018). “Les outils numériques d’enquête.” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, (ESBC). Éditions science et bien commun. [Chapitre en libre accès](https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-denquete/).
 
 - Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
 
