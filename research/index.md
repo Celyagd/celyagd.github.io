@@ -63,6 +63,15 @@ Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant su
 
   - Mots-clefs : #open #numérique #civic_tech #enaction
 
+### Recherches post-doctorales
+
+- Recherche-action avec Inno^3 (CIR) (en cours): open source, open infrastructure et open science : prototypage et implémentation de "modèles ouverts soutenables"
+- 2020-2021 - [OpenESR](https://openesr.frama.io/rencontres) (en cours) : regards réflexifs sur l'implémentation de modèles ouverts dans l'enseignement surpérieur et la recherche avec Inno3 et HackYourResearch
+- 2020-2021 - Groupe de travail [Science ouverte & société](https://cis.cnrs.fr/science-ouverte-et-societe/) du Centre Internet et Société : coordination du groupe de travail avec Nicolas Loubet et Jean-Baptiste Sherrer.
+- 2020 - "Est-il sage d'être bien ?" (en cours): questionner les pratiques "bien-être" au prisme des sciences cognitives et de la philosophie avec l'Ancre des Savoirs
+- 2019 - Ethique du care au sein de la recherche et bien-être en doctorat : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
+- 2019 - [CivicTech en Société](http://ifris.org/appel/civictech-en-societe-citechsoc-pour-lexploration-pluraliste-des-debats-numeriques/)  : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
+
 ### Recherche sur les MOOC :
 
 1- Développement de méthodes mixtes pour l'analyse des MOOC avec le projet #MOOCLive (Centre Virchow-Villermé) :
@@ -75,15 +84,6 @@ Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant su
   - Enjeux de l'accès et de l'accessibilité des MOOC dans les pays d'Afrique francophone.
 
 Recherches menées en collaboration avec Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Université Laval), Karl-William Sherlaw (CVV) et l'équipe d'ANEO (pour l'analyse des *logs*)
-
-### recherches post-doctorales
-
-- Recherche-action avec Inno^3 (CIR) (en cours): open source, open infrastructure et open science : prototypage et implémentation de "modèles ouverts soutenables"
-- [OpenESR](https://openesr.frama.io/rencontres) (en cours) : regards réflexifs sur l'implémentation de modèles ouverts dans l'enseignement surpérieur et la recherche avec Inno3 et HackYourResearch
-- "Est-il sage d'être bien ?" (en cours): questionner les pratiques "bien-être" au prisme des sciences cognitives et de la philosophie avec l'Ancre des Savoirs
-- Ethique du care au sein de la recherche et bien-être en doctorat : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
-- [CivicTech en Société](http://ifris.org/appel/civictech-en-societe-citechsoc-pour-lexploration-pluraliste-des-debats-numeriques/) (2019)  : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
-
 
 ------
 
@@ -146,6 +146,18 @@ My PhD research was about the evolution of the conception of "Science" today but
 
   - Mots clefs : #open #digital_tech #enaction #civic_tech #data
 
+
+### Post-Doctoral research explorations
+
+- Action-research (CIR) (ongoing): open source, open infrastructure et open science : design and implementation of "open and sustainable models"
+- 2020-2021 - [OpenESR](https://openesr.frama.io/rencontres) (ongoing) : reflexive views on the implementation of open models in higher education and research with Inno3 and HackYourResearch
+- 2020-2021 - Working Group [Open Science & Society](https://cis.cnrs.fr/science-ouverte-et-societe/) of the Internet & Society Center : coordination with Nicolas Loubet and Jean-Baptiste Sherrer.
+- 2020 - "Is it wise to be well?" (in progress): questioning "well-being" practices through the prism of cognitive sciences and philosophy with the Anchor of Knowledge.
+- 2019 - Ethics of care in doctoral research and well-being: [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
+- 2019 - CivicTech in Society: for a pluralistic exploration of digital debates with DRISS and IFRIS (Marc Barbier and Constance de Quatrebarbes)
+
+
+
 ### Research on MOOC
 
 1- Mixed-methods approach to analyse MOOC users behaviors (qualitative research combined with machine learning approaches)
@@ -153,14 +165,6 @@ My PhD research was about the evolution of the conception of "Science" today but
 2- The Rhetoric of Openness in MOOC
 
 ==> In collaboration with Olivier Aïm (CELSA), Anneliese Depoux (CVV), Florence Millerand (UQAM), Florence Piron (Laval) et Karl-William Sherlaw (CVV)
-
-### Post-Doctoral research explorations
-
-- CivicTech in Society: for a pluralistic exploration of digital debates with DRISS and IFRIS (Marc Barbier and Constance de Quatrebarbes)
-- Research-action with DRISS: experimentation of a social and solidarity economy within the research system
-- Institutionalization of open science and "good practices"
-- Ethics of care in doctoral research and well-being: [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
-- Biotechnoscientific beliefs: from AI myths to "co" hopes (cooperation, common)
 
 ## Open Research <a name="open"></a>
 

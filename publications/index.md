@@ -40,7 +40,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Avril 2020 - Mémorandum Covid-19 pour du libre et de l’open en conscience : enseignements et impulsions futures. Coordination de l'initiative avec une quinzaine d'autres acteurs du libre, de l'*open* et des communs. [Site web] (https://covid19-open.frama.io/memo/)
 
-- Novembre 2019 - Acteurs du monde juridique, n'est-il pas temps de vous tourner pleinement vers l'open science ?/ Actors of the legal world, it is high time we turned fully to open science pusblished in le [monde du droit](https://www.lemondedudroit.fr/decryptages/66937-acteurs-monde-juridique-open-science.html) and [open law* le droit ouvert](https://openlaw.fr/sites/default/files/fond/documents/2019-11/Acteurs_du_monde_juridique%2C_n%27est.pdf)
+- Novembre 2019 - Acteurs du monde juridique, n'est-il pas temps de vous tourner pleinement vers l'open science ?/ Actors of the legal world, it is high time we turned fully to open science pusblished in le [monde du droit](https://halshs.archives-ouvertes.fr/hal-02896570)
 
 ### Journal Coordination
 
@@ -64,6 +64,8 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ## Scientific events organization
 
+- Depuis Septembre 2020 - **Groupe de Travail Science Ouverte & Société** du Centre Internet et Société - Paris et webinaire en ligne :  En s’intéressant à d’autres mouvements – le care, les épistémologies décoloniales, l’éducation populaire, l’économie sociale et solidaire, les communs, etc. – ce groupe souhaite mettre en dialogue la diversité des formes d’ouverture de la science, que ce soit dans l’accès aux ressources, l’organisation des activités de recherche, la construction de démarches et de postures – individuelle et collective – de recherche, la valorisation et les échanges (marchands-non marchands) de connaissances ou encore l’appropriation et réutilisation de productions ouvertes. [Pour en savoir plus](https://cis.cnrs.fr/science-ouverte-et-societe/)
+
 - Depuis Février 2020  – **Rencontres OpenESR**  – Paris et Webinaire avec HackYourResearch et Inno3 : invitation de différentes personnes impliquées dans les communs et l’open afin de se nourrir de ces expériences pour appréhender l’Enseignement Supérieur et la Recherche de manière plus “ouverte”. [Site web](https://openesr.frama.io/rencontres)
 
 - Juillet 2018 – ESOF 2018 – Toulouse - “Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture” avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
@@ -72,10 +74,13 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ## Conferences
 
+### 2021
+
+- Janvier 2021 - **La réflexion éthique au regard de l'exercice de la responsabilité de la recherche et de l'innovation** - Paris - Table ronde avec Ghislaine Filliatreau, Michel Puech et animée par Isabelle Rémy Jouet lors de la journée "Pour une recherche et une innovation responsables". [Vidéo en ligne à 5:00:32](https://www.youtube.com/watch?v=2um7UUfpfqs&feature=youtu.be)
 
 ### 2020
 
-- Ocotbre 2020 - **Science ouverte et décolonialisation des savoirs** - Webinaire UNESCO avec Florence Piron, Jean-Baptise Godrie, François-Xavier de Vaujany.
+- Octobre 2020 - **Science ouverte et décolonialisation des savoirs** - Webinaire UNESCO avec Florence Piron, Jean-Baptiste Godrie, François-Xavier de Vaujany. [Video en ligne](https://www.youtube.com/watch?v=54HNT_uPtak&feature=youtu.be)
 
 - Octobre 2020 - **Au delà de l'Open Science Open ESR** - Webinaire "Des sciences ouvertes à l'université ouverte" - Research Group on Collaborative Spaces.
 
@@ -85,7 +90,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### 2019
 
-- Novembre 2019 - Colloque GIS Démocratie & Participation - Paris - **« Atelier : méthodologies d’analyse des dynamiques consultatives/participatives en ligne»**.
+- Novembre 2019 - Colloque GIS Démocratie & Participation - Paris - **« Atelier : méthodologies d’analyse des dynamiques consultatives/participatives en ligne»**. Article disponible sur [HAL](https://halshs.archives-ouvertes.fr/hal-02889897)
 
 - Juin 2019 - Colloque QPES 2019 « (Faire) coopérer pour (faire) apprendre ?» - Brest - Conférence plénière : **L’ère du «co» et de l’open : entre solutions concrètes et imaginaires numériques**. Vidéo [ici](https://www.youtube.com/watch?v=tb8bnYBQ22s&t=1098s)
 
