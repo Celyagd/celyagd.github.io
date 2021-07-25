@@ -35,11 +35,11 @@ En 2020, HackYourPhD est devenu [HackYourResearch](http://hyr.science/) pour plu
 
 HackYourResearch :
 
-- partage des  **actualités sur l'open science, l'Enseignement Supérieur et la Recherche** par le biais d'une veille collaborative sur les réseaux sociaux, principalement [Facebook](https://www.facebook.com/groups/hackyourresearch/) et [Twitter](https://twitter.com/hackresearch) ;
+- partager des  **actualités sur l'open science, l'Enseignement Supérieur et la Recherche** par le biais d'une veille collaborative sur les réseaux sociaux, principalement [Facebook](https://www.facebook.com/groups/hackyourresearch/) et [Twitter](https://twitter.com/hackresearch) ;
 
-- organise **des évènements** en France, notamment des ateliers introductifs et des débats sur l'*open science* (cf. notre page événement en [français](http://hackyourphd.org/evenements/) et en [anglais](http://hackyourphd.org/en/event/)). Nous avons mené des **ateliers de formation au code** (python) [Open Geek](https://github.com/HackYourResearch/ateliers-open-geek). Depuis 2020, nous organisons les [rencontres OpenESR](https://openesr.frama.io/rencontres) avec inno3.
+- organiser **des évènements** en France, notamment des ateliers introductifs et des débats sur l'*open science* (cf. notre page événement en [français](http://hackyourphd.org/evenements/) et en [anglais](http://hackyourphd.org/en/event/)). Nous avons mené des **ateliers de formation au code** (python) [Open Geek](https://github.com/HackYourResearch/ateliers-open-geek)
 
-- produit des **contenus en ligne** pour faire découvrir différentes facettes de l'*open science* et les différents profils qui y participent. Le blog HackYourResearch contient divers articles, interviews mais aussi des formats plus originaux pour communiquer à ce sujet (e.g. [flyers](http://hackyourphd.org/en/flyers/)), [ebook](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf). Nous avons interviewé plus d'une soixantaine de personnes dont les propos sont disponibles sur [Archive.org](https://archive.org/details/@hackyourphd)
+- produire des **contenus en ligne** pour faire découvrir différentes facettes de l'*open science* et les différents profils qui y participent. Le blog HackYourResearch contient divers articles, interviews mais aussi des formats plus originaux pour communiquer à ce sujet (e.g. [flyers](http://hackyourphd.org/en/flyers/)), [ebook](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf). Nous avons interviewé plus d'une soixantaine de personnes dont les propos sont disponibles sur [Archive.org](https://archive.org/details/@hackyourphd)
 
 <figure>
     <a href="logo-hyr.jpg"><img src="logo-hyr.jpg"></a>
@@ -47,7 +47,14 @@ HackYourResearch :
 
 ### Quelques évènements et ateliers organisés
 
+- 2021 [Remix ta thèse : des souris et des profs](https://openlaw.fr/blog/retour-sur-latelier-2040-des-souris-et-des-profs)
+
+- 2021 [Participation au GT Science Ouverte & Société du CIS (Centre Internet & Société)](https://cis.cnrs.fr/science-ouverte-et-societe/)
+
+- 2020 [Participation à la rédaction du mémorandum Covid-19 : pour du libre et de l'open en conscience](https://covid19-open.frama.io/memo/)
+
 - 2020 [Sprint de traduction collaborative](https://hyr.science/2020/05/26-06-20-nouvelle-date-et-nouveau-format-100-en-ligne-pour-le-sprint-dedition-et-de-traduction-collaborative-science-ouverte/) avec l'URFIST de Bordeaux
+
 - De 2015 à 2017 : [Ateliers Open Geek](http://hackyourphd.org/ateliers-open-geek/) .
 - En décembre 2015 [Hackathon HackRepNum 2015](http://hackyourphd.org/2015/11/hackrepnum-un-hackathon-recherche-autour-de-la-loi-sur-le-numerique-samedi-12-decembre-a-la-paillasse/)
 
@@ -57,7 +64,7 @@ Depuis 2013, donner la parole à celles et ceux qui participent à façonner le 
 
 ### OpenESR <a name="openESR"></a>
 
-Depuis 2020, avec inno3 et HackYourResearch, nous avons initié un temps d'échange (webinaires). L'objectif est d'inviter différentes personnes impliquées dans des projets sur les communs et l'_open_ (au sein de la recherche ou en dehors) afin d'apprendre de ces expériences et porter un regard réflexif sur ce que "pourrait être" l'enseignement supérieur et la recherche aujourd'hui.
+En 2020, avec inno3 et HackYourResearch, un temps d'échange (webinaires) a été initié. L'objectif était d'inviter différentes personnes impliquées dans des projets sur les communs et l'_open_ (au sein de la recherche ou en dehors) afin d'apprendre de ces expériences et porter un regard réflexif sur ce que "pourrait être" l'enseignement supérieur et la recherche aujourd'hui.
 Le [site OpenESR](https://openesr.frama.io/rencontres) est dédié à ces rencontres.
 
 <figure>
@@ -66,7 +73,7 @@ Le [site OpenESR](https://openesr.frama.io/rencontres) est dédié à ces rencon
 
 ### HackYourPhD USA et Québec (2013-2015)
 
-Avec HackYourPhD, avant le début de mon doctorat, j'avais débuté une première exploration de la thématique *Open Science* / Science ouverte [au Québec](http://hackyourphd-quebec.strikingly.com/) puis aux Etats-Unis. Durant l'été 2013, j'ai réalisé un grand tour des USA pour rencontrer des acteurs clefs de l'*Open Science* et mieux comprendre les racines de ce mouvement. Ce projet [HackYourPhD aux States](http://hackyourphd-aux-states.strikingly.com/) a été financé par une campagne de financement participatif (*crowdfunding)*.
+Avec HackYourPhD, avant le début de mon doctorat, j'avais débuté une première exploration de la thématique *Open Science* / Science ouverte [au Québec](http://hackyourphd-quebec.strikingly.com/) puis aux Etats-Unis. Durant l'été 2013, j'ai réalisé un grand tour des USA pour rencontrer des acteurs clefs de l'*Open Science* et mieux comprendre les racines de ce mouvement. Ce projet [HackYourPhD aux States](http://hackyourphd-aux-states.strikingly.com/) a été financé par une campagne de financement participatif (*crowdfunding)*.
 
 #### Livre : Portraits de jeunes chercheurs de la génération #OpenScience (2015)
 
@@ -74,7 +81,7 @@ Un livre a été publié en ligne suite au voyage HackYourPhDUSA. Il est disponi
 
 #### Interviews _Open Science_
 
-Découvrez plus de 80 interviews sur le profil HackYourPhD d'[archive.org](https://archive.org/hackyourphd)
+Découvrez plus de 80 interviews sur le profil HackYourPhD d'[archive.org](https://archive.org/hackyourphd)
 
 ## Inno3 (2020-...) <a name="inno3"></a>
 
@@ -107,8 +114,6 @@ HackYourResearch :
 
 - organises **events** in France, including introductory workshops and debates on *open science* (see our events page in [French](http://hackyourphd.org/evenements/) and [English](http://hackyourphd.org/en/event/)). We have conducted **code** (python) training workshops [Open Geek](https://github.com/HackYourResearch/ateliers-open-geek)
 
-. Since 2020, we organize the [OpenESR meetings](https://openesr.frama.io/rencontres) with inno3.
-
 - produces **online content** to help people discover different aspects of *open science* and the different people involved. The HackYourResearch blog contains various articles, interviews but also more original formats to communicate on this subject (e.g. [flyers](http://hackyourphd.org/en/flyers/)), [ebook](http://hackyourphd.org/wp-content/uploads/2016/04/Ebook_Final_VF_LD.pdf). We have interviewed more than 60 people whose comments are available on [Archive.org](https://archive.org/details/@hackyourphd).
 
 <Figure>
@@ -116,6 +121,13 @@ HackYourResearch :
 </Figure>
 
 ### Some organized events and workshops
+
+
+- 2021 [Remix ta thèse : des souris et des profs](https://openlaw.fr/blog/retour-sur-latelier-2040-des-souris-et-des-profs)
+
+- 2021 [Coordination of the working group Society & Open Science at the Center for Internet & Society](https://cis.cnrs.fr/science-ouverte-et-societe/)
+
+- 2020 [Participation in the writing of the mémorandum Covid-19 : for openness with awareness](https://covid19-open.frama.io/memo/)
 
 - 2020 [Collaborative translation sprint](https://hyr.science/2020/05/26-06-20-nouvelle-date-et-nouveau-format-100-en-ligne-pour-le-sprint-dedition-et-de-traduction-collaborative-science-ouverte/) with the URFIST of Bordeaux
 - From 2015 to 2017: [Open Geek Workshops](http://hackyourphd.org/ateliers-open-geek/).
@@ -127,7 +139,7 @@ Since 2013, giving a voice to those involved in building the knowledge regime in
 
 ### OpenESR <a name="openESR"></a>
 
-Since 2020, with inno3 and HackYourResearch, we have initiated an exchange session (webinars). The aim is to invite different people involved in projects on commons and _open_ (within or outside research) to learn from these experiences and take a reflexive look at what "could be" higher education and research today.
+In 2020, with inno3 and HackYourResearch, we have initiated an exchange session (webinars). The aim was to invite different people involved in projects on commons and _open_ (within or outside research) to learn from these experiences and take a reflexive look at what "could be" higher education and research today.
 The [OpenESR website](https://openesr.frama.io/rencontres) is dedicated to these meetings.
 
 ### HackYourPhD USA and Quebec (2013-2015)
