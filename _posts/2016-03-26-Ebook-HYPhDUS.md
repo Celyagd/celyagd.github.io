@@ -43,7 +43,7 @@ Mathieu Rouault, créateur de @docteo_net et @speak_science et co-fondateur de @
 
 Ce livre a été rédigé majoritairement par Célya Gruson-Daniel avec l’aide de précieux relecteurs/relectrices (Mathieu Rouault, Elyane Daniel). La mise en page a été faite par Jean-François Cauche puis par Raphaël Himpe, collaborateur de BStream, sous la coordination de Amaury Van Espen. Raphael a également ajouté l’ensemble du graphisme.
 
-Les photos ont été prises par Célya Gruson-Daniel, à part la photo de couverture qui a été prise par Anthony Delanoix. La traduction en anglais a été réalisée par François-Asperti Boursin, Rodrigue Asseu.
+Les photos ont été prises par Célya Gruson-Daniel, à part la photo de couverture qui a été prise par Anthony Delanoix.La traduction en anglais a été réalisée par François-Asperti Boursin, Rodrigue Asseu.
 Les photos et l’ensemble du contenu de l’ebook sous sous licence Creative Commons CC-BY-SA.
 
 

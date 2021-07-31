@@ -16,17 +16,11 @@ Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Wh
 
 ## Publications
 
-### PhD
-
-Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris. Open Access on [Zenodo](https://zenodo.org/record/1491292) licence CC-BY-SA. Chapitres accessibles à la lecture sur [pubpub](https://phd-cgd.pubpub.org/chapters)
-
-
 ### Journal and conferences papers
 
-- Bafeta, Aïda, Jason Bobe, Jon Clucas, Pattie Pramila Gonsalves, Célya Gruson-Daniel, Kathy L. Hudson, Arno Klein, et al. (2020). “Ten Simple Rules for Open Human Health Research.” PLOS Computational Biology 16 (9): e1007846. https://doi.org/10.1371/journal.pcbi.1007846.
+- Bafeta, Aïda, Jason Bobe, Jon Clucas, Pattie Pramila Gonsalves, Célya Gruson-Daniel, Kathy L. Hudson, Arno Klein, et al. (2020). “Ten Simple Rules for Open Human Health Research.” PLOS Computational Biology 16 (9): e1007846. Open Access on [https://doi.org/10.1371/journal.pcbi.1007846](https://doi.org/10.1371/journal.pcbi.1007846) licence CC-BY
 
-
--  Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. European MOOCs Stakeholders Summit. pdf on [ArXiv](https://arxiv.org/pdf/1907.04723.pdf)
+-  Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. European MOOCs Stakeholders Summit. Pdf on [ArXiv](https://arxiv.org/pdf/1907.04723.pdf)
 
 - Gruson-Daniel Célya & De Quatrebarbes Constance (2018). « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. Open Access on  [Zenodo](https://zenodo.org/record/2538772#.XE1z9M9KiAx) licence CC-BY-SA
 
@@ -36,7 +30,18 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Aïm Olivier, Depoux Anneliese & Gruson-Daniel Célya (2014) « A la conquête d’un contrat de communication : dans la fabrique d’un MOOC », présenté à la conférence JOCAIR ==> [acte colloque](http://eda.shs.univ-paris5.fr/jocair_2014/AIM_jocair14.pdf)
 
+### Report 
+
+- Gruson-Daniel, Célya, and Benjamin Jean (2021) “Étude Relative à l’ouverture Des Codes Sources Au Sein de l’Enseignement Supérieur et de La Recherche (ESR) : Considérations En Termes d’usage et de Valeur.” Research Report. INNO3 ; Etalab ; Comité pour la Science Ouverte. On  [HAL](https://hal.archives-ouvertes.fr/hal-03125456)
+
+
+### PhD
+
+Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des savoirs en~action : l’open en sciences. Le cas de la consultation « République numérique » (2015). Université Paris Descartes, Paris. Open Access on [Zenodo](https://zenodo.org/record/1491292) licence CC-BY-SA. Chapitres accessibles à la lecture sur [pubpub](https://phd-cgd.pubpub.org/chapters)
+
 ### Opinion Papers (Press)
+
+- Janvier 2021 - Synthèse et mise en perspective sur le rapport "Bothorel" relatif à la politique publique de la donnée, des algorithmes et des codes sources. Trois billet [présentation générale du rapport](https://inno3.fr/actualite/mission-bothorel-rapport-sur-louverture-des-donnees-et-des-codes-sources-synthese-et-mise), [communautés et écosystèmes](https://inno3.fr/actualite/lenjeu-des-modeles-ouverts-et-collaboratifs-approche-ecosystemique-quest-ce-que-soutenir), [spécificités ESR](https://inno3.fr/actualite/ouverture-des-donnees-et-des-codes-sources-pour-lenseignement-superieur-et-la-recherche)
 
 - Avril 2020 - Mémorandum Covid-19 pour du libre et de l’open en conscience : enseignements et impulsions futures. Coordination de l'initiative avec une quinzaine d'autres acteurs du libre, de l'*open* et des communs. [Site web](https://covid19-open.frama.io/memo/)
 
@@ -48,9 +53,10 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ### Research Project Proposals
 
-- EXploring Collective Care in Research: A pilot-study with PhD Students (#ExCCiR-PhD) (2019). Proposal for the CRI Research Fellowship Open Health. Open Access on [Zenodo](https://zenodo.org/record/2571546) licence CC-BY-SA
+- 2019 - ... Dossier R&D CIR 
 
-- Dossier R&D Inno3 CIR (2020)
+- 2019 - EXploring Collective Care in Research: A pilot-study with PhD Students (#ExCCiR-PhD) (2019). Proposal for the CRI Research Fellowship Open Health. Open Access on [Zenodo](https://zenodo.org/record/2571546) licence CC-BY-S
+
 
 ### Books contribution
 
@@ -64,17 +70,27 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 ## Scientific events organization
 
+- De Novembre 2020 à Mai 2021 - **coordination des ateliers juridiques science ouverte (AJSO)** - En ligne -  dans le cadre de la mission "réussir l'appropriation de la science ouverte" (CoSO et Université de Paris) avec Juliette Hueber (INHA, InViSU/CNRS) et Lionel Maurel (InSHS/CNRS)
+
 - Depuis Septembre 2020 - **Groupe de Travail Science Ouverte & Société** du Centre Internet et Société - Paris et webinaire en ligne :  En s’intéressant à d’autres mouvements – le care, les épistémologies décoloniales, l’éducation populaire, l’économie sociale et solidaire, les communs, etc. – ce groupe souhaite mettre en dialogue la diversité des formes d’ouverture de la science, que ce soit dans l’accès aux ressources, l’organisation des activités de recherche, la construction de démarches et de postures – individuelle et collective – de recherche, la valorisation et les échanges (marchands-non marchands) de connaissances ou encore l’appropriation et réutilisation de productions ouvertes. [Pour en savoir plus](https://cis.cnrs.fr/science-ouverte-et-societe/)
 
-- Depuis Février 2020  – **Rencontres OpenESR**  – Paris et Webinaire avec HackYourResearch et Inno3 : invitation de différentes personnes impliquées dans les communs et l’open afin de se nourrir de ces expériences pour appréhender l’Enseignement Supérieur et la Recherche de manière plus “ouverte”. [Site web](https://openesr.frama.io/rencontres)
+- Février 2020 - Septembre 2020  – **Rencontres OpenESR**  – Paris et Webinaire avec HackYourResearch et Inno3 : invitation de différentes personnes impliquées dans les communs et l’open afin de se nourrir de ces expériences pour appréhender l’Enseignement Supérieur et la Recherche de manière plus “ouverte”. [Site web](https://openesr.frama.io/rencontres)
 
-- Juillet 2018 – ESOF 2018 – Toulouse - “Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture” avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
+- Juillet 2018 –  **“Soft hacking Science: Learning from success and failure at the intersection between research and hacker / maker culture”** - ESOF 2018 - Toulouse - avec HackYourPhD, Epidemium, La Paillasse, DIY Science Podcast, Institut Pasteur, Vulca European Program, RFFLabs.
 
-- Décembre 2016 – Hackathon Recherche République Numérique #HackRepNum – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
+- Décembre 2016 – **Hackathon Recherche République Numérique #HackRepNum** – Paris - en partenariat avec April, CNNum, Etalab, CorTexT (IFRIS), HackYourPhD, LaPaillasse, OpenLaw, Without Model, Vecam.
 
 ## Conferences
 
 ### 2021
+
+- Juin 2021 - **Enquêter sur la science ouverte : regard réflexif sur la construction individuelle et collective d’une posture de recherche.** - En ligne - Conférence [Open Science Practices](https://opensp.sciencesconf.org/) : étudier les pratiques numériques au sein des communautés scientifiques
+
+- Juin 2021 - **Makers et open science** - En ligne - Le Conseil Scientifique invite.. rencontre du RFFLab - Présentation avec Alexandre Hanud Abdo, Benjamin Jean et Matei Gheorghiu (animation)
+
+- Juin 2021 - **Science ouverte : une diversité de pratiques à reconnaitre et à explorer** - En ligne - Science ouverte à la Faculté des Sciences et de l'Ingénierie de Sorbonne Université
+
+- Février 2021 - **Webinar Open Science and Open Source** - [EOLE 2020](http://eolevent.eu/) European OpenSource & Free Software Law Event - Animation of the webinar
 
 - Janvier 2021 - **La réflexion éthique au regard de l'exercice de la responsabilité de la recherche et de l'innovation** - Paris - Table ronde avec Ghislaine Filliatreau, Michel Puech et animée par Isabelle Rémy Jouet lors de la journée "Pour une recherche et une innovation responsables". [Vidéo en ligne à 5:00:32](https://www.youtube.com/watch?v=2um7UUfpfqs&feature=youtu.be)
 
@@ -104,6 +120,8 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 ### 2017
 
+- Décembre 2017 - Paris - **Séminaire Transnum #2 : Les savoirs techniques du doctorant : légitimité et valorisation** organisé par Guillaume Heuguet, Samuel Goyet et Pauline Brouard. Titre de la présentation «HackYourPhD et explorations numériques en recherche». Résumé des échanges en ligne : [https://semidocnum.hypotheses.org/date/2017/12](https://semidocnum.hypotheses.org/date/2017/12)
+
 - Septembre 2017 - Colloque « Sociologie & Sociétés : retour critique sur les sociologies numériques » - Lausanne - **Du hack et des sprints en sociologie(s) : des tensions aux intermédiations en contexte numérique** avec Constance de Quatrebarbes ==> [diapos](https://gitpitch.com/celyagd/S2_hack)
 
 - Mai 2017 - Journée d'étude « chiffres privés, chiffres publics : calculs, comptabilités et statistiques XVII-XXIè siècle » - Paris- **L'ouverture des données de santé : une entrée par les acteurs** avec François Briatte ==> [diapos](https://gitpitch.com/celyagd/ODS)
@@ -122,6 +140,8 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 - Juillet 2016 - **AISLF 2016 - Montréal - Émergence et recomposition de figures d’acteurs de la recherche en santé avec le numérique.** *Analyse du profil des participant(e)s du MOOC « Numérique et recherche en santé et sciences du vivant »*  session CR29 : sociologie de la science et de l'innovation technologique, avec Florence Millerand et Florence Piron
 
+- Juin 2016 - **Conférence-Débat : LabCMO - Québec/ Montréal - La "science ouverte juste" comme outils d'empowerment et de justice cognitive en Haïti et en Afrique francophone : présentation du projet SOHA.** avec Florence Piron, Thomas Hervé Mboa Nkoudou, et Hamissou Rhissa Achaffert ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/161-conference-debat-la-science-ouverte-juste-comme-outil-d-empowerment-et-de-justice-cognitive-en-haiti-et-en-afrique-francophone-presentation-du-projet-soha)
+
 - Mai 2016 - **ACFAS 2016 - Montréal - Enjeux méthodologiques de la recherche sur les usages d’ Internet et des technologies numériques.** [Retour d’expérience sur le Hackathon Recherche République Numérique : méthodes numériques développées autour des données (data) de la consultation sur le projet de loi numérique en France](http://www.acfas.ca/evenements/congres/programme/84/400/456/c), présentation proposée avec Constance de Quatrebarbes
 
 - Mars 2016 - **Journée doctorale COSTECH - Compiègne - Présentation projet de thèse.** (discutant Jérôme Valluy)
@@ -139,7 +159,7 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 - Mai 2013 - **ACFAS 2013 - Québec - Hack your Phd : une communauté forte regroupée autour de la science ouverte.** session : [La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
 
 
-## Presentations (invitations)
+## Presentations "Grand Public (invitations)
 
 *Presentations for trainings, workshops, roundtables, etc. about research/higher education and digital technologies (Open Science, MOOC, etc)*
 
@@ -149,8 +169,6 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 ### 2017
 
-- Décembre 2017 - Paris - **Séminaire Transnum #2 : Les savoirs techniques du doctorant : légitimité et valorisation** organisé par Guillaume Heuguet, Samuel Goyet et Pauline Brouard. Titre de la présentation «HackYourPhD et explorations numériques en recherche». Résumé des échanges en ligne : [https://semidocnum.hypotheses.org/date/2017/12](https://semidocnum.hypotheses.org/date/2017/12)
-
 - Mars 2017 - Avignon - **Café Sciences citoyennes - Open Access** organisé par l'INRA Avignon en partenariat avec l'association Sciences Citoyennes
 
 ### 2016
@@ -159,7 +177,6 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 
 - Juillet 2016 - **Nuit de la sociologie, AISLF 2016 - Montréal - Recherche, échange, partage : instants capturés du quotidien numérique d’une doctorante.**
 
-- Juin 2016 - **Conférence-Débat : LabCMO - Québec/ Montréal - La "science ouverte juste" comme outils d'empowerment et de justice cognitive en Haïti et en Afrique francophone : présentation du projet SOHA.** avec Florence Piron, Thomas Hervé Mboa Nkoudou, et Hamissou Rhissa Achaffert ==> Présentation en ligne sur le site du [LabCMO](http://cmo.uqam.ca/index.php/78-labcmo/161-conference-debat-la-science-ouverte-juste-comme-outil-d-empowerment-et-de-justice-cognitive-en-haiti-et-en-afrique-francophone-presentation-du-projet-soha)
 
 - Février 2016 - **FORMATIC SANTÉ 2016 - Paris - L'exemple du MOOC « Numérique et Recherche en Santé.»** ==> [vidéo](https://www.canal-u.tv/video/canal_u_medecine/formaticsante_2016_l_exemple_du_mooc_numerique_et_recherche_en_sante.20738)
 
