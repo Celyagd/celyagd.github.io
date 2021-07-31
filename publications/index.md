@@ -64,7 +64,7 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 
 - Gruson-Daniel, Célya. (2018). “Les outils numériques d’enquête.” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, (ESBC). Éditions science et bien commun. [Chapitre en libre accès](https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-denquete/).
 
-- Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données]((http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
+- Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données](http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
 
 - Gruson-Daniel Célya (2014). « Open Science : cartographie et entretiens », in Benyayer Louis-David (dir.), [OpenModels : Les business Models de l'économie ouverte](http://openmodels.fr/fr/pages/181/). Without Model. p.181-201
 
@@ -159,7 +159,7 @@ zzzzz- PhD writing - zzzz (alone on my sofa...)
 - Mai 2013 - **ACFAS 2013 - Québec - Hack your Phd : une communauté forte regroupée autour de la science ouverte.** session : [La révolution de la science ouverte et de l'accès libre. État des débats et des enjeux.](http://www.acfas.ca/evenements/congres/programme/81/600/49/c)"
 
 
-## Presentations "Grand Public (invitations)
+## Presentations "Grand Public" (invitations)
 
 *Presentations for trainings, workshops, roundtables, etc. about research/higher education and digital technologies (Open Science, MOOC, etc)*
 

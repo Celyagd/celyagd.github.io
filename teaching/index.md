@@ -16,7 +16,13 @@ image:
 
 ### Français <a name="français"></a>
 
-- Javnier 2020 - **Digital Research in Science and Society (DRISS) : open and data science into practice for your PhD** au [CRI](https://phd.cri-paris.org/en/phd-program) pour les doctorant.e.s
+- Juin 2021 - **Publications scientifiques et open access : des enjeux au-delà de l’accès** DU [Scientific Data Management](https://sdm.edu.umontpellier.fr/s) à l'Université de Montpellier. 
+
+- March 2021 - **The “open science” factory : some pointers for navigating public research policies** CARA course au [CRI](https://phd.cri-paris.org/en/phd-program) pour les doctorant.e.s.
+
+- Février 2021 - **Adapt your PhD project to open science and data science principles** au [CRI](https://phd.cri-paris.org/en/phd-program) pour les doctorant.e.s.
+
+- Javnier 2020 - **Digital Research in Science and Society (DRISS) : open and data science into practice for your PhD** au [CRI](https://phd.cri-paris.org/en/phd-program) pour les doctorant.e.s.
 
 - Octobre 2019 - **Introduction à votre environnement numérique de recherche** avec DRISS pour l'URFIST de Lyon.
 
@@ -40,6 +46,13 @@ image:
 
 
 ### English <a name="english"></a>
+
+
+- June 2021 - **Scientific publications and open access: issues beyond access** DU [Scientific Data Management](https://sdm.edu.umontpellier.fr/s) at the University of Montpellier. 
+
+- March 2021 - **The "open science" factory : some pointers for navigating public research policies** CARA course at [CRI](https://phd.cri-paris.org/en/phd-program) for PhD students.
+
+- February 2021 - **Adapt your PhD project to open science and data science principles** at [CRI](https://phd.cri-paris.org/en/phd-program) for PhD students.
 
 - Javnier 2020 - **Digital Research in Science and Society (DRISS) : open and data science into practice for your PhD** at the [CRI](https://phd.cri-paris.org/en/phd-program) for the PhD Students
 

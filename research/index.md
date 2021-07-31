@@ -65,18 +65,18 @@ Suivi de ma recherche doctorale (thèse soutenue le 15 Novembre 2018) portant su
 
 ### Recherches post-doctorales
 
-- 2021 : [APIToS : towards a Creative Commons Model for APIToS](https://inno3.fr/actualite/api-terms-service-vers-un-modele-creative-commons) ( [Digital Infrastructure Research 2020](https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/) laureate of Ford Foundation, Sloan Foundation). 
-- 2020-20211 : [Réussir l'appropriation de la science ouverte](https://www.ouvrirlascience.fr/reussir-lappropriation-de-la-science-ouverte/) commandité par le CoSO (Comité pour la Science Ouverte) et l'Université de Paris. 
+- 2021 : [APIToS : towards a Creative Commons Model for APIToS](https://inno3.fr/actualite/api-terms-service-vers-un-modele-creative-commons) ( [Digital Infrastructure Research 2020](https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/) laureate of Ford Foundation, Sloan Foundation. 
+- 2020-2021 : [Réussir l'appropriation de la science ouverte](https://www.ouvrirlascience.fr/reussir-lappropriation-de-la-science-ouverte/) commandité par le CoSO (Comité pour la Science Ouverte) et l'Université de Paris. 
+- 2020-... - Groupe de travail [Science ouverte & société](https://cis.cnrs.fr/science-ouverte-et-societe/) du Centre Internet et Société : coordination du groupe de travail avec Nicolas Loubet et Jean-Baptiste Sherrer.
 - 2020-... Développement de la recherche-action au sein Inno^3 (CIR) : open source, open infrastructure et open science : prototypage et implémentation de "modèles ouverts soutenables"
-- 2020-2021 - [OpenESR](https://openesr.frama.io/rencontres) (en cours) : regards réflexifs sur l'implémentation de modèles ouverts dans l'enseignement surpérieur et la recherche avec Inno3 et HackYourResearch
-- 2020-2021 - Groupe de travail [Science ouverte & société](https://cis.cnrs.fr/science-ouverte-et-societe/) du Centre Internet et Société : coordination du groupe de travail avec Nicolas Loubet et Jean-Baptiste Sherrer.
+- 2020-2021 - [OpenESR](https://openesr.frama.io/rencontres) : regards réflexifs sur l'implémentation de modèles ouverts dans l'enseignement surpérieur et la recherche avec Inno3 et HackYourResearch
 - 2020 - "Est-il sage d'être bien ?" (en cours): questionner les pratiques "bien-être" au prisme des sciences cognitives et de la philosophie avec l'Ancre des Savoirs
 - 2019 - Ethique du care au sein de la recherche et bien-être en doctorat : [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
 - 2019 - [CivicTech en Société](http://ifris.org/appel/civictech-en-societe-citechsoc-pour-lexploration-pluraliste-des-debats-numeriques/)  : pour une exploration pluraliste des débats numériques avec DRISS et l'IFRIS (Marc Barbier et Constance de Quatrebarbes)
 
 ### Méthodes numériques et réflexivité en recherche :
 
-- Développement de méthodes mixtes dans les projets de recherche : utilisation d'analyse de réseaux, de méthodes quantitatives pour "outiller" un regard ethnographique ancrée dans les principes de la théorisation ancrée. 
+- Développement de méthodes mixtes dans les projets de recherche : utilisation d'analyse de réseaux, de méthodes quantitatives pour "outiller" un regard ethnographique ancré dans les principes de la théorisation ancrée. 
 
 - Réflexion sur les postures de recherche, leurs évolutions : vision d'une science ouverte comme fondement éthique d'une posture de recherche. 
 
@@ -146,11 +146,11 @@ My PhD research was about the evolution of the conception of "Science" today but
 
 ### Post-Doctoral research explorations
 
-- 2021 : [APIToS : towards a Creative Commons Model for APIToS](https://inno3.fr/actualite/api-terms-service-vers-un-modele-creative-commons) ( [Digital Infrastructure Research 2020](https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/) laureate from Ford Foundation, Sloan Foundation). 
+- 2021 : [APIToS : towards a Creative Commons Model for APIToS](https://inno3.fr/actualite/api-terms-service-vers-un-modele-creative-commons) ( [Digital Infrastructure Research 2020](https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/) laureate from Ford Foundation, Sloan Foundation 
 - 2020-20211 : [Réussir l'appropriation de la science ouverte](https://www.ouvrirlascience.fr/reussir-lappropriation-de-la-science-ouverte/) for the le CoSO (Comité pour la Science Ouverte) and Université de Paris. 
-- Action-research (CIR) (ongoing): open source, open infrastructure et open science : design and implementation of "open and sustainable models"
-- 2020-2021 - [OpenESR](https://openesr.frama.io/rencontres) (ongoing) : reflexive views on the implementation of open models in higher education and research with Inno3 and HackYourResearch
-- 2020-2021 - Working Group [Open Science & Society](https://cis.cnrs.fr/science-ouverte-et-societe/) of the Internet & Society Center : coordination with Nicolas Loubet and Jean-Baptiste Sherrer.
+- 2020-... - Working Group [Open Science & Society](https://cis.cnrs.fr/science-ouverte-et-societe/) of the Internet & Society Center : coordination with Nicolas Loubet and Jean-Baptiste Sherrer.
+- 2020-... - Action-research (CIR) (ongoing): open source, open infrastructure et open science : design and implementation of "open and sustainable models"
+- 2020-2021 - [OpenESR](https://openesr.frama.io/rencontres) : reflexive views on the implementation of open models in higher education and research with Inno3 and HackYourResearch
 - 2020 - "Is it wise to be well?" (in progress): questioning "well-being" practices through the prism of cognitive sciences and philosophy with the Anchor of Knowledge.
 - 2019 - Ethics of care in doctoral research and well-being: [Exploring Collective Care in Research](https://zenodo.org/record/2571546)
 - 2019 - CivicTech in Society: for a pluralistic exploration of digital debates with DRISS and IFRIS (Marc Barbier and Constance de Quatrebarbes)
