@@ -1,6 +1,6 @@
-Célya Gruson-Daniel's website
+Célya Gruson Daniel's website
 
-##What will you find on this website ?
+## What will you find on this website ?
 
 Informations about :
 
