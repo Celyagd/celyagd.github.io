@@ -1,3 +1,16 @@
+---
+layout: post
+title: "Publication d'une tribune : Modèles ouverts au coeur des enjeux de soutenabilité "
+excerpt: "Tribune en trois parties publiée sur le site d'inno³ à l'occasion de la conférence OSXP en novembre 2022."
+modified:
+tags: [open source, soutenabilité]
+comments: true
+image:
+  feature:
+  credit:
+
+---
+
 # Publication d'une tribune : Modèles ouverts au coeur des enjeux de soutenabilité 
 
 Tribune en trois parties publiée sur le site d'inno³ à l'occasion de la conférence [OSXP](https://www.opensource-experience.com/)
