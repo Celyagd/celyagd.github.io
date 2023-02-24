@@ -31,6 +31,8 @@ J'ai cofondé [HackYourPhD](http://hackyourphd.org/) une communauté *Open Scien
 
 En 2020, HackYourPhD est devenu [HackYourResearch](http://hyr.science/) pour plusieurs raisons. L'_open science_ telle que nous l'explorions à ses débuts a pris un tournant institutionnel à partir de 2018. Les formations et la veille que nous faisions sur les outils numériques, les pratiques à acquérir pour une recherche plus reproductible, de qualité, etc. ont peu à peu été couvertes par les établissements de recherche et les universités. Mais il est apparu que nos questionnements sur l'Enseignement et la Recherche et la manière dont les savoirs sont produits, diffusés, réappropriés restaient toujours d'actualités. C'est pour cela que HackYourResearch est né afin de continuer à proposer un espace d'exploration et d'expérimentation sur nos façons d'éprouver la recherche et nos rapports aux savoirs comme communs.
 
+**Association en dormance à partir de 2021**
+
 ### Nos missions
 
 HackYourResearch :
@@ -105,6 +107,7 @@ I co-founded [HackYourPhD](http://hackyourphd.org/) an *Open Science* community 
 
 In 2020, HackYourPhD became [HackYourResearch](http://hyr.science/) for several reasons. The _open science_ as we initially explored it took an institutional turn in 2018. The training and monitoring that we were doing on digital tools, on the practices to achieve more reproducible, quality research, etc. were gradually covered by research institutions and universities. But it appeared that our questions on Education and Research and the way in which knowledge is produced, disseminated and reappropriated were still relevant. That's why HackYourResearch was born in order to continue to offer a space for exploration and experimentation on our ways of experiencing research and our relationship to knowledge as common.
 
+**Not anymore active since 2021** 
 
 ### Our missions
 
