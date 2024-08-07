@@ -33,12 +33,9 @@ image:
 
 - Par la suite, en tant que praticienne-chercheuse chez Inno³, j'ai continué mes recherches dans une démarche de recherche-action pour éclairer les politiques publiques de science ouverte mises en oeuvre en France actuellement.
 	
-	- J'ai ainsi travaillé dans le cadre d'une étude ["Décliner la science ouverte"](https://declinerso.pubpub.org/), rassemblant une équipe interdisciplinaire, à présenter une diversité de pratiques de partage et d'ouverture des données associées à différents profils types. 
- 
+	- J'ai ainsi travaillé dans le cadre d'une étude ["Décliner la science ouverte"](https://declinerso.pubpub.org/), rassemblant une équipe interdisciplinaire, à présenter une diversité de pratiques de partage et d'ouverture des données associées à différents profils types.
  	- Un autre sujet d'étude a été celui de l'ouverture des codes sources et de leur valorisation en recherche, cela a pris la forme d'une [étude](https://inno3.fr/realisation/etude-opensourceesr/) et de l'organisation [d'ateliers](https://inno3.fr/blog/rencontres-floss_esr/) avec le collège "codes et logiciels" du Comité pour la science ouverte et la DINUM. 
- 
  	- Un dernier axe concernait les enjeux juridiques sur les données et les médiations nécessaires pour faire dialoguer chercheur.e.s, juristes et autres personnels d'appui à la recherche afin de trouver des réponses adaptées au situation quotidienne des professionnel.le.s de la recherche. Les [ateliers AJSO ](https://inno3.fr/blog/ajso-publication-synthese-et-kit/) ont été organisés grâce à l'aide du groupe de travail juridique du Comité pour la science ouverte.
- 
  	- L'ensemble de ces projets ont fait l'objet d'une réflexion sur la démarche de science ouverte à inventer. Dépassant la simple mise en ligne d'article et de données, l'objectif a été de rendre compréhensible les différentes étapes de la recherche notamment dans le versant "construction du raisonnement qualitatif". Un important travail de design et d'éditorialisation a été réalisé pour facilter l'appropriation des ressources donnant lieu à des kit d'appropriation, des sites compagnons de rapport, etc.
 
  	
