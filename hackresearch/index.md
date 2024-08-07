@@ -13,9 +13,6 @@ image:
 *Click ! and go directly to the french or the english version*
 
 1. [Français](#français)
-  - [HackYourResearch](#hackyourphd)
-  - [OpenESR](#openESR)
-  - [Inno3](#inno3)
 2. [English](#english)
 3. [Presentations](#presentations)
 
