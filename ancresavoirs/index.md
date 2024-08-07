@@ -28,6 +28,8 @@ De façon collective et dans une démarche d'expérimentation et d' _open scienc
   - mieux comprendre les effets du Yoga ou d'autres pratiques issues de traditions ancestrales sur nos corps/esprits et les relations qui les articulent (études des états modifiés de consciences, "embodied cognition", neurophénoménologie, etc.) ;
   - questionner l'intégration de ces activités au sein de nos sociétés et ce qu'elles nous apprennent sur leurs évolutions (capitalisme cognitif, modalités de management, etc.).
 
+L'association a ralenti ses activités à partir de 2023.
+
 ### Réalisation
 
 - Mars 2020 - HEC Life Project - Paris - Coordination de la table ronde "Est-il sage d'être bien ? Questionner les pratiques bien-être au prisme des sciences cognitives et de la philosophoe". L'ensemble des interventions ont fait l'objet d'un résumé disponibles sur le site [Ancre des Savoirs](https://ancre-savoirs.pubpub.org/est-il-sage-etre-bien)
@@ -44,6 +46,8 @@ In November 2019, I co-founded the association [Ancre des Savoirs](https://www.h
 In a collective way and in a spirit of experimentation and _open science_ , the objective of this association is to :
   - better understand the effects of Yoga or other practices from ancestral traditions on our bodies/mind and the relationships that articulate them (studies of modified states of consciousness, "embodied cognition", neurophenomenology, etc.) ;
   - questioning the integration of these activities within our societies and what they teach us about their evolution (cognitive capitalism, management modalities, etc.).
+
+The project has slowed down since 2023.
 
 ### Realization
 
