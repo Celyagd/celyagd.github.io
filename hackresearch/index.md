@@ -22,7 +22,7 @@ Cette page récapitule différents projets associatifs et entreprenariaux en cou
 
 Ces projets sont inclus dans des démarches de recherche-action, c'est-à-dire qu'ils s'inscrivent dans l'action, le _hack_ en tant qu'approche de contournement pour tester/expérimenter des modèles alternatifs (_open_, communs) au sein de nos régimes de savoirs tout en s'appuyant sur une approche réflexive et des épistémologies situées.
 
-## Inno3 (2020-...) <a name="inno3"></a>
+## Inno3  <a name="inno3"></a>
 
 En 2019, j'ai rejoint le cabinet de conseil [inno3](https://inno3.fr/) spécialisé en innovation ouverte, _open data_ et _open source_ . Fondé par le juriste Benjamin Jean, nous accompagnons différents acteurs (établissements publics, entreprises, collectivités) à saisir les grands enjeux organisationels, juridiques, techniques qu'implique l'adoption du "numérique" et cela en employant des modèles ouverts et orientés vers la création de communs. J'y mène au côté d'une équipe dynamique des projets de recherche-action ancrés dans les valeurs du libre et des communs.
 
@@ -99,7 +99,7 @@ This page summarizes various associative and entrepreneurial projects in progres
 
 These projects are included in action-research approaches, i.e. they are part of the _hack_ as a counter-action approach to test/experiment alternative models (_open_, common) within our knowledge regimes while relying on a reflexive approach and situated epistemologies.
 
-## Inno3 (2020-...) <a name="inno3"></a>
+## Inno3 <a name="inno3"></a>
 
 In 2019, I joined the consulting firm [inno3](https://inno3.fr/) specialized in open innovation, _open data_ and _open source_ . Founded by the lawyer Benjamin Jean, we help different actors (public institutions, companies, local authorities) to understand the major organizational, legal and technical issues involved in the adoption of "digital" technologies, using open models oriented towards the creation of commons. Alongside a dynamic team, I lead action-research projects grounded in the values of the free software and commons.
 
