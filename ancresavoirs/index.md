@@ -51,4 +51,4 @@ The project has slowed down since 2023.
 
 ### Realization
 
-- March 2020 - HEC Life Project - Paris - Coordination of the round table "Is it wise to be well? Questioning well-being practices through the prism of cognitive sciences and philosophy". A summary of all the presentations is available on the [Ancre des Savoirs] website (https://ancre-savoirs.pubpub.org/est-il-sage-etre-bien).
+- March 2020 - HEC Life Project - Paris - Coordination of the round table "Is it wise to be well? Questioning well-being practices through the prism of cognitive sciences and philosophy". A summary of all the presentations is available on the [Ancre des Savoirs](https://ancre-savoirs.pubpub.org/est-il-sage-etre-bien) website.
