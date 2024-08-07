@@ -16,6 +16,8 @@ image:
 
 ### Français <a name="français"></a>
 
+- Septembre 2023 et 2024 - **Qu’est-ce que l’open access/science ? Un regard sur la fabrique des politiques publiques de la recherche** DU [Scientific Data Management](https://sdm.edu.umontpellier.fr/s) à l'Université de Montpellier. 
+
 - Juin 2021 - **Publications scientifiques et open access : des enjeux au-delà de l’accès** DU [Scientific Data Management](https://sdm.edu.umontpellier.fr/s) à l'Université de Montpellier. 
 
 - March 2021 - **The “open science” factory : some pointers for navigating public research policies** CARA course au [CRI](https://phd.cri-paris.org/en/phd-program) pour les doctorant.e.s.
@@ -47,6 +49,8 @@ image:
 
 ### English <a name="english"></a>
 
+
+- September 2023 et 2024 - **What is open access/science ? A review of the making of public research policies** DU [Scientific Data Management](https://sdm.edu.umontpellier.fr/s) à l'Université de Montpellier. 
 
 - June 2021 - **Scientific publications and open access: issues beyond access** DU [Scientific Data Management](https://sdm.edu.umontpellier.fr/s) at the University of Montpellier. 
 
