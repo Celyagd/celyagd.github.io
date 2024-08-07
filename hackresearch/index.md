@@ -25,6 +25,10 @@ Cette page récapitule différents projets associatifs et entreprenariaux en cou
 
 Ces projets sont inclus dans des démarches de recherche-action, c'est-à-dire qu'ils s'inscrivent dans l'action, le _hack_ en tant qu'approche de contournement pour tester/expérimenter des modèles alternatifs (_open_, communs) au sein de nos régimes de savoirs tout en s'appuyant sur une approche réflexive et des épistémologies situées.
 
+## Inno3 (2020-...) <a name="inno3"></a>
+
+En 2019, j'ai rejoint le cabinet de conseil [inno3](https://inno3.fr/) spécialisé en innovation ouverte, _open data_ et _open source_ . Fondé par le juriste Benjamin Jean, nous accompagnons différents acteurs (établissements publics, entreprises, collectivités) à saisir les grands enjeux organisationels, juridiques, techniques qu'implique l'adoption du "numérique" et cela en employant des modèles ouverts et orientés vers la création de communs. J'y mène au côté d'une équipe dynamique des projets de recherche-action ancrés dans les valeurs du libre et des communs.
+
 ## HackYourPhd -> HackYourResearch <a name="hackyourphd"></a>
 
 J'ai cofondé [HackYourPhD](http://hackyourphd.org/) une communauté *Open Science* en janvier 2013 avec [Guillaume Dumas](http://www.extrospection.eu/) chercheur en sciences cognitives. HackYourPhD s'est structuré en association (loi 1901) en Août 2014 et a proposé pendant plusieurs années une veille à ce sujet, des formations à la programmation pour la recherche.
@@ -85,9 +89,6 @@ Un livre a été publié en ligne suite au voyage HackYourPhDUSA. Il est disponi
 
 Découvrez plus de 80 interviews sur le profil HackYourPhD d'[archive.org](https://archive.org/hackyourphd)
 
-## Inno3 (2020-...) <a name="inno3"></a>
-
-En 2019, j'ai rejoint le cabinet de conseil [inno3](https://inno3.fr/) spécialisé en innovation ouverte, _open data_ et _open source_ . Fondé par le juriste Benjamin Jean, nous accompagnons différents acteurs (établissements publics, entreprises, collectivités) à saisir les grands enjeux organisationels, juridiques, techniques qu'implique l'adoption du "numérique" et cela en employant des modèles ouverts et orientés vers la création de communs. J'y mène au côté d'une équipe dynamique des projets de recherche-action ancrés dans les valeurs du libre et des communs.
 
 ### DRISS : _Digital Research in Science & Society_ (2019-2020)
 
@@ -100,6 +101,10 @@ En 2019, j'ai crée avec Constance de Quatrebarbes une société [DRISS](https:/
 This page summarizes various associative and entrepreneurial projects in progress or already completed in order to explore the scope of higher education and research (HRE), of knowledge production in digitalized societies and subjected to new "enclosures" barriers that are increasingly subtle and that need to be questioned.
 
 These projects are included in action-research approaches, i.e. they are part of the _hack_ as a counter-action approach to test/experiment alternative models (_open_, common) within our knowledge regimes while relying on a reflexive approach and situated epistemologies.
+
+## Inno3 (2020-...) <a name="inno3"></a>
+
+In 2019, I joined the consulting firm [inno3](https://inno3.fr/) specialized in open innovation, _open data_ and _open source_ . Founded by the lawyer Benjamin Jean, we help different actors (public institutions, companies, local authorities) to understand the major organizational, legal and technical issues involved in the adoption of "digital" technologies, using open models oriented towards the creation of commons. Alongside a dynamic team, I lead action-research projects grounded in the values of the free software and commons.
 
 ## HackYourPhd -> HackYourResearch <a name="hackyourphd"></a>
 
@@ -157,9 +162,6 @@ A book has been published online following the HackYourPhDUSA trip. It is availa
 
 Discover more than 80 interviews on the HackYourPhD profile of [archive.org](https://archive.org/hackyourphd)
 
-## Inno3 (2020-...) <a name="inno3"></a>
-
-In 2019, I joined the consulting firm [inno3](https://inno3.fr/) specialized in open innovation, _open data_ and _open source_ . Founded by the lawyer Benjamin Jean, we help different actors (public institutions, companies, local authorities) to understand the major organizational, legal and technical issues involved in the adoption of "digital" technologies, using open models oriented towards the creation of commons. Alongside a dynamic team, I lead action-research projects grounded in the values of the free software and commons.
 
 ### DRISS : Digital Research in Science & Society (2019-2020)
 
