@@ -27,7 +27,7 @@ image:
 
 #### Un engagement dans des projets associatifs et entreprenariaux pour des sociétés numériques durables
 
-- Consultante (praticienne-chercheuse) chez [Inno3](https://inno3.fr/), cabinet de conseil spécialisé en modèles ouverts ( _open data_, _open source_ et _open science_). En charge des projets de recherche (CIR)
+- Consultante et praticienne-chercheuse chez [Inno3](https://inno3.fr/), cabinet de conseil spécialisé en modèles ouverts ( _open data_, _open source_ et _open science_). En charge des projets de recherche (CIR)
 
 - Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) désormais [HackYourResearch](http://www.hyr.science/): groupe de réflexion sur la science ouverte/ _open science_ et la prise en considération des connaissances comme communs. Association en dormance désormais. 
 
