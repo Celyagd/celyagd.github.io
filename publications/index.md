@@ -18,20 +18,27 @@ Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Wh
 
 ### Scientific publications, reports and conference papers
 
-- Mariannig Le Béchec, Célya Gruson-Daniel, Clémence Lascombes, Émilien Schultz. Notebooks et science ouverte : FAIR mieux. 2024. ⟨hal-04485968⟩, 2024  `pre-print`
-- Gruson-Daniel, Célya, Benjamin Jean, Mehdi Medjaoui, et Mark Boyd. « Improving Trustworthy and Sustainability Digital Infrastructures with The Fair API Commitment to Trust Model ». Inno3 ; Les mainteneurs ; Platformable, mai 2023. https://hal.science/hal-04180319  `reports`
+- Le Béchec Mariannig, Gruson-Daniel Célya, Lascombes Clémence, Schultz Émilien. Notebooks et science ouverte : FAIR mieux. 2024. ⟨hal-04485968⟩,   `pre-print`
+- Gruson-Daniel, Célya, Jean Benjamin, Medjaoui Mehdi, Boyd Mark. 2023, « Improving Trustworthy and Sustainability Digital Infrastructures with The Fair API Commitment to Trust Model ». Inno3 ; Les mainteneurs ; Platformable,. https://hal.science/hal-04180319  `reports`
 - Gruson-Daniel, Célya, et Groupe Projet Réussir L’Appropriation De La Science Ouverte. 2022. « Décliner la science ouverte ». Report, Comité pour la science ouverte. https://doi.org/10.52949/27. (synthèse FR : https://hal-lara.archives-ouvertes.fr/hal-0379858 et EN :  https://hal-lara.archives-ouvertes.fr/hal-03800470 et site web : decliner-so.pubpub.org  `reports`
-- Gruson-Daniel, Célya. Enquêter sur la science ouverte : regard réflexif sur la construction individuelle et collective d'une posture de recherche. “Enquêter sur les pratiques numériques au sein des communautés scientifiques: regards sur les outils et les données au prisme de la science ouverte”, Jun 2021, Paris, France. https://halshs.archives-ouvertes.fr/halshs-03764503 `conference papers`
-- Gruson-Daniel, Célya, et Maya Anderson-González. 2021. « Étude exploratoire sur la « recherche sur la recherche » : acteurs et approches ». Report, Comité pour la science ouverte. https://doi.org/10.52949/24 et site web : meta-openresearch.pubpub.org .`reports`
-- Mathieu, Gilles, Dominique Pigeon, Tovo Rabemanantsoa, Christophe Chipeaux, Simon Duvillard, Célya Gruson-Daniel, Marie Emilia Herbet, et al. 2021. « Rapport du groupe de travail sur les cahiers de laboratoires électroniques ». Research Report. Comité pour la science ouverte. https://doi.org/10.52949/3. `reports`
-- Gruson-Daniel, Célya, Maya Anderson-González, et Benjamin Jean. 2021. « “ Démarches ouvertes en recherche-action : retour sur deux enquêtes sur l’open source et l’open science ” ». In “Enquêter sur les pratiques numériques au sein des communautés scientifiques: regards sur les outils et les données au prisme de la science ouverte”. Lyon, France. https://halshs.archives-ouvertes.fr/halshs-03752717. `conference papers`
-- Gruson-Daniel, Célya, and Benjamin Jean. 2021. “Étude Relative à l’ouverture Des Codes Sources Au Sein de l’Enseignement Supérieur et de La Recherche (ESR) : Considérations En Termes d’usage et de Valeur.” Research Report. INNO3 ; Etalab ; Comité pour la Science Ouverte. https://hal.archives-ouvertes.fr/hal-03125456. `reports`
-- Bafeta, Aïda, Jason Bobe, Jon Clucas, Pattie Pramila Gonsalves, Célya Gruson-Daniel, Kathy L. Hudson, Arno Klein, et al. (2020). “Ten Simple Rules for Open Human Health Research.” PLOS Computational Biology 16 (9): e1007846. https://doi.org/10.1371/journal.pcbi.1007846 `articles`
-- Jarboui Firas, Gruson-Daniel Celya and al. (2019). « Markov Decision Process for MOOC users behavioral inference »,. eMOOCs19 `conference papers`
-- Gruson-Daniel Célya & De Quatrebarbes Constance (2018). « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. https://zenodo.org/record/2538772#.XE1z9M9KiAx `articles`
-- Gruson-Daniel Célya (2017). « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11).http://rfsic.revues.org/3214 `articles`
-- Gruson-Daniel, Célya, Olivier Aïm, Karl-William Sherlaw, et Anneliese Depoux. 2019. « Des MOOC aux OC (online courses) : les rhétoriques de l’ouverture ». In Sources ouvertes numériques. Usages éducatifs, enjeux communicationnels. Vol. 39. Questions de communication, série actes 39 / 2019. https://hal.archives-ouvertes.fr/hal-02159698. `conference papers`
+- Gruson-Daniel Célya. 2021. Enquêter sur la science ouverte : regard réflexif sur la construction individuelle et collective d'une posture de recherche. “Enquêter sur les pratiques numériques au sein des communautés scientifiques: regards sur les outils et les données au prisme de la science ouverte” , Paris, France. https://halshs.archives-ouvertes.fr/halshs-03764503 `conference papers`
+- Gruson-Daniel, Célya,, Anderson-González Maya..2021. « Étude exploratoire sur la « recherche sur la recherche » : acteurs et approches ». Report, Comité pour la science ouverte. https://doi.org/10.52949/24 et site web : meta-openresearch.pubpub.org .`reports`
+- Gilles Mathieu, Pigeon Dominique, Rabemanantsoa Tovo, Chipeaux Christophe, Duvillard Simon, Gruson-Daniel Célya, Herbet, Marie Emilia . 2021. « Rapport du groupe de travail sur les cahiers de laboratoires électroniques ». Research Report. Comité pour la science ouverte. https://doi.org/10.52949/3. `reports`
+- Gruson-Daniel, Célya, Anderson-González Maya, Jean Benjamin. 2021. « “ Démarches ouvertes en recherche-action : retour sur deux enquêtes sur l’open source et l’open science ” ». In “Enquêter sur les pratiques numériques au sein des communautés scientifiques: regards sur les outils et les données au prisme de la science ouverte”. Lyon, France. https://halshs.archives-ouvertes.fr/halshs-03752717. `conference papers`
+- Gruson-Daniel, Célya,, Jean Benjamin. 2021. “Étude Relative à l’ouverture Des Codes Sources Au Sein de l’Enseignement Supérieur et de La Recherche (ESR) : Considérations En Termes d’usage et de Valeur.” Research Report. INNO3 ; Etalab ; Comité pour la Science Ouverte. https://hal.archives-ouvertes.fr/hal-03125456. `reports`
+- Bafeta, Aïda, Jason Bobe, Jon Clucas, Pattie Pramila Gonsalves, Célya Gruson-Daniel, Kathy L. Hudson, Arno Klein, et al. 2020.. “Ten Simple Rules for Open Human Health Research.” PLOS Computational Biology 16 (9): e1007846. https://doi.org/10.1371/journal.pcbi.1007846 `articles`
+- Jarboui Firas, Gruson-Daniel Celya and al. 2019. « Markov Decision Process for MOOC users behavioral inference »,. eMOOCs19 `conference papers`
+- Gruson-Daniel Célya, De Quatrebarbes Constance. 2018. « Les préparatifs d’un hackathon recherche : au cœur de la fabrique des données / Hackathons and data sprints in sociology : the invisibilization of data shaping », Sociologie et sociétés. https://zenodo.org/record/2538772#.XE1z9M9KiAx `articles`
+- Gruson-Daniel Célya. 2017 « Open et régime de savoirs en recomposition : le cas de la consultation République Numérique », Revue française des sciences de l’information et de la communication, (11).http://rfsic.revues.org/3214 `articles`
+- Gruson-Daniel, Célya, Aïm Olivier, Sherlaw  Karl-William, Depoux Anneliese. 2019. « Des MOOC aux OC (online courses) : les rhétoriques de l’ouverture ». In Sources ouvertes numériques. Usages éducatifs, enjeux communicationnels. Vol. 39. Questions de communication, série actes 39 / 2019. https://hal.archives-ouvertes.fr/hal-02159698. `conference papers`
 
+### Books contribution
+
+- Gruson-Daniel, Célya. 2023. "Science ouverte: Comment l’exploration des différentes définitions de la science ouverte nous plonge dans les coulisses de la fabrique de la science à l’ère numérique?" In Petit Dico Critique du Big Data, edited by Anais Théviot, 216. FYP Editions. https://boutique.fypeditions.com/products/petit-dico-critique-du-big-data.
+- Gruson-Daniel, Célya. 2018. "Les outils numériques d’analyse de données (logiciels, bases de données)." In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines. ESBC Éditions Science et Bien Commun. https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-de-la-recherche-logiciels-bases-de-donnees/.
+- Gruson-Daniel, Célya. 2018. "Les outils numériques d’enquête." In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines. ESBC Éditions Science et Bien Commun. https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-denquete/.
+- Gruson-Daniel, Célya. 2014. "Open Science ou la Science Ouverte." In Big, Fast & Open Data: Décrire, Décrypter et Prédire le Monde: L’avènement des Données, edited by Yannick Lejeune, 192. FYP Editions. http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees.html.
+- Gruson-Daniel, Célya. 2014. "Open Science: Cartographie et Entretiens." In OpenModels: Les Business Models de l’économie Ouverte, edited by Louis-David Benyayer, 181–201. Without Model. http://www.withoutmodel.com/celya-gruson-daniel/cartographier-lecosyteme-lopen-science-mieux-comprendre-ses-enjeux/.
 
 ### PhD
 
@@ -45,9 +52,9 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 /halshs.archives-ouvertes.fr/hal-02896570
 
 
-### Journal Coordination
+### Editorial Coordination
 
-- Coordination du n°7 « Formes et mouvements politiques à l’ère numérique » avec Clément Mabi pour la revue RESET (Recherches en Sciences sociales sur Internet). Open Access on [RESET](https://journals.openedition.org/reset/1078) licence CC BY-NC-ND
+- Gruson-Daniel, Célya, and Mabi Clément (coord.). 2020. Formes et Mouvements Politiques à l’Ère Numérique. RESET, n°7. https://journals.openedition.org/reset/1078.
 
 ### Innovation and Research Project Proposals
 
@@ -57,14 +64,6 @@ Gruson-Daniel Célya (15 Novembre 2018). Numérique et régime français des sav
 - 2019 - [Digital Infrastructure Insights](https://opencollective.com/di-grants) Grant with the APIToSCC Project (laureate)
 - 2019 - EXploring Collective Care in Research: A pilot-study with PhD Students (#ExCCiR-PhD) (2019). Proposal for the CRI Research Fellowship Open Health. Open Access on [Zenodo](https://zenodo.org/record/2571546) licence CC-BY-S
 
-
-### Books contribution
-
-- Gruson-Daniel Célya.(2023)  « Science ouverte : Comment l’exploration des différentes définitions de la science ouverte nous plonge dans les coulisses de la fabrique de la science à l’ère numérique ? » In Petit Dico critique du big data, par Théviot Anais, 216, Fyp editions.,  https://boutique.fypeditions.com/products/petit-dico-critique-du-big-data.
-- Gruson-Daniel, Célya. (2018). “Les outils numériques d’analyse de données (logiciels, bases de données).” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, ESBC Éditions science et bien commun. [Chapitre en libre accès](https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-de-la-recherche-logiciels-bases-de-donnees/).
-- Gruson-Daniel, Célya. (2018). “Les outils numériques d’enquête.” In Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines, (ESBC). Éditions science et bien commun. [Chapitre en libre accès](https://scienceetbiencommun.pressbooks.pub/projetthese/chapter/les-outils-numeriques-denquete/).
-- Gruson-Daniel Célya (2014). « Open Science ou la Science Ouverte », in Lejeune Yannick (dir.), [Big, fast & open data. Décrire, décrypter et prédire le monde : l’avènement des données](http://www.fypeditions.com/big-fast-open-data-decrire-decrypter-predire-monde-lavenement-donnees/). FYP éditions, pp. 192.
-- Gruson-Daniel Célya (2014). « Open Science : cartographie et entretiens », in Benyayer Louis-David (dir.), [OpenModels : Les business Models de l'économie ouverte](http://openmodels.fr/fr/pages/181/). Without Model. p.181-201
 
 ## Scientific events organization
 
