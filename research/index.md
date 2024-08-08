@@ -38,7 +38,7 @@ En tant que praticienne-chercheuse chez Inno³, j'ai poursuivi ces recherches da
  	
 Depuis 2024, mes projets de recherche s'orientent vers une thématique plus générale : l'accompagnement des modèles ouverts dans une perspective de soutenabilité. Ces recherches sont structurées au sein d'Inno³ par [programme de recherche-action ouverte](https://inno3.fr/activites/recherche/), abordant les dynamiques des communautés open source, l'implémentation d'approches en communs dans les organisations, les leviers organisationnels et juridiques à mettre en oeuvre pour soutenir ces modèles ou encore une réflexion sur les métriques et indicateurs de valorisation adaptés. Ces recherches sont menées avec l'appui d'une équipe interdisciplinaire (droit, STS, design, etc.) et reposent sur quatre piliers : méthodes mixtes, co-design et recherche UX, science ouverte, réflexivité et éthique.
 
-CV Recherche consultable en ligne [ici](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
+- CV Recherche consultable en ligne [ici](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
 
 ------
 
@@ -111,7 +111,7 @@ As a practitioner-researcher at Inno³, I continued this work through an action-
 
 Since 2024, my research projects have shifted towards a broader theme: supporting open models from a sustainability perspective. These studies are structured within Inno³ by an open action-research program, addressing both the dynamics of open-source communities and the implementation of commons-based approaches in organizations, as well as reflecting on metrics and valuation indicators adapted to open models. These studies are conducted with the support of an interdisciplinary team (law, STS, design, etc.) and are based on four pillars: mixed methods, co-design and UX research, open science, reflexivity, and ethics.
 
-Research CV available [here](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
+- Research CV available [here](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZoNEakpxTnSPR4T5HZ5kLCs5AnPXk/edit?usp=sharing)
 
 -----
 
@@ -127,7 +127,8 @@ Research CV available [here](https://docs.google.com/document/d/1L-MDJUjAjAPwjJZ
 
 - Specialization in mixed methods (quantitative and qualitative) and data science approaches in the humanities and social sciences (Digital Humanities).
 - Grounded Theory and traceability of the qualitative research process.
-  - Proficiency in various digital tools within an open science and data science framework: bibliographic management with Zotero, data organization and processing with Python, collaborative work and version control with GitLab/GitHub.
+- Proficiency in various digital tools within an open science and data science framework: bibliographic management with Zotero, data organization and processing with Python, collaborative work and version control with GitLab/GitHub.
+
 ----
 
 ## Research Projects <a name="projects"></a>
