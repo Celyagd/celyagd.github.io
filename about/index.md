@@ -21,24 +21,17 @@ image:
 
 #### Un parcours interdisciplinaire à la croisée entre sciences sociales et sciences cognitives
 
-- Chercheuse associée au ([Costech](http://www.utc.fr/costech/)/UTC)
+- Chercheuse associée au [Costech](http://www.utc.fr/costech/) (UTC)
 - Docteure en sciences sociales (STS/SIC) spécialisée sur les questions d'_open access/science_ et sur l'impact du numérique sur les relations sciences/société (data science, éthique, transformations économiques et sociales).
-- Diplômée de l'École Normale Supérieure et d'un Master en Neurosciences cognitives et comportementales (UPMC)
+- Diplômée de l'École Normale Supérieure (ENS Ulm) avec un Master en Neurosciences cognitives et comportementales (UPMC)
 
 #### Un engagement dans des projets associatifs et entreprenariaux pour des sociétés numériques durables
 
-- Consultante et praticienne-chercheuse chez [Inno3](https://inno3.fr/), cabinet de conseil spécialisé en modèles ouverts ( _open data_, _open source_ et _open science_). En charge des projets de recherche (CIR)
+- Consultante et praticienne-chercheuse chez [Inno3](https://inno3.fr/), cabinet de conseil spécialisé sur l'accompagnement de modèles ouverts ( _open data_, _open source_ et _open science_) et de leur pérennisation. Responsable des projets de recherche-action.
 
-- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) désormais [HackYourResearch](http://www.hyr.science/): groupe de réflexion sur la science ouverte/ _open science_ et la prise en considération des connaissances comme communs. Association en dormance désormais. 
-
-#### Une approche intégrative de la production de savoirs (perspective _mind/body_)
-
-- Co-fondatrice de l'association [Ancre des Savoirs] pour questionner la place des pratiques « bien-être» par le biais des sciences sociales et scienes cognitives
+- Co-fondatrice de [HackYourPhD](http://www.hackyourphd.org) désormais [HackYourResearch](http://www.hyr.science/): groupe de réflexion sur la science ouverte/ _open science_ et la prise en considération des connaissances comme communs. Association actuellement en sommeil. 
 
 ----
-
-Pour en savoir plus sur mon parcours : mon CV est en ligne et tenu à jour sur Linkedin [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
-
 
 ## Que trouverez-vous sur ce site ?
 
@@ -50,36 +43,31 @@ Vous y trouverez :
 - Quelques articles de blog écrits pour différents sites (MyScienWork, HackYourPhD, Centre Virchow-Villermé, Inno³) ==> par [là](http://celyagd.github.io/blog/)
 
 
+
 ### English <a name="english"></a>
 
 ### What defines me today? ##
 
-#### An interdisciplinary curriculum at the crossroads between social and cognitive sciences
+#### An interdisciplinary background at the intersection of social sciences and cognitive sciences
 
 - Associate Researcher at ([Costech](http://www.utc.fr/costech/)/UTC)
-- Doctor of Social Sciences (STS/SIC) specializing in _open access/science_ issues and the impact of digital technology on science/society relations (data science, ethics, economic and social transformations).
-- Graduate of the École Normale Supérieure and a Master's degree in Cognitive and Behavioural Neurosciences (UPMC).
+- PhD in Social Sciences (STS/SIC) with a focus on _open access/science_ issues and the impact of digital technology on science/society relations (data science, ethics, economic and social transformations).
+- Graduate of the École Normale Supérieure with a Master's degree in Cognitive and Behavioural Neurosciences (UPMC).
 
-#### A commitment to associative and entrepreneurial projects for sustainable digital societies
+#### Commitment to associative and entrepreneurial projects for sustainable digital societies
 
-- Consultant (practitioner-researcher) at [Inno3](https://inno3.fr/), a consulting company specialized in open models ( open data, open source, open science). In charge of the research projects (Fundings, etc.).
+- Consultant and practitioner-researcher at [Inno3](https://inno3.fr/), a consulting firm specializing in supporting in open models ( open data, open source, open science) and ensuring their sustainability. Responsible for Action-Research projects.
 
-- Co-founder of [HackYourPhD](http://www.hackyourphd.org) now [HackYourResearch](http://www.hyr.science/): think tank on open science and the acknowledgement of knowledge as common. Not anymore active for now. 
-
-#### An integrative approach to knowledge production (mind/body perspective)
-
-- Co-founder of the association [Ancre des Savoirs] to question the place of "well-being" practices through the social sciences and cognitive sciences.
-
-To know more about my background : my CV is on [Linkedin](https://www.linkedin.com/in/celyagrusondaniel)
+- Co-founder of [HackYourPhD](http://www.hackyourphd.org) now [HackYourResearch](http://www.hyr.science/): a think tank on open science and the recognition of knowledge as commons. The association is currently inactive.
 
 ----
 
-## What would you find on this website ?
+## What will you find on this website?
 
 Informations about :
 
-- My research activities (Publications, Academic Presentation, Open Notebook...) ==> [here](http://celyagd.github.io/research/)
-- My Open Science activities mainly with HackYourResearch (Events, Presentations...) ==> [there](http://celyagd.github.io/openscience/)
-- My teaching coordination activities (MOOC, Master, etc.)
+- My research activities (publications, presentation, and ongoing projects...) ==> [here](http://celyagd.github.io/research/)
+- My associative engagements related to open science, higher education, research and digital technologies ==> [there](http://celyagd.github.io/openscience/)
+- My teaching  activities (MOOC's, Master's courses, etc.)
  ==> [here](http://celyagd.github.io/teaching/)
-- A few blog articles written first for different websites (MyScienceWork, HackYourPhD, Centre Virchow-Villermé, Inno3) ==> [there](http://celyagd.github.io/blog/)
+- A selection of blog posts written for various platforms (MyScienceWork, HackYourPhD, Centre Virchow-Villermé, Inno3) ==> [there](http://celyagd.github.io/blog/)
