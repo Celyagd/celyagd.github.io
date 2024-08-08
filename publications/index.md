@@ -18,7 +18,7 @@ Full publications list [here](https://docs.google.com/document/d/1O81Xry7a-uM3Wh
 
 ### Scientific publications, reports and conference papers
 
-- Le Béchec Mariannig, Gruson-Daniel Célya, Lascombes Clémence, Schultz Émilien. Notebooks et science ouverte : FAIR mieux. 2024. ⟨hal-04485968⟩,   `pre-print`
+- Le Béchec Mariannig, Gruson-Daniel Célya, Lascombes Clémence, Schultz Émilien. Notebooks et science ouverte : FAIR mieux. 2024. [HAL](https://hal.science/hal-04485968) `pre-print`
 - Gruson-Daniel, Célya, Jean Benjamin, Medjaoui Mehdi, Boyd Mark. 2023, « Improving Trustworthy and Sustainability Digital Infrastructures with The Fair API Commitment to Trust Model ». Inno3 ; Les mainteneurs ; Platformable,. [HAL](https://hal.science/hal-04180319)  `reports`
 - Gruson-Daniel, Célya, et Groupe Projet Réussir L’Appropriation De La Science Ouverte. 2022. « Décliner la science ouverte ». Report, Comité pour la science ouverte. [HAL](https://doi.org/10.52949/27), [synthèse FR](https://hal-lara.archives-ouvertes.fr/hal-0379858) et [EN](https://hal-lara.archives-ouvertes.fr/hal-03800470) et [site web](decliner-so.pubpub.org)  `reports`
 - Gruson-Daniel Célya. 2021. Enquêter sur la science ouverte : regard réflexif sur la construction individuelle et collective d'une posture de recherche. “Enquêter sur les pratiques numériques au sein des communautés scientifiques: regards sur les outils et les données au prisme de la science ouverte” , Paris, France. [HAL](https://halshs.archives-ouvertes.fr/halshs-03764503) `conference papers`
